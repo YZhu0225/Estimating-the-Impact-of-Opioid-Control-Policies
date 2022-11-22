@@ -4,7 +4,6 @@ def merge_pop_datasets(early_pop_link, later_pop_link, state_abbrev):
     Input: early_link, later_link, state
         early_pop_link: the dropbox link to the 2000-2009 population dataset
         later_pop_link: the dropbox link to the 2010-2019 population dataset
-        state: the state name
         state_abbrev: the state abbreviation
     return: a pandas dataframe with the merged population data
     '''
