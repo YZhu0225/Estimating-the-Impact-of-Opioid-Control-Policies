@@ -1,0 +1,3601 @@
+STNAME,CTYNAME,YEAR,POPULATION
+Arizona,Apache County,2000,69516
+Arizona,Cochise County,2000,118028
+Arizona,Coconino County,2000,116717
+Arizona,Gila County,2000,51355
+Arizona,Graham County,2000,33541
+Arizona,Greenlee County,2000,8542
+Arizona,La Paz County,2000,19643
+Arizona,Maricopa County,2000,3097378
+Arizona,Mohave County,2000,156194
+Arizona,Navajo County,2000,97876
+Arizona,Pima County,2000,848521
+Arizona,Pinal County,2000,181283
+Arizona,Santa Cruz County,2000,38542
+Arizona,Yavapai County,2000,168886
+Arizona,Yuma County,2000,160675
+Arizona,Apache County,2001,67857
+Arizona,Cochise County,2001,118573
+Arizona,Coconino County,2001,117803
+Arizona,Gila County,2001,51165
+Arizona,Graham County,2001,33307
+Arizona,Greenlee County,2001,8281
+Arizona,La Paz County,2001,19537
+Arizona,Maricopa County,2001,3200075
+Arizona,Mohave County,2001,159840
+Arizona,Navajo County,2001,98549
+Arizona,Pima County,2001,865694
+Arizona,Pinal County,2001,188370
+Arizona,Santa Cruz County,2001,38914
+Arizona,Yavapai County,2001,173285
+Arizona,Yuma County,2001,163167
+Arizona,Apache County,2002,67267
+Arizona,Cochise County,2002,119750
+Arizona,Coconino County,2002,120390
+Arizona,Gila County,2002,51225
+Arizona,Graham County,2002,33120
+Arizona,Greenlee County,2002,7706
+Arizona,La Paz County,2002,19346
+Arizona,Maricopa County,2002,3299127
+Arizona,Mohave County,2002,165177
+Arizona,Navajo County,2002,101358
+Arizona,Pima County,2002,886063
+Arizona,Pinal County,2002,197830
+Arizona,Santa Cruz County,2002,39288
+Arizona,Yavapai County,2002,178390
+Arizona,Yuma County,2002,166071
+Arizona,Apache County,2003,67938
+Arizona,Cochise County,2003,121175
+Arizona,Coconino County,2003,121545
+Arizona,Gila County,2003,50906
+Arizona,Graham County,2003,32785
+Arizona,Greenlee County,2003,7381
+Arizona,La Paz County,2003,19516
+Arizona,Maricopa County,2003,3391391
+Arizona,Mohave County,2003,171019
+Arizona,Navajo County,2003,103220
+Arizona,Pima County,2003,903320
+Arizona,Pinal County,2003,208772
+Arizona,Santa Cruz County,2003,39541
+Arizona,Yavapai County,2003,183400
+Arizona,Yuma County,2003,169297
+Arizona,Apache County,2004,67943
+Arizona,Cochise County,2004,123235
+Arizona,Coconino County,2004,123349
+Arizona,Gila County,2004,50848
+Arizona,Graham County,2004,32441
+Arizona,Greenlee County,2004,7307
+Arizona,La Paz County,2004,19696
+Arizona,Maricopa County,2004,3502635
+Arizona,Mohave County,2004,178313
+Arizona,Navajo County,2004,105020
+Arizona,Pima County,2004,924205
+Arizona,Pinal County,2004,220724
+Arizona,Santa Cruz County,2004,40177
+Arizona,Yavapai County,2004,189532
+Arizona,Yuma County,2004,174000
+Arizona,Apache County,2005,68250
+Arizona,Cochise County,2005,125637
+Arizona,Coconino County,2005,124804
+Arizona,Gila County,2005,50914
+Arizona,Graham County,2005,32629
+Arizona,Greenlee County,2005,7292
+Arizona,La Paz County,2005,20007
+Arizona,Maricopa County,2005,3647131
+Arizona,Mohave County,2005,185940
+Arizona,Navajo County,2005,106968
+Arizona,Pima County,2005,948965
+Arizona,Pinal County,2005,237457
+Arizona,Santa Cruz County,2005,41113
+Arizona,Yavapai County,2005,197533
+Arizona,Yuma County,2005,180194
+Arizona,Apache County,2006,69066
+Arizona,Cochise County,2006,126751
+Arizona,Coconino County,2006,126029
+Arizona,Gila County,2006,51635
+Arizona,Graham County,2006,33286
+Arizona,Greenlee County,2006,7465
+Arizona,La Paz County,2006,20118
+Arizona,Maricopa County,2006,3776118
+Arizona,Mohave County,2006,192724
+Arizona,Navajo County,2006,109000
+Arizona,Pima County,2006,975476
+Arizona,Pinal County,2006,270453
+Arizona,Santa Cruz County,2006,42040
+Arizona,Yavapai County,2006,206672
+Arizona,Yuma County,2006,185267
+Arizona,Apache County,2007,69278
+Arizona,Cochise County,2007,127736
+Arizona,Coconino County,2007,127451
+Arizona,Gila County,2007,52231
+Arizona,Graham County,2007,34736
+Arizona,Greenlee County,2007,7760
+Arizona,La Paz County,2007,20133
+Arizona,Maricopa County,2007,3872962
+Arizona,Mohave County,2007,195852
+Arizona,Navajo County,2007,110999
+Arizona,Pima County,2007,996593
+Arizona,Pinal County,2007,302633
+Arizona,Santa Cruz County,2007,42692
+Arizona,Yavapai County,2007,212004
+Arizona,Yuma County,2007,189181
+Arizona,Apache County,2008,69520
+Arizona,Cochise County,2008,128425
+Arizona,Coconino County,2008,128426
+Arizona,Gila County,2008,52273
+Arizona,Graham County,2008,36204
+Arizona,Greenlee County,2008,8058
+Arizona,La Paz County,2008,20005
+Arizona,Maricopa County,2008,3958263
+Arizona,Mohave County,2008,195601
+Arizona,Navajo County,2008,112348
+Arizona,Pima County,2008,1009832
+Arizona,Pinal County,2008,329060
+Arizona,Santa Cruz County,2008,43133
+Arizona,Yavapai County,2008,214930
+Arizona,Yuma County,2008,193299
+Arizona,Apache County,2009,70591
+Arizona,Cochise County,2009,129518
+Arizona,Coconino County,2009,129849
+Arizona,Gila County,2009,52199
+Arizona,Graham County,2009,37045
+Arizona,Greenlee County,2009,8041
+Arizona,La Paz County,2009,20012
+Arizona,Maricopa County,2009,4023132
+Arizona,Mohave County,2009,194825
+Arizona,Navajo County,2009,112975
+Arizona,Pima County,2009,1020200
+Arizona,Pinal County,2009,340962
+Arizona,Santa Cruz County,2009,43771
+Arizona,Yavapai County,2009,215686
+Arizona,Yuma County,2009,196972
+Arizona,Apache County,2010,71828
+Arizona,Cochise County,2010,131823
+Arizona,Coconino County,2010,134624
+Arizona,Gila County,2010,53565
+Arizona,Graham County,2010,37154
+Arizona,Greenlee County,2010,8342
+Arizona,La Paz County,2010,20499
+Arizona,Maricopa County,2010,3825183
+Arizona,Mohave County,2010,200336
+Arizona,Navajo County,2010,107693
+Arizona,Pima County,2010,981649
+Arizona,Pinal County,2010,379106
+Arizona,Santa Cruz County,2010,47402
+Arizona,Yavapai County,2010,210990
+Arizona,Yuma County,2010,197148
+Arizona,Apache County,2011,72181
+Arizona,Cochise County,2011,133124
+Arizona,Coconino County,2011,134309
+Arizona,Gila County,2011,53445
+Arizona,Graham County,2011,37129
+Arizona,Greenlee County,2011,8587
+Arizona,La Paz County,2011,20606
+Arizona,Maricopa County,2011,3875371
+Arizona,Mohave County,2011,202888
+Arizona,Navajo County,2011,107560
+Arizona,Pima County,2011,988500
+Arizona,Pinal County,2011,378114
+Arizona,Santa Cruz County,2011,47640
+Arizona,Yavapai County,2011,211081
+Arizona,Yuma County,2011,202881
+Arizona,Apache County,2012,72231
+Arizona,Cochise County,2012,132085
+Arizona,Coconino County,2012,136204
+Arizona,Gila County,2012,53009
+Arizona,Graham County,2012,37027
+Arizona,Greenlee County,2012,8764
+Arizona,La Paz County,2012,20524
+Arizona,Maricopa County,2012,3948165
+Arizona,Mohave County,2012,203484
+Arizona,Navajo County,2012,107334
+Arizona,Pima County,2012,993231
+Arizona,Pinal County,2012,382371
+Arizona,Santa Cruz County,2012,47330
+Arizona,Yavapai County,2012,212065
+Arizona,Yuma County,2012,202520
+Arizona,Apache County,2013,72333
+Arizona,Cochise County,2013,129664
+Arizona,Coconino County,2013,136788
+Arizona,Gila County,2013,53026
+Arizona,Graham County,2013,37456
+Arizona,Greenlee County,2013,8918
+Arizona,La Paz County,2013,20526
+Arizona,Maricopa County,2013,4018657
+Arizona,Mohave County,2013,203322
+Arizona,Navajo County,2013,107164
+Arizona,Pima County,2013,997374
+Arizona,Pinal County,2013,385574
+Arizona,Santa Cruz County,2013,46902
+Arizona,Yavapai County,2013,214539
+Arizona,Yuma County,2013,202447
+Arizona,Apache County,2014,71808
+Arizona,Cochise County,2014,127437
+Arizona,Coconino County,2014,137675
+Arizona,Gila County,2014,53074
+Arizona,Graham County,2014,38123
+Arizona,Greenlee County,2014,9356
+Arizona,La Paz County,2014,20521
+Arizona,Maricopa County,2014,4094842
+Arizona,Mohave County,2014,203670
+Arizona,Navajo County,2014,107741
+Arizona,Pima County,2014,1004521
+Arizona,Pinal County,2014,395563
+Arizona,Santa Cruz County,2014,46596
+Arizona,Yavapai County,2014,217882
+Arizona,Yuma County,2014,204064
+Arizona,Apache County,2015,71026
+Arizona,Cochise County,2015,126594
+Arizona,Coconino County,2015,139100
+Arizona,Gila County,2015,53020
+Arizona,Graham County,2015,37888
+Arizona,Greenlee County,2015,9587
+Arizona,La Paz County,2015,20476
+Arizona,Maricopa County,2015,4174423
+Arizona,Mohave County,2015,204890
+Arizona,Navajo County,2015,107695
+Arizona,Pima County,2015,1009490
+Arizona,Pinal County,2015,405922
+Arizona,Santa Cruz County,2015,46493
+Arizona,Yavapai County,2015,221019
+Arizona,Yuma County,2015,205187
+Arizona,Apache County,2016,71418
+Arizona,Cochise County,2016,125885
+Arizona,Coconino County,2016,140609
+Arizona,Gila County,2016,53400
+Arizona,Graham County,2016,37859
+Arizona,Greenlee County,2016,9642
+Arizona,La Paz County,2016,20670
+Arizona,Maricopa County,2016,4258019
+Arizona,Mohave County,2016,205899
+Arizona,Navajo County,2016,108569
+Arizona,Pima County,2016,1017083
+Arizona,Pinal County,2016,417312
+Arizona,Santa Cruz County,2016,46412
+Arizona,Yavapai County,2016,224828
+Arizona,Yuma County,2016,207162
+Arizona,Apache County,2017,71538
+Arizona,Cochise County,2017,125048
+Arizona,Coconino County,2017,141300
+Arizona,Gila County,2017,53619
+Arizona,Graham County,2017,37530
+Arizona,Greenlee County,2017,9451
+Arizona,La Paz County,2017,20737
+Arizona,Maricopa County,2017,4329227
+Arizona,Mohave County,2017,207668
+Arizona,Navajo County,2017,109145
+Arizona,Pima County,2017,1027115
+Arizona,Pinal County,2017,431490
+Arizona,Santa Cruz County,2017,46578
+Arizona,Yavapai County,2017,228398
+Arizona,Yuma County,2017,209244
+Arizona,Apache County,2018,71819
+Arizona,Cochise County,2018,126581
+Arizona,Coconino County,2018,142914
+Arizona,Gila County,2018,53833
+Arizona,Graham County,2018,38032
+Arizona,Greenlee County,2018,9424
+Arizona,La Paz County,2018,21030
+Arizona,Maricopa County,2018,4405306
+Arizona,Mohave County,2018,210371
+Arizona,Navajo County,2018,110490
+Arizona,Pima County,2018,1037746
+Arizona,Pinal County,2018,446524
+Arizona,Santa Cruz County,2018,46446
+Arizona,Yavapai County,2018,232467
+Arizona,Yuma County,2018,211245
+Arizona,Apache County,2019,71920
+Arizona,Cochise County,2019,127248
+Arizona,Coconino County,2019,143967
+Arizona,Gila County,2019,54077
+Arizona,Graham County,2019,38890
+Arizona,Greenlee County,2019,9467
+Arizona,La Paz County,2019,21257
+Arizona,Maricopa County,2019,4492261
+Arizona,Mohave County,2019,213846
+Arizona,Navajo County,2019,111037
+Arizona,Pima County,2019,1049261
+Arizona,Pinal County,2019,461640
+Arizona,Santa Cruz County,2019,46728
+Arizona,Yavapai County,2019,236062
+Arizona,Yuma County,2019,214182
+Colorado,Adams County,2000,350961
+Colorado,Alamosa County,2000,14964
+Colorado,Arapahoe County,2000,491701
+Colorado,Archuleta County,2000,10038
+Colorado,Baca County,2000,4501
+Colorado,Bent County,2000,5968
+Colorado,Boulder County,2000,271669
+Colorado,Broomfield County,2000,39563
+Colorado,Chaffee County,2000,16315
+Colorado,Cheyenne County,2000,2218
+Colorado,Clear Creek County,2000,9310
+Colorado,Conejos County,2000,8398
+Colorado,Costilla County,2000,3668
+Colorado,Crowley County,2000,5533
+Colorado,Custer County,2000,3514
+Colorado,Delta County,2000,27916
+Colorado,Denver County,2000,556094
+Colorado,Dolores County,2000,1846
+Colorado,Douglas County,2000,180311
+Colorado,Eagle County,2000,41987
+Colorado,Elbert County,2000,20099
+Colorado,El Paso County,2000,519463
+Colorado,Fremont County,2000,46277
+Colorado,Garfield County,2000,44259
+Colorado,Gilpin County,2000,4816
+Colorado,Grand County,2000,12490
+Colorado,Gunnison County,2000,14006
+Colorado,Hinsdale County,2000,790
+Colorado,Huerfano County,2000,7823
+Colorado,Jackson County,2000,1576
+Colorado,Jefferson County,2000,526471
+Colorado,Kiowa County,2000,1614
+Colorado,Kit Carson County,2000,7978
+Colorado,Lake County,2000,7832
+Colorado,La Plata County,2000,44221
+Colorado,Larimer County,2000,253152
+Colorado,Las Animas County,2000,15276
+Colorado,Lincoln County,2000,6064
+Colorado,Logan County,2000,20647
+Colorado,Mesa County,2000,117488
+Colorado,Mineral County,2000,837
+Colorado,Moffat County,2000,13166
+Colorado,Montezuma County,2000,23863
+Colorado,Montrose County,2000,33600
+Colorado,Morgan County,2000,27256
+Colorado,Otero County,2000,20248
+Colorado,Ouray County,2000,3776
+Colorado,Park County,2000,14696
+Colorado,Phillips County,2000,4455
+Colorado,Pitkin County,2000,14790
+Colorado,Prowers County,2000,14444
+Colorado,Pueblo County,2000,141839
+Colorado,Rio Blanco County,2000,5979
+Colorado,Rio Grande County,2000,12429
+Colorado,Routt County,2000,19828
+Colorado,Saguache County,2000,5978
+Colorado,San Juan County,2000,559
+Colorado,San Miguel County,2000,6616
+Colorado,Sedgwick County,2000,2743
+Colorado,Summit County,2000,23701
+Colorado,Teller County,2000,20648
+Colorado,Washington County,2000,4942
+Colorado,Weld County,2000,183045
+Colorado,Yuma County,2000,9815
+Colorado,Adams County,2001,360348
+Colorado,Alamosa County,2001,14991
+Colorado,Arapahoe County,2001,502810
+Colorado,Archuleta County,2001,10492
+Colorado,Baca County,2001,4468
+Colorado,Bent County,2001,5763
+Colorado,Boulder County,2001,278981
+Colorado,Broomfield County,2001,41436
+Colorado,Chaffee County,2001,16388
+Colorado,Cheyenne County,2001,2173
+Colorado,Clear Creek County,2001,9400
+Colorado,Conejos County,2001,8320
+Colorado,Costilla County,2001,3576
+Colorado,Crowley County,2001,5681
+Colorado,Custer County,2001,3636
+Colorado,Delta County,2001,28147
+Colorado,Denver County,2001,564411
+Colorado,Dolores County,2001,1835
+Colorado,Douglas County,2001,197344
+Colorado,Eagle County,2001,43381
+Colorado,Elbert County,2001,21167
+Colorado,El Paso County,2001,535549
+Colorado,Fremont County,2001,46747
+Colorado,Garfield County,2001,45579
+Colorado,Gilpin County,2001,4833
+Colorado,Grand County,2001,12645
+Colorado,Gunnison County,2001,14194
+Colorado,Hinsdale County,2001,815
+Colorado,Huerfano County,2001,7869
+Colorado,Jackson County,2001,1522
+Colorado,Jefferson County,2001,529690
+Colorado,Kiowa County,2001,1534
+Colorado,Kit Carson County,2001,7974
+Colorado,Lake County,2001,7839
+Colorado,La Plata County,2001,45103
+Colorado,Larimer County,2001,260746
+Colorado,Las Animas County,2001,15119
+Colorado,Lincoln County,2001,5866
+Colorado,Logan County,2001,21271
+Colorado,Mesa County,2001,119287
+Colorado,Mineral County,2001,821
+Colorado,Moffat County,2001,13145
+Colorado,Montezuma County,2001,23707
+Colorado,Montrose County,2001,34342
+Colorado,Morgan County,2001,27281
+Colorado,Otero County,2001,20008
+Colorado,Ouray County,2001,3808
+Colorado,Park County,2001,15346
+Colorado,Phillips County,2001,4470
+Colorado,Pitkin County,2001,14909
+Colorado,Prowers County,2001,14251
+Colorado,Pueblo County,2001,144130
+Colorado,Rio Blanco County,2001,5846
+Colorado,Rio Grande County,2001,12172
+Colorado,Routt County,2001,20214
+Colorado,Saguache County,2001,6155
+Colorado,San Juan County,2001,567
+Colorado,San Miguel County,2001,6885
+Colorado,Sedgwick County,2001,2650
+Colorado,Summit County,2001,24715
+Colorado,Teller County,2001,21055
+Colorado,Washington County,2001,4816
+Colorado,Weld County,2001,193060
+Colorado,Yuma County,2001,9785
+Colorado,Adams County,2002,371781
+Colorado,Alamosa County,2002,15168
+Colorado,Arapahoe County,2002,509598
+Colorado,Archuleta County,2002,10951
+Colorado,Baca County,2002,4331
+Colorado,Bent County,2002,5903
+Colorado,Boulder County,2002,281941
+Colorado,Broomfield County,2002,42522
+Colorado,Chaffee County,2002,16668
+Colorado,Cheyenne County,2002,2100
+Colorado,Clear Creek County,2002,9492
+Colorado,Conejos County,2002,8299
+Colorado,Costilla County,2002,3557
+Colorado,Crowley County,2002,5792
+Colorado,Custer County,2002,3667
+Colorado,Delta County,2002,28764
+Colorado,Denver County,2002,561072
+Colorado,Dolores County,2002,1842
+Colorado,Douglas County,2002,210037
+Colorado,Eagle County,2002,44477
+Colorado,Elbert County,2002,21779
+Colorado,El Paso County,2002,544815
+Colorado,Fremont County,2002,47197
+Colorado,Garfield County,2002,46793
+Colorado,Gilpin County,2002,4859
+Colorado,Grand County,2002,12959
+Colorado,Gunnison County,2002,14314
+Colorado,Hinsdale County,2002,797
+Colorado,Huerfano County,2002,7921
+Colorado,Jackson County,2002,1521
+Colorado,Jefferson County,2002,529191
+Colorado,Kiowa County,2002,1485
+Colorado,Kit Carson County,2002,8203
+Colorado,Lake County,2002,7819
+Colorado,La Plata County,2002,45979
+Colorado,Larimer County,2002,265659
+Colorado,Las Animas County,2002,15443
+Colorado,Lincoln County,2002,5857
+Colorado,Logan County,2002,21229
+Colorado,Mesa County,2002,122131
+Colorado,Mineral County,2002,857
+Colorado,Moffat County,2002,13304
+Colorado,Montezuma County,2002,23943
+Colorado,Montrose County,2002,35108
+Colorado,Morgan County,2002,27499
+Colorado,Otero County,2002,19673
+Colorado,Ouray County,2002,3914
+Colorado,Park County,2002,15919
+Colorado,Phillips County,2002,4521
+Colorado,Pitkin County,2002,14909
+Colorado,Prowers County,2002,14170
+Colorado,Pueblo County,2002,146735
+Colorado,Rio Blanco County,2002,5909
+Colorado,Rio Grande County,2002,12157
+Colorado,Routt County,2002,20446
+Colorado,Saguache County,2002,6442
+Colorado,San Juan County,2002,568
+Colorado,San Miguel County,2002,7156
+Colorado,Sedgwick County,2002,2673
+Colorado,Summit County,2002,24966
+Colorado,Teller County,2002,21276
+Colorado,Washington County,2002,4943
+Colorado,Weld County,2002,203570
+Colorado,Yuma County,2002,9694
+Colorado,Adams County,2003,378785
+Colorado,Alamosa County,2003,15125
+Colorado,Arapahoe County,2003,514406
+Colorado,Archuleta County,2003,11167
+Colorado,Baca County,2003,4106
+Colorado,Bent County,2003,6144
+Colorado,Boulder County,2003,282126
+Colorado,Broomfield County,2003,45098
+Colorado,Chaffee County,2003,16678
+Colorado,Cheyenne County,2003,1986
+Colorado,Clear Creek County,2003,9335
+Colorado,Conejos County,2003,8220
+Colorado,Costilla County,2003,3522
+Colorado,Crowley County,2003,5627
+Colorado,Custer County,2003,3794
+Colorado,Delta County,2003,28988
+Colorado,Denver County,2003,558351
+Colorado,Dolores County,2003,1802
+Colorado,Douglas County,2003,221978
+Colorado,Eagle County,2003,45312
+Colorado,Elbert County,2003,21953
+Colorado,El Paso County,2003,551129
+Colorado,Fremont County,2003,47108
+Colorado,Garfield County,2003,47388
+Colorado,Gilpin County,2003,4867
+Colorado,Grand County,2003,13017
+Colorado,Gunnison County,2003,14254
+Colorado,Hinsdale County,2003,777
+Colorado,Huerfano County,2003,7934
+Colorado,Jackson County,2003,1494
+Colorado,Jefferson County,2003,526426
+Colorado,Kiowa County,2003,1452
+Colorado,Kit Carson County,2003,8072
+Colorado,Lake County,2003,7691
+Colorado,La Plata County,2003,46258
+Colorado,Larimer County,2003,268671
+Colorado,Las Animas County,2003,15720
+Colorado,Lincoln County,2003,5786
+Colorado,Logan County,2003,21286
+Colorado,Mesa County,2003,124510
+Colorado,Mineral County,2003,894
+Colorado,Moffat County,2003,13245
+Colorado,Montezuma County,2003,24239
+Colorado,Montrose County,2003,35674
+Colorado,Morgan County,2003,27634
+Colorado,Otero County,2003,19546
+Colorado,Ouray County,2003,3941
+Colorado,Park County,2003,16242
+Colorado,Phillips County,2003,4449
+Colorado,Pitkin County,2003,14923
+Colorado,Prowers County,2003,13992
+Colorado,Pueblo County,2003,147931
+Colorado,Rio Blanco County,2003,5859
+Colorado,Rio Grande County,2003,12192
+Colorado,Routt County,2003,20833
+Colorado,Saguache County,2003,6590
+Colorado,San Juan County,2003,572
+Colorado,San Miguel County,2003,7121
+Colorado,Sedgwick County,2003,2620
+Colorado,Summit County,2003,25313
+Colorado,Teller County,2003,21270
+Colorado,Washington County,2003,4890
+Colorado,Weld County,2003,210635
+Colorado,Yuma County,2003,9827
+Colorado,Adams County,2004,386663
+Colorado,Alamosa County,2004,15293
+Colorado,Arapahoe County,2004,519785
+Colorado,Archuleta County,2004,11374
+Colorado,Baca County,2004,4050
+Colorado,Bent County,2004,6195
+Colorado,Boulder County,2004,284815
+Colorado,Broomfield County,2004,46591
+Colorado,Chaffee County,2004,16725
+Colorado,Cheyenne County,2004,1932
+Colorado,Clear Creek County,2004,9048
+Colorado,Conejos County,2004,8235
+Colorado,Costilla County,2004,3497
+Colorado,Crowley County,2004,5920
+Colorado,Custer County,2004,3821
+Colorado,Delta County,2004,29402
+Colorado,Denver County,2004,558506
+Colorado,Dolores County,2004,1797
+Colorado,Douglas County,2004,234810
+Colorado,Eagle County,2004,46317
+Colorado,Elbert County,2004,22139
+Colorado,El Paso County,2004,558680
+Colorado,Fremont County,2004,46858
+Colorado,Garfield County,2004,47881
+Colorado,Gilpin County,2004,4861
+Colorado,Grand County,2004,13186
+Colorado,Gunnison County,2004,14315
+Colorado,Hinsdale County,2004,809
+Colorado,Huerfano County,2004,7714
+Colorado,Jackson County,2004,1463
+Colorado,Jefferson County,2004,522889
+Colorado,Kiowa County,2004,1394
+Colorado,Kit Carson County,2004,8098
+Colorado,Lake County,2004,7697
+Colorado,La Plata County,2004,46905
+Colorado,Larimer County,2004,271830
+Colorado,Las Animas County,2004,15588
+Colorado,Lincoln County,2004,5612
+Colorado,Logan County,2004,21122
+Colorado,Mesa County,2004,127095
+Colorado,Mineral County,2004,939
+Colorado,Moffat County,2004,13335
+Colorado,Montezuma County,2004,24429
+Colorado,Montrose County,2004,36192
+Colorado,Morgan County,2004,27607
+Colorado,Otero County,2004,19389
+Colorado,Ouray County,2004,4086
+Colorado,Park County,2004,16420
+Colorado,Phillips County,2004,4522
+Colorado,Pitkin County,2004,14834
+Colorado,Prowers County,2004,13784
+Colorado,Pueblo County,2004,148578
+Colorado,Rio Blanco County,2004,5918
+Colorado,Rio Grande County,2004,12193
+Colorado,Routt County,2004,21077
+Colorado,Saguache County,2004,6798
+Colorado,San Juan County,2004,580
+Colorado,San Miguel County,2004,7115
+Colorado,Sedgwick County,2004,2512
+Colorado,Summit County,2004,25177
+Colorado,Teller County,2004,21130
+Colorado,Washington County,2004,4777
+Colorado,Weld County,2004,217706
+Colorado,Yuma County,2004,9671
+Colorado,Adams County,2005,397463
+Colorado,Alamosa County,2005,15317
+Colorado,Arapahoe County,2005,525293
+Colorado,Archuleta County,2005,11623
+Colorado,Baca County,2005,3979
+Colorado,Bent County,2005,6169
+Colorado,Boulder County,2005,286545
+Colorado,Broomfield County,2005,48490
+Colorado,Chaffee County,2005,16710
+Colorado,Cheyenne County,2005,1875
+Colorado,Clear Creek County,2005,9011
+Colorado,Conejos County,2005,8190
+Colorado,Costilla County,2005,3370
+Colorado,Crowley County,2005,5939
+Colorado,Custer County,2005,3879
+Colorado,Delta County,2005,29491
+Colorado,Denver County,2005,561323
+Colorado,Dolores County,2005,1803
+Colorado,Douglas County,2005,246058
+Colorado,Eagle County,2005,47719
+Colorado,Elbert County,2005,22374
+Colorado,El Paso County,2005,567103
+Colorado,Fremont County,2005,46930
+Colorado,Garfield County,2005,49177
+Colorado,Gilpin County,2005,4939
+Colorado,Grand County,2005,13114
+Colorado,Gunnison County,2005,14403
+Colorado,Hinsdale County,2005,792
+Colorado,Huerfano County,2005,7763
+Colorado,Jackson County,2005,1422
+Colorado,Jefferson County,2005,522007
+Colorado,Kiowa County,2005,1385
+Colorado,Kit Carson County,2005,8010
+Colorado,Lake County,2005,7653
+Colorado,La Plata County,2005,47792
+Colorado,Larimer County,2005,275477
+Colorado,Las Animas County,2005,15608
+Colorado,Lincoln County,2005,5471
+Colorado,Logan County,2005,20849
+Colorado,Mesa County,2005,129457
+Colorado,Mineral County,2005,923
+Colorado,Moffat County,2005,13122
+Colorado,Montezuma County,2005,24468
+Colorado,Montrose County,2005,37069
+Colorado,Morgan County,2005,27567
+Colorado,Otero County,2005,19184
+Colorado,Ouray County,2005,4160
+Colorado,Park County,2005,16560
+Colorado,Phillips County,2005,4524
+Colorado,Pitkin County,2005,14905
+Colorado,Prowers County,2005,13684
+Colorado,Pueblo County,2005,149677
+Colorado,Rio Blanco County,2005,5832
+Colorado,Rio Grande County,2005,12043
+Colorado,Routt County,2005,21282
+Colorado,Saguache County,2005,6822
+Colorado,San Juan County,2005,565
+Colorado,San Miguel County,2005,7193
+Colorado,Sedgwick County,2005,2471
+Colorado,Summit County,2005,25287
+Colorado,Teller County,2005,21282
+Colorado,Washington County,2005,4718
+Colorado,Weld County,2005,225856
+Colorado,Yuma County,2005,9613
+Colorado,Adams County,2006,409532
+Colorado,Alamosa County,2006,15288
+Colorado,Arapahoe County,2006,532347
+Colorado,Archuleta County,2006,12096
+Colorado,Baca County,2006,3912
+Colorado,Bent County,2006,6070
+Colorado,Boulder County,2006,291449
+Colorado,Broomfield County,2006,51454
+Colorado,Chaffee County,2006,16626
+Colorado,Cheyenne County,2006,1833
+Colorado,Clear Creek County,2006,8869
+Colorado,Conejos County,2006,8083
+Colorado,Costilla County,2006,3341
+Colorado,Crowley County,2006,6242
+Colorado,Custer County,2006,3863
+Colorado,Delta County,2006,29899
+Colorado,Denver County,2006,568692
+Colorado,Dolores County,2006,1892
+Colorado,Douglas County,2006,259881
+Colorado,Eagle County,2006,49112
+Colorado,Elbert County,2006,22648
+Colorado,El Paso County,2006,579710
+Colorado,Fremont County,2006,47203
+Colorado,Garfield County,2006,51111
+Colorado,Gilpin County,2006,5034
+Colorado,Grand County,2006,13373
+Colorado,Gunnison County,2006,14656
+Colorado,Hinsdale County,2006,816
+Colorado,Huerfano County,2006,7774
+Colorado,Jackson County,2006,1383
+Colorado,Jefferson County,2006,524507
+Colorado,Kiowa County,2006,1360
+Colorado,Kit Carson County,2006,7948
+Colorado,Lake County,2006,7666
+Colorado,La Plata County,2006,48834
+Colorado,Larimer County,2006,281215
+Colorado,Las Animas County,2006,15725
+Colorado,Lincoln County,2006,5329
+Colorado,Logan County,2006,20895
+Colorado,Mesa County,2006,133651
+Colorado,Mineral County,2006,916
+Colorado,Moffat County,2006,13298
+Colorado,Montezuma County,2006,24907
+Colorado,Montrose County,2006,38098
+Colorado,Morgan County,2006,27639
+Colorado,Otero County,2006,18967
+Colorado,Ouray County,2006,4219
+Colorado,Park County,2006,16656
+Colorado,Phillips County,2006,4482
+Colorado,Pitkin County,2006,14905
+Colorado,Prowers County,2006,13370
+Colorado,Pueblo County,2006,151814
+Colorado,Rio Blanco County,2006,6033
+Colorado,Rio Grande County,2006,11839
+Colorado,Routt County,2006,21722
+Colorado,Saguache County,2006,6842
+Colorado,San Juan County,2006,574
+Colorado,San Miguel County,2006,7186
+Colorado,Sedgwick County,2006,2416
+Colorado,Summit County,2006,25745
+Colorado,Teller County,2006,21440
+Colorado,Washington County,2006,4666
+Colorado,Weld County,2006,234387
+Colorado,Yuma County,2006,9604
+Colorado,Adams County,2007,419607
+Colorado,Alamosa County,2007,15297
+Colorado,Arapahoe County,2007,543414
+Colorado,Archuleta County,2007,12479
+Colorado,Baca County,2007,3840
+Colorado,Bent County,2007,5785
+Colorado,Boulder County,2007,295691
+Colorado,Broomfield County,2007,53664
+Colorado,Chaffee County,2007,16858
+Colorado,Cheyenne County,2007,1781
+Colorado,Clear Creek County,2007,8933
+Colorado,Conejos County,2007,8006
+Colorado,Costilla County,2007,3303
+Colorado,Crowley County,2007,6471
+Colorado,Custer County,2007,3964
+Colorado,Delta County,2007,30219
+Colorado,Denver County,2007,578789
+Colorado,Dolores County,2007,1889
+Colorado,Douglas County,2007,271955
+Colorado,Eagle County,2007,50568
+Colorado,Elbert County,2007,22684
+Colorado,El Paso County,2007,585518
+Colorado,Fremont County,2007,47340
+Colorado,Garfield County,2007,52965
+Colorado,Gilpin County,2007,5070
+Colorado,Grand County,2007,13575
+Colorado,Gunnison County,2007,14988
+Colorado,Hinsdale County,2007,834
+Colorado,Huerfano County,2007,7705
+Colorado,Jackson County,2007,1369
+Colorado,Jefferson County,2007,528396
+Colorado,Kiowa County,2007,1305
+Colorado,Kit Carson County,2007,7871
+Colorado,Lake County,2007,7854
+Colorado,La Plata County,2007,49668
+Colorado,Larimer County,2007,286927
+Colorado,Las Animas County,2007,15815
+Colorado,Lincoln County,2007,5247
+Colorado,Logan County,2007,20908
+Colorado,Mesa County,2007,138289
+Colorado,Mineral County,2007,963
+Colorado,Moffat County,2007,13555
+Colorado,Montezuma County,2007,25108
+Colorado,Montrose County,2007,39452
+Colorado,Morgan County,2007,27552
+Colorado,Otero County,2007,18706
+Colorado,Ouray County,2007,4400
+Colorado,Park County,2007,16964
+Colorado,Phillips County,2007,4469
+Colorado,Pitkin County,2007,15099
+Colorado,Prowers County,2007,13006
+Colorado,Pueblo County,2007,154348
+Colorado,Rio Blanco County,2007,6198
+Colorado,Rio Grande County,2007,11621
+Colorado,Routt County,2007,22340
+Colorado,Saguache County,2007,6864
+Colorado,San Juan County,2007,574
+Colorado,San Miguel County,2007,7459
+Colorado,Sedgwick County,2007,2330
+Colorado,Summit County,2007,26234
+Colorado,Teller County,2007,21749
+Colorado,Washington County,2007,4597
+Colorado,Weld County,2007,242250
+Colorado,Yuma County,2007,9580
+Colorado,Adams County,2008,429597
+Colorado,Alamosa County,2008,15441
+Colorado,Arapahoe County,2008,554372
+Colorado,Archuleta County,2008,12497
+Colorado,Baca County,2008,3782
+Colorado,Bent County,2008,6058
+Colorado,Boulder County,2008,300452
+Colorado,Broomfield County,2008,54813
+Colorado,Chaffee County,2008,17000
+Colorado,Cheyenne County,2008,1779
+Colorado,Clear Creek County,2008,8910
+Colorado,Conejos County,2008,7980
+Colorado,Costilla County,2008,3246
+Colorado,Crowley County,2008,6498
+Colorado,Custer County,2008,3944
+Colorado,Delta County,2008,30834
+Colorado,Denver County,2008,593086
+Colorado,Dolores County,2008,1954
+Colorado,Douglas County,2008,281138
+Colorado,Eagle County,2008,52019
+Colorado,Elbert County,2008,22938
+Colorado,El Paso County,2008,595359
+Colorado,Fremont County,2008,47677
+Colorado,Garfield County,2008,54838
+Colorado,Gilpin County,2008,5238
+Colorado,Grand County,2008,13775
+Colorado,Gunnison County,2008,15222
+Colorado,Hinsdale County,2008,818
+Colorado,Huerfano County,2008,7765
+Colorado,Jackson County,2008,1340
+Colorado,Jefferson County,2008,533295
+Colorado,Kiowa County,2008,1272
+Colorado,Kit Carson County,2008,8128
+Colorado,Lake County,2008,7999
+Colorado,La Plata County,2008,50633
+Colorado,Larimer County,2008,292889
+Colorado,Las Animas County,2008,15901
+Colorado,Lincoln County,2008,5208
+Colorado,Logan County,2008,20718
+Colorado,Mesa County,2008,141905
+Colorado,Mineral County,2008,950
+Colorado,Moffat County,2008,13822
+Colorado,Montezuma County,2008,25150
+Colorado,Montrose County,2008,40484
+Colorado,Morgan County,2008,27540
+Colorado,Otero County,2008,18639
+Colorado,Ouray County,2008,4588
+Colorado,Park County,2008,16997
+Colorado,Phillips County,2008,4448
+Colorado,Pitkin County,2008,15616
+Colorado,Prowers County,2008,12989
+Colorado,Pueblo County,2008,156009
+Colorado,Rio Blanco County,2008,6318
+Colorado,Rio Grande County,2008,11632
+Colorado,Routt County,2008,22965
+Colorado,Saguache County,2008,7018
+Colorado,San Juan County,2008,571
+Colorado,San Miguel County,2008,7527
+Colorado,Sedgwick County,2008,2348
+Colorado,Summit County,2008,26724
+Colorado,Teller County,2008,21616
+Colorado,Washington County,2008,4472
+Colorado,Weld County,2008,248852
+Colorado,Yuma County,2008,9620
+Colorado,Adams County,2009,440994
+Colorado,Alamosa County,2009,15424
+Colorado,Arapahoe County,2009,565360
+Colorado,Archuleta County,2009,12430
+Colorado,Baca County,2009,3723
+Colorado,Bent County,2009,6560
+Colorado,Boulder County,2009,303482
+Colorado,Broomfield County,2009,55990
+Colorado,Chaffee County,2009,17156
+Colorado,Cheyenne County,2009,1746
+Colorado,Clear Creek County,2009,8706
+Colorado,Conejos County,2009,7844
+Colorado,Costilla County,2009,3148
+Colorado,Crowley County,2009,6403
+Colorado,Custer County,2009,4000
+Colorado,Delta County,2009,31322
+Colorado,Denver County,2009,610345
+Colorado,Dolores County,2009,1940
+Colorado,Douglas County,2009,288225
+Colorado,Eagle County,2009,53653
+Colorado,Elbert County,2009,23287
+Colorado,El Paso County,2009,604542
+Colorado,Fremont County,2009,47815
+Colorado,Garfield County,2009,56298
+Colorado,Gilpin County,2009,5604
+Colorado,Grand County,2009,13911
+Colorado,Gunnison County,2009,15350
+Colorado,Hinsdale County,2009,821
+Colorado,Huerfano County,2009,7558
+Colorado,Jackson County,2009,1369
+Colorado,Jefferson County,2009,536922
+Colorado,Kiowa County,2009,1238
+Colorado,Kit Carson County,2009,8402
+Colorado,Lake County,2009,8046
+Colorado,La Plata County,2009,51464
+Colorado,Larimer County,2009,298382
+Colorado,Las Animas County,2009,16020
+Colorado,Lincoln County,2009,5169
+Colorado,Logan County,2009,20772
+Colorado,Mesa County,2009,146093
+Colorado,Mineral County,2009,912
+Colorado,Moffat County,2009,13980
+Colorado,Montezuma County,2009,25368
+Colorado,Montrose County,2009,41412
+Colorado,Morgan County,2009,27850
+Colorado,Otero County,2009,18670
+Colorado,Ouray County,2009,4602
+Colorado,Park County,2009,16762
+Colorado,Phillips County,2009,4472
+Colorado,Pitkin County,2009,16043
+Colorado,Prowers County,2009,12982
+Colorado,Pueblo County,2009,157224
+Colorado,Rio Blanco County,2009,6534
+Colorado,Rio Grande County,2009,11581
+Colorado,Routt County,2009,23469
+Colorado,Saguache County,2009,7097
+Colorado,San Juan County,2009,555
+Colorado,San Miguel County,2009,7558
+Colorado,Sedgwick County,2009,2326
+Colorado,Summit County,2009,27239
+Colorado,Teller County,2009,21685
+Colorado,Washington County,2009,4420
+Colorado,Weld County,2009,254759
+Colorado,Yuma County,2009,9734
+Colorado,Adams County,2010,443692
+Colorado,Alamosa County,2010,15515
+Colorado,Arapahoe County,2010,575124
+Colorado,Archuleta County,2010,12048
+Colorado,Baca County,2010,3807
+Colorado,Bent County,2010,6500
+Colorado,Boulder County,2010,295056
+Colorado,Broomfield County,2010,56212
+Colorado,Chaffee County,2010,17808
+Colorado,Cheyenne County,2010,1833
+Colorado,Clear Creek County,2010,9084
+Colorado,Conejos County,2010,8312
+Colorado,Costilla County,2010,3529
+Colorado,Crowley County,2010,5859
+Colorado,Custer County,2010,4278
+Colorado,Delta County,2010,30858
+Colorado,Denver County,2010,603012
+Colorado,Dolores County,2010,2069
+Colorado,Douglas County,2010,287011
+Colorado,Eagle County,2010,52098
+Colorado,Elbert County,2010,23137
+Colorado,El Paso County,2010,627088
+Colorado,Fremont County,2010,46834
+Colorado,Garfield County,2010,56072
+Colorado,Gilpin County,2010,5471
+Colorado,Grand County,2010,14795
+Colorado,Gunnison County,2010,15290
+Colorado,Hinsdale County,2010,844
+Colorado,Huerfano County,2010,6681
+Colorado,Jackson County,2010,1388
+Colorado,Jefferson County,2010,535567
+Colorado,Kiowa County,2010,1404
+Colorado,Kit Carson County,2010,8271
+Colorado,Lake County,2010,7263
+Colorado,La Plata County,2010,51416
+Colorado,Larimer County,2010,300453
+Colorado,Las Animas County,2010,15422
+Colorado,Lincoln County,2010,5471
+Colorado,Logan County,2010,22749
+Colorado,Mesa County,2010,146266
+Colorado,Mineral County,2010,704
+Colorado,Moffat County,2010,13795
+Colorado,Montezuma County,2010,25576
+Colorado,Montrose County,2010,41182
+Colorado,Morgan County,2010,28243
+Colorado,Otero County,2010,18857
+Colorado,Ouray County,2010,4457
+Colorado,Park County,2010,16278
+Colorado,Phillips County,2010,4471
+Colorado,Pitkin County,2010,17156
+Colorado,Prowers County,2010,12546
+Colorado,Pueblo County,2010,159401
+Colorado,Rio Blanco County,2010,6623
+Colorado,Rio Grande County,2010,12022
+Colorado,Routt County,2010,23434
+Colorado,Saguache County,2010,6135
+Colorado,San Juan County,2010,708
+Colorado,San Miguel County,2010,7358
+Colorado,Sedgwick County,2010,2371
+Colorado,Summit County,2010,28075
+Colorado,Teller County,2010,23474
+Colorado,Washington County,2010,4808
+Colorado,Weld County,2010,254224
+Colorado,Yuma County,2010,10054
+Colorado,Adams County,2011,452209
+Colorado,Alamosa County,2011,15715
+Colorado,Arapahoe County,2011,586433
+Colorado,Archuleta County,2011,12027
+Colorado,Baca County,2011,3779
+Colorado,Bent County,2011,6424
+Colorado,Boulder County,2011,300045
+Colorado,Broomfield County,2011,57485
+Colorado,Chaffee County,2011,18035
+Colorado,Cheyenne County,2011,1863
+Colorado,Clear Creek County,2011,9012
+Colorado,Conejos County,2011,8291
+Colorado,Costilla County,2011,3640
+Colorado,Crowley County,2011,5884
+Colorado,Custer County,2011,4224
+Colorado,Delta County,2011,30398
+Colorado,Denver County,2011,620250
+Colorado,Dolores County,2011,2044
+Colorado,Douglas County,2011,292626
+Colorado,Eagle County,2011,52048
+Colorado,Elbert County,2011,23175
+Colorado,El Paso County,2011,637376
+Colorado,Fremont County,2011,47393
+Colorado,Garfield County,2011,56049
+Colorado,Gilpin County,2011,5429
+Colorado,Grand County,2011,14564
+Colorado,Gunnison County,2011,15267
+Colorado,Hinsdale County,2011,825
+Colorado,Huerfano County,2011,6527
+Colorado,Jackson County,2011,1357
+Colorado,Jefferson County,2011,540582
+Colorado,Kiowa County,2011,1432
+Colorado,Kit Carson County,2011,8183
+Colorado,Lake County,2011,7344
+Colorado,La Plata County,2011,51886
+Colorado,Larimer County,2011,305320
+Colorado,Las Animas County,2011,15054
+Colorado,Lincoln County,2011,5420
+Colorado,Logan County,2011,22577
+Colorado,Mesa County,2011,147205
+Colorado,Mineral County,2011,711
+Colorado,Moffat County,2011,13424
+Colorado,Montezuma County,2011,25489
+Colorado,Montrose County,2011,40980
+Colorado,Morgan County,2011,28450
+Colorado,Otero County,2011,18837
+Colorado,Ouray County,2011,4424
+Colorado,Park County,2011,16060
+Colorado,Phillips County,2011,4402
+Colorado,Pitkin County,2011,17177
+Colorado,Prowers County,2011,12500
+Colorado,Pueblo County,2011,160208
+Colorado,Rio Blanco County,2011,6751
+Colorado,Rio Grande County,2011,11914
+Colorado,Routt County,2011,23256
+Colorado,Saguache County,2011,6187
+Colorado,San Juan County,2011,690
+Colorado,San Miguel County,2011,7491
+Colorado,Sedgwick County,2011,2371
+Colorado,Summit County,2011,28048
+Colorado,Teller County,2011,23378
+Colorado,Washington County,2011,4750
+Colorado,Weld County,2011,258867
+Colorado,Yuma County,2011,10138
+Colorado,Adams County,2012,460568
+Colorado,Alamosa County,2012,15685
+Colorado,Arapahoe County,2012,597052
+Colorado,Archuleta County,2012,12141
+Colorado,Baca County,2012,3722
+Colorado,Bent County,2012,5850
+Colorado,Boulder County,2012,304717
+Colorado,Broomfield County,2012,58971
+Colorado,Chaffee County,2012,18164
+Colorado,Cheyenne County,2012,1871
+Colorado,Clear Creek County,2012,9017
+Colorado,Conejos County,2012,8248
+Colorado,Costilla County,2012,3601
+Colorado,Crowley County,2012,5468
+Colorado,Custer County,2012,4217
+Colorado,Delta County,2012,30473
+Colorado,Denver County,2012,634965
+Colorado,Dolores County,2012,2009
+Colorado,Douglas County,2012,298826
+Colorado,Eagle County,2012,52330
+Colorado,Elbert County,2012,23276
+Colorado,El Paso County,2012,645900
+Colorado,Fremont County,2012,47072
+Colorado,Garfield County,2012,56765
+Colorado,Gilpin County,2012,5432
+Colorado,Grand County,2012,14227
+Colorado,Gunnison County,2012,15390
+Colorado,Hinsdale County,2012,802
+Colorado,Huerfano County,2012,6567
+Colorado,Jackson County,2012,1325
+Colorado,Jefferson County,2012,546736
+Colorado,Kiowa County,2012,1410
+Colorado,Kit Carson County,2012,8088
+Colorado,Lake County,2012,7259
+Colorado,La Plata County,2012,52489
+Colorado,Larimer County,2012,310983
+Colorado,Las Animas County,2012,14996
+Colorado,Lincoln County,2012,5441
+Colorado,Logan County,2012,22360
+Colorado,Mesa County,2012,147360
+Colorado,Mineral County,2012,719
+Colorado,Moffat County,2012,13172
+Colorado,Montezuma County,2012,25497
+Colorado,Montrose County,2012,40675
+Colorado,Morgan County,2012,28243
+Colorado,Otero County,2012,18631
+Colorado,Ouray County,2012,4508
+Colorado,Park County,2012,16052
+Colorado,Phillips County,2012,4417
+Colorado,Pitkin County,2012,17303
+Colorado,Prowers County,2012,12422
+Colorado,Pueblo County,2012,160763
+Colorado,Rio Blanco County,2012,6763
+Colorado,Rio Grande County,2012,11867
+Colorado,Routt County,2012,23283
+Colorado,Saguache County,2012,6331
+Colorado,San Juan County,2012,692
+Colorado,San Miguel County,2012,7588
+Colorado,Sedgwick County,2012,2377
+Colorado,Summit County,2012,28307
+Colorado,Teller County,2012,23456
+Colorado,Washington County,2012,4689
+Colorado,Weld County,2012,264025
+Colorado,Yuma County,2012,10107
+Colorado,Adams County,2013,469995
+Colorado,Alamosa County,2013,15794
+Colorado,Arapahoe County,2013,609089
+Colorado,Archuleta County,2013,12225
+Colorado,Baca County,2013,3656
+Colorado,Bent County,2013,5759
+Colorado,Boulder County,2013,309538
+Colorado,Broomfield County,2013,60158
+Colorado,Chaffee County,2013,18375
+Colorado,Cheyenne County,2013,1878
+Colorado,Clear Creek County,2013,9025
+Colorado,Conejos County,2013,8199
+Colorado,Costilla County,2013,3540
+Colorado,Crowley County,2013,5352
+Colorado,Custer County,2013,4260
+Colorado,Delta County,2013,30349
+Colorado,Denver County,2013,649270
+Colorado,Dolores County,2013,2033
+Colorado,Douglas County,2013,306407
+Colorado,Eagle County,2013,52814
+Colorado,Elbert County,2013,23543
+Colorado,El Paso County,2013,655178
+Colorado,Fremont County,2013,46360
+Colorado,Garfield County,2013,56945
+Colorado,Gilpin County,2013,5535
+Colorado,Grand County,2013,14320
+Colorado,Gunnison County,2013,15597
+Colorado,Hinsdale County,2013,803
+Colorado,Huerfano County,2013,6465
+Colorado,Jackson County,2013,1338
+Colorado,Jefferson County,2013,552242
+Colorado,Kiowa County,2013,1393
+Colorado,Kit Carson County,2013,8259
+Colorado,Lake County,2013,7276
+Colorado,La Plata County,2013,53432
+Colorado,Larimer County,2013,316426
+Colorado,Las Animas County,2013,14404
+Colorado,Lincoln County,2013,5435
+Colorado,Logan County,2013,22182
+Colorado,Mesa County,2013,147249
+Colorado,Mineral County,2013,732
+Colorado,Moffat County,2013,13129
+Colorado,Montezuma County,2013,25575
+Colorado,Montrose County,2013,40584
+Colorado,Morgan County,2013,28217
+Colorado,Otero County,2013,18449
+Colorado,Ouray County,2013,4554
+Colorado,Park County,2013,16190
+Colorado,Phillips County,2013,4384
+Colorado,Pitkin County,2013,17474
+Colorado,Prowers County,2013,12319
+Colorado,Pueblo County,2013,161096
+Colorado,Rio Blanco County,2013,6699
+Colorado,Rio Grande County,2013,11674
+Colorado,Routt County,2013,23610
+Colorado,Saguache County,2013,6240
+Colorado,San Juan County,2013,692
+Colorado,San Miguel County,2013,7632
+Colorado,Sedgwick County,2013,2338
+Colorado,Summit County,2013,28741
+Colorado,Teller County,2013,23372
+Colorado,Washington County,2013,4731
+Colorado,Weld County,2013,270105
+Colorado,Yuma County,2013,10139
+Colorado,Adams County,2014,479954
+Colorado,Alamosa County,2014,15807
+Colorado,Arapahoe County,2014,619681
+Colorado,Archuleta County,2014,12240
+Colorado,Baca County,2014,3586
+Colorado,Bent County,2014,5821
+Colorado,Boulder County,2014,312525
+Colorado,Broomfield County,2014,61791
+Colorado,Chaffee County,2014,18471
+Colorado,Cheyenne County,2014,1845
+Colorado,Clear Creek County,2014,9124
+Colorado,Conejos County,2014,8230
+Colorado,Costilla County,2014,3560
+Colorado,Crowley County,2014,5610
+Colorado,Custer County,2014,4339
+Colorado,Delta County,2014,29973
+Colorado,Denver County,2014,664540
+Colorado,Dolores County,2014,1976
+Colorado,Douglas County,2014,314783
+Colorado,Eagle County,2014,53276
+Colorado,Elbert County,2014,24035
+Colorado,El Paso County,2014,662968
+Colorado,Fremont County,2014,46185
+Colorado,Garfield County,2014,57174
+Colorado,Gilpin County,2014,5754
+Colorado,Grand County,2014,14569
+Colorado,Gunnison County,2014,15786
+Colorado,Hinsdale County,2014,772
+Colorado,Huerfano County,2014,6399
+Colorado,Jackson County,2014,1385
+Colorado,Jefferson County,2014,559099
+Colorado,Kiowa County,2014,1382
+Colorado,Kit Carson County,2014,8028
+Colorado,Lake County,2014,7333
+Colorado,La Plata County,2014,53941
+Colorado,Larimer County,2014,324272
+Colorado,Las Animas County,2014,14054
+Colorado,Lincoln County,2014,5503
+Colorado,Logan County,2014,22446
+Colorado,Mesa County,2014,147215
+Colorado,Mineral County,2014,703
+Colorado,Moffat County,2014,12941
+Colorado,Montezuma County,2014,25551
+Colorado,Montrose County,2014,40622
+Colorado,Morgan County,2014,28098
+Colorado,Otero County,2014,18334
+Colorado,Ouray County,2014,4576
+Colorado,Park County,2014,16392
+Colorado,Phillips County,2014,4394
+Colorado,Pitkin County,2014,17730
+Colorado,Prowers County,2014,12064
+Colorado,Pueblo County,2014,161434
+Colorado,Rio Blanco County,2014,6604
+Colorado,Rio Grande County,2014,11505
+Colorado,Routt County,2014,24085
+Colorado,Saguache County,2014,6195
+Colorado,San Juan County,2014,712
+Colorado,San Miguel County,2014,7751
+Colorado,Sedgwick County,2014,2332
+Colorado,Summit County,2014,29333
+Colorado,Teller County,2014,23458
+Colorado,Washington County,2014,4720
+Colorado,Weld County,2014,277480
+Colorado,Yuma County,2014,10191
+Colorado,Adams County,2015,490448
+Colorado,Alamosa County,2015,15894
+Colorado,Arapahoe County,2015,631688
+Colorado,Archuleta County,2015,12399
+Colorado,Baca County,2015,3554
+Colorado,Bent County,2015,5891
+Colorado,Boulder County,2015,318408
+Colorado,Broomfield County,2015,64914
+Colorado,Chaffee County,2015,18635
+Colorado,Cheyenne County,2015,1826
+Colorado,Clear Creek County,2015,9246
+Colorado,Conejos County,2015,8064
+Colorado,Costilla County,2015,3576
+Colorado,Crowley County,2015,5633
+Colorado,Custer County,2015,4434
+Colorado,Delta County,2015,29925
+Colorado,Denver County,2015,683328
+Colorado,Dolores County,2015,1980
+Colorado,Douglas County,2015,322333
+Colorado,Eagle County,2015,53863
+Colorado,Elbert County,2015,24634
+Colorado,El Paso County,2015,674094
+Colorado,Fremont County,2015,46327
+Colorado,Garfield County,2015,57724
+Colorado,Gilpin County,2015,5813
+Colorado,Grand County,2015,14742
+Colorado,Gunnison County,2015,16125
+Colorado,Hinsdale County,2015,762
+Colorado,Huerfano County,2015,6408
+Colorado,Jackson County,2015,1352
+Colorado,Jefferson County,2015,565240
+Colorado,Kiowa County,2015,1386
+Colorado,Kit Carson County,2015,8223
+Colorado,Lake County,2015,7455
+Colorado,La Plata County,2015,54776
+Colorado,Larimer County,2015,333637
+Colorado,Las Animas County,2015,14048
+Colorado,Lincoln County,2015,5545
+Colorado,Logan County,2015,22484
+Colorado,Mesa County,2015,148159
+Colorado,Mineral County,2015,742
+Colorado,Moffat County,2015,12946
+Colorado,Montezuma County,2015,25763
+Colorado,Montrose County,2015,40609
+Colorado,Morgan County,2015,28245
+Colorado,Otero County,2015,18182
+Colorado,Ouray County,2015,4611
+Colorado,Park County,2015,16739
+Colorado,Phillips County,2015,4328
+Colorado,Pitkin County,2015,17962
+Colorado,Prowers County,2015,11937
+Colorado,Pueblo County,2015,163101
+Colorado,Rio Blanco County,2015,6487
+Colorado,Rio Grande County,2015,11355
+Colorado,Routt County,2015,24388
+Colorado,Saguache County,2015,6250
+Colorado,San Juan County,2015,690
+Colorado,San Miguel County,2015,7850
+Colorado,Sedgwick County,2015,2373
+Colorado,Summit County,2015,30064
+Colorado,Teller County,2015,23421
+Colorado,Washington County,2015,4775
+Colorado,Weld County,2015,286493
+Colorado,Yuma County,2015,10044
+Colorado,Adams County,2016,497735
+Colorado,Alamosa County,2016,16047
+Colorado,Arapahoe County,2016,639605
+Colorado,Archuleta County,2016,12834
+Colorado,Baca County,2016,3534
+Colorado,Bent County,2016,5832
+Colorado,Boulder County,2016,321761
+Colorado,Broomfield County,2016,66596
+Colorado,Chaffee County,2016,19140
+Colorado,Cheyenne County,2016,1848
+Colorado,Clear Creek County,2016,9355
+Colorado,Conejos County,2016,8044
+Colorado,Costilla County,2016,3692
+Colorado,Crowley County,2016,5276
+Colorado,Custer County,2016,4581
+Colorado,Delta County,2016,30352
+Colorado,Denver County,2016,696273
+Colorado,Dolores County,2016,2055
+Colorado,Douglas County,2016,328680
+Colorado,Eagle County,2016,54578
+Colorado,Elbert County,2016,25130
+Colorado,El Paso County,2016,688671
+Colorado,Fremont County,2016,47047
+Colorado,Garfield County,2016,58839
+Colorado,Gilpin County,2016,5920
+Colorado,Grand County,2016,15198
+Colorado,Gunnison County,2016,16447
+Colorado,Hinsdale County,2016,783
+Colorado,Huerfano County,2016,6583
+Colorado,Jackson County,2016,1356
+Colorado,Jefferson County,2016,571823
+Colorado,Kiowa County,2016,1346
+Colorado,Kit Carson County,2016,7632
+Colorado,Lake County,2016,7591
+Colorado,La Plata County,2016,55459
+Colorado,Larimer County,2016,339394
+Colorado,Las Animas County,2016,14085
+Colorado,Lincoln County,2016,5546
+Colorado,Logan County,2016,22427
+Colorado,Mesa County,2016,149882
+Colorado,Mineral County,2016,756
+Colorado,Moffat County,2016,13155
+Colorado,Montezuma County,2016,26063
+Colorado,Montrose County,2016,41183
+Colorado,Morgan County,2016,28178
+Colorado,Otero County,2016,18279
+Colorado,Ouray County,2016,4794
+Colorado,Park County,2016,17372
+Colorado,Phillips County,2016,4307
+Colorado,Pitkin County,2016,18009
+Colorado,Prowers County,2016,11937
+Colorado,Pueblo County,2016,164883
+Colorado,Rio Blanco County,2016,6443
+Colorado,Rio Grande County,2016,11354
+Colorado,Routt County,2016,24737
+Colorado,Saguache County,2016,6413
+Colorado,San Juan County,2016,691
+Colorado,San Miguel County,2016,8032
+Colorado,Sedgwick County,2016,2399
+Colorado,Summit County,2016,30573
+Colorado,Teller County,2016,24098
+Colorado,Washington County,2016,4824
+Colorado,Weld County,2016,296330
+Colorado,Yuma County,2016,10057
+Colorado,Adams County,2017,503717
+Colorado,Alamosa County,2017,16102
+Colorado,Arapahoe County,2017,645080
+Colorado,Archuleta County,2017,13312
+Colorado,Baca County,2017,3554
+Colorado,Bent County,2017,5828
+Colorado,Boulder County,2017,323019
+Colorado,Broomfield County,2017,68340
+Colorado,Chaffee County,2017,19700
+Colorado,Cheyenne County,2017,1849
+Colorado,Clear Creek County,2017,9573
+Colorado,Conejos County,2017,8141
+Colorado,Costilla County,2017,3758
+Colorado,Crowley County,2017,5820
+Colorado,Custer County,2017,4861
+Colorado,Delta County,2017,30516
+Colorado,Denver County,2017,704869
+Colorado,Dolores County,2017,2044
+Colorado,Douglas County,2017,336347
+Colorado,Eagle County,2017,55022
+Colorado,Elbert County,2017,25735
+Colorado,El Paso County,2017,700838
+Colorado,Fremont County,2017,47633
+Colorado,Garfield County,2017,59065
+Colorado,Gilpin County,2017,6024
+Colorado,Grand County,2017,15385
+Colorado,Gunnison County,2017,16896
+Colorado,Hinsdale County,2017,788
+Colorado,Huerfano County,2017,6632
+Colorado,Jackson County,2017,1376
+Colorado,Jefferson County,2017,576041
+Colorado,Kiowa County,2017,1368
+Colorado,Kit Carson County,2017,7149
+Colorado,Lake County,2017,7769
+Colorado,La Plata County,2017,55717
+Colorado,Larimer County,2017,344509
+Colorado,Las Animas County,2017,14237
+Colorado,Lincoln County,2017,5526
+Colorado,Logan County,2017,22314
+Colorado,Mesa County,2017,151435
+Colorado,Mineral County,2017,753
+Colorado,Moffat County,2017,13095
+Colorado,Montezuma County,2017,26187
+Colorado,Montrose County,2017,41795
+Colorado,Morgan County,2017,28275
+Colorado,Otero County,2017,18344
+Colorado,Ouray County,2017,4815
+Colorado,Park County,2017,17935
+Colorado,Phillips County,2017,4339
+Colorado,Pitkin County,2017,18027
+Colorado,Prowers County,2017,11990
+Colorado,Pueblo County,2017,166370
+Colorado,Rio Blanco County,2017,6362
+Colorado,Rio Grande County,2017,11300
+Colorado,Routt County,2017,25220
+Colorado,Saguache County,2017,6632
+Colorado,San Juan County,2017,713
+Colorado,San Miguel County,2017,8049
+Colorado,Sedgwick County,2017,2314
+Colorado,Summit County,2017,30848
+Colorado,Teller County,2017,24713
+Colorado,Washington County,2017,4909
+Colorado,Weld County,2017,306571
+Colorado,Yuma County,2017,9976
+Colorado,Adams County,2018,511485
+Colorado,Alamosa County,2018,16235
+Colorado,Arapahoe County,2018,652395
+Colorado,Archuleta County,2018,13670
+Colorado,Baca County,2018,3587
+Colorado,Bent County,2018,5793
+Colorado,Boulder County,2018,325438
+Colorado,Broomfield County,2018,69431
+Colorado,Chaffee County,2018,20066
+Colorado,Cheyenne County,2018,1864
+Colorado,Clear Creek County,2018,9552
+Colorado,Conejos County,2018,8154
+Colorado,Costilla County,2018,3803
+Colorado,Crowley County,2018,5886
+Colorado,Custer County,2018,4962
+Colorado,Delta County,2018,30835
+Colorado,Denver County,2018,716340
+Colorado,Dolores County,2018,2056
+Colorado,Douglas County,2018,343780
+Colorado,Eagle County,2018,55087
+Colorado,Elbert County,2018,26267
+Colorado,El Paso County,2018,712746
+Colorado,Fremont County,2018,48070
+Colorado,Garfield County,2018,59722
+Colorado,Gilpin County,2018,6131
+Colorado,Grand County,2018,15556
+Colorado,Gunnison County,2018,17177
+Colorado,Hinsdale County,2018,786
+Colorado,Huerfano County,2018,6877
+Colorado,Jackson County,2018,1403
+Colorado,Jefferson County,2018,580027
+Colorado,Kiowa County,2018,1385
+Colorado,Kit Carson County,2018,7166
+Colorado,Lake County,2018,7807
+Colorado,La Plata County,2018,56511
+Colorado,Larimer County,2018,351045
+Colorado,Las Animas County,2018,14460
+Colorado,Lincoln County,2018,5595
+Colorado,Logan County,2018,22286
+Colorado,Mesa County,2018,153339
+Colorado,Mineral County,2018,774
+Colorado,Moffat County,2018,13148
+Colorado,Montezuma County,2018,26303
+Colorado,Montrose County,2018,42309
+Colorado,Morgan County,2018,28754
+Colorado,Otero County,2018,18354
+Colorado,Ouray County,2018,4834
+Colorado,Park County,2018,18583
+Colorado,Phillips County,2018,4343
+Colorado,Pitkin County,2018,18066
+Colorado,Prowers County,2018,12038
+Colorado,Pueblo County,2018,167574
+Colorado,Rio Blanco County,2018,6347
+Colorado,Rio Grande County,2018,11274
+Colorado,Routt County,2018,25489
+Colorado,Saguache County,2018,6837
+Colorado,San Juan County,2018,760
+Colorado,San Miguel County,2018,8195
+Colorado,Sedgwick County,2018,2284
+Colorado,Summit County,2018,30771
+Colorado,Teller County,2018,25158
+Colorado,Washington County,2018,4861
+Colorado,Weld County,2018,315360
+Colorado,Yuma County,2018,9964
+Colorado,Adams County,2019,516575
+Colorado,Alamosa County,2019,16200
+Colorado,Arapahoe County,2019,656051
+Colorado,Archuleta County,2019,13928
+Colorado,Baca County,2019,3620
+Colorado,Bent County,2019,5578
+Colorado,Boulder County,2019,326020
+Colorado,Broomfield County,2019,70617
+Colorado,Chaffee County,2019,20319
+Colorado,Cheyenne County,2019,1824
+Colorado,Clear Creek County,2019,9598
+Colorado,Conejos County,2019,8169
+Colorado,Costilla County,2019,3872
+Colorado,Crowley County,2019,5989
+Colorado,Custer County,2019,5119
+Colorado,Delta County,2019,31021
+Colorado,Denver County,2019,725508
+Colorado,Dolores County,2019,2042
+Colorado,Douglas County,2019,351842
+Colorado,Eagle County,2019,55183
+Colorado,Elbert County,2019,26707
+Colorado,El Paso County,2019,721929
+Colorado,Fremont County,2019,48009
+Colorado,Garfield County,2019,60031
+Colorado,Gilpin County,2019,6232
+Colorado,Grand County,2019,15748
+Colorado,Gunnison County,2019,17480
+Colorado,Hinsdale County,2019,789
+Colorado,Huerfano County,2019,6868
+Colorado,Jackson County,2019,1397
+Colorado,Jefferson County,2019,582800
+Colorado,Kiowa County,2019,1417
+Colorado,Kit Carson County,2019,7161
+Colorado,Lake County,2019,8072
+Colorado,La Plata County,2019,56440
+Colorado,Larimer County,2019,357241
+Colorado,Las Animas County,2019,14415
+Colorado,Lincoln County,2019,5694
+Colorado,Logan County,2019,22409
+Colorado,Mesa County,2019,154552
+Colorado,Mineral County,2019,756
+Colorado,Moffat County,2019,13209
+Colorado,Montezuma County,2019,26369
+Colorado,Montrose County,2019,42791
+Colorado,Morgan County,2019,28938
+Colorado,Otero County,2019,18243
+Colorado,Ouray County,2019,5005
+Colorado,Park County,2019,18881
+Colorado,Phillips County,2019,4359
+Colorado,Pitkin County,2019,17902
+Colorado,Prowers County,2019,12106
+Colorado,Pueblo County,2019,168409
+Colorado,Rio Blanco County,2019,6350
+Colorado,Rio Grande County,2019,11277
+Colorado,Routt County,2019,25579
+Colorado,Saguache County,2019,6829
+Colorado,San Juan County,2019,723
+Colorado,San Miguel County,2019,8169
+Colorado,Sedgwick County,2019,2274
+Colorado,Summit County,2019,30851
+Colorado,Teller County,2019,25408
+Colorado,Washington County,2019,4869
+Colorado,Weld County,2019,324703
+Colorado,Yuma County,2019,10020
+New York,Albany County,2000,294960
+New York,Allegany County,2000,49916
+New York,Bronx County,2000,1333854
+New York,Broome County,2000,200319
+New York,Cattaraugus County,2000,84017
+New York,Cayuga County,2000,81925
+New York,Chautauqua County,2000,139659
+New York,Chemung County,2000,91079
+New York,Chenango County,2000,51381
+New York,Clinton County,2000,79897
+New York,Columbia County,2000,63055
+New York,Cortland County,2000,48571
+New York,Delaware County,2000,47967
+New York,Dutchess County,2000,281001
+New York,Erie County,2000,949494
+New York,Essex County,2000,38822
+New York,Franklin County,2000,51049
+New York,Fulton County,2000,55006
+New York,Genesee County,2000,60329
+New York,Greene County,2000,48143
+New York,Hamilton County,2000,5383
+New York,Herkimer County,2000,64383
+New York,Jefferson County,2000,111494
+New York,Kings County,2000,2465812
+New York,Lewis County,2000,26966
+New York,Livingston County,2000,64361
+New York,Madison County,2000,69420
+New York,Monroe County,2000,739047
+New York,Montgomery County,2000,49653
+New York,Nassau County,2000,1336290
+New York,New York County,2000,1540373
+New York,Niagara County,2000,219665
+New York,Oneida County,2000,235045
+New York,Onondaga County,2000,457907
+New York,Ontario County,2000,100289
+New York,Orange County,2000,343155
+New York,Orleans County,2000,44147
+New York,Oswego County,2000,122490
+New York,Otsego County,2000,61669
+New York,Putnam County,2000,96079
+New York,Queens County,2000,2229895
+New York,Rensselaer County,2000,152627
+New York,Richmond County,2000,445414
+New York,Rockland County,2000,287455
+New York,St. Lawrence County,2000,111869
+New York,Saratoga County,2000,201570
+New York,Schenectady County,2000,146481
+New York,Schoharie County,2000,31589
+New York,Schuyler County,2000,19281
+New York,Seneca County,2000,33343
+New York,Steuben County,2000,98776
+New York,Suffolk County,2000,1423512
+New York,Sullivan County,2000,74236
+New York,Tioga County,2000,51723
+New York,Tompkins County,2000,96662
+New York,Ulster County,2000,177831
+New York,Warren County,2000,63364
+New York,Washington County,2000,60984
+New York,Wayne County,2000,93751
+New York,Westchester County,2000,925505
+New York,Wyoming County,2000,43364
+New York,Yates County,2000,24740
+New York,Albany County,2001,295378
+New York,Allegany County,2001,50175
+New York,Bronx County,2001,1341319
+New York,Broome County,2001,199999
+New York,Cattaraugus County,2001,83297
+New York,Cayuga County,2001,81275
+New York,Chautauqua County,2001,138594
+New York,Chemung County,2001,90673
+New York,Chenango County,2001,51098
+New York,Clinton County,2001,80248
+New York,Columbia County,2001,62808
+New York,Cortland County,2001,48601
+New York,Delaware County,2001,47537
+New York,Dutchess County,2001,284315
+New York,Erie County,2001,945165
+New York,Essex County,2001,38629
+New York,Franklin County,2001,50787
+New York,Fulton County,2001,54866
+New York,Genesee County,2001,59892
+New York,Greene County,2001,48077
+New York,Hamilton County,2001,5326
+New York,Herkimer County,2001,63955
+New York,Jefferson County,2001,111841
+New York,Kings County,2001,2471596
+New York,Lewis County,2001,26824
+New York,Livingston County,2001,64455
+New York,Madison County,2001,69446
+New York,Monroe County,2001,738664
+New York,Montgomery County,2001,49336
+New York,Nassau County,2001,1342896
+New York,New York County,2001,1562335
+New York,Niagara County,2001,218363
+New York,Oneida County,2001,233697
+New York,Onondaga County,2001,457339
+New York,Ontario County,2001,100791
+New York,Orange County,2001,348896
+New York,Orleans County,2001,43681
+New York,Oswego County,2001,122176
+New York,Otsego County,2001,61680
+New York,Putnam County,2001,97000
+New York,Queens County,2001,2234676
+New York,Rensselaer County,2001,152253
+New York,Richmond County,2001,453211
+New York,Rockland County,2001,288602
+New York,St. Lawrence County,2001,111202
+New York,Saratoga County,2001,204104
+New York,Schenectady County,2001,145997
+New York,Schoharie County,2001,31758
+New York,Schuyler County,2001,19252
+New York,Seneca County,2001,34635
+New York,Steuben County,2001,98935
+New York,Suffolk County,2001,1448987
+New York,Sullivan County,2001,74004
+New York,Tioga County,2001,51449
+New York,Tompkins County,2001,97575
+New York,Ulster County,2001,178272
+New York,Warren County,2001,63570
+New York,Washington County,2001,61087
+New York,Wayne County,2001,93478
+New York,Westchester County,2001,935294
+New York,Wyoming County,2001,42972
+New York,Yates County,2001,24635
+New York,Albany County,2002,296644
+New York,Allegany County,2002,50103
+New York,Bronx County,2002,1348285
+New York,Broome County,2002,199714
+New York,Cattaraugus County,2002,83126
+New York,Cayuga County,2002,81240
+New York,Chautauqua County,2002,137989
+New York,Chemung County,2002,90409
+New York,Chenango County,2002,51166
+New York,Clinton County,2002,80525
+New York,Columbia County,2002,62847
+New York,Cortland County,2002,48410
+New York,Delaware County,2002,47099
+New York,Dutchess County,2002,286769
+New York,Erie County,2002,940645
+New York,Essex County,2002,38717
+New York,Franklin County,2002,50558
+New York,Fulton County,2002,54874
+New York,Genesee County,2002,59647
+New York,Greene County,2002,48226
+New York,Hamilton County,2002,5252
+New York,Herkimer County,2002,63388
+New York,Jefferson County,2002,113936
+New York,Kings County,2002,2477380
+New York,Lewis County,2002,26411
+New York,Livingston County,2002,64194
+New York,Madison County,2002,69491
+New York,Monroe County,2002,738876
+New York,Montgomery County,2002,49006
+New York,Nassau County,2002,1349668
+New York,New York County,2002,1567241
+New York,Niagara County,2002,217723
+New York,Oneida County,2002,233014
+New York,Onondaga County,2002,457085
+New York,Ontario County,2002,101539
+New York,Orange County,2002,355221
+New York,Orleans County,2002,43399
+New York,Oswego County,2002,122278
+New York,Otsego County,2002,61776
+New York,Putnam County,2002,98187
+New York,Queens County,2002,2239457
+New York,Rensselaer County,2002,152206
+New York,Richmond County,2002,460386
+New York,Rockland County,2002,290035
+New York,St. Lawrence County,2002,110686
+New York,Saratoga County,2002,206672
+New York,Schenectady County,2002,146612
+New York,Schoharie County,2002,31618
+New York,Schuyler County,2002,19268
+New York,Seneca County,2002,34730
+New York,Steuben County,2002,98996
+New York,Suffolk County,2002,1468240
+New York,Sullivan County,2002,74063
+New York,Tioga County,2002,51576
+New York,Tompkins County,2002,98393
+New York,Ulster County,2002,179721
+New York,Warren County,2002,63979
+New York,Washington County,2002,61022
+New York,Wayne County,2002,93112
+New York,Westchester County,2002,941747
+New York,Wyoming County,2002,42791
+New York,Yates County,2002,24505
+New York,Albany County,2003,298491
+New York,Allegany County,2003,50220
+New York,Bronx County,2003,1353712
+New York,Broome County,2003,198364
+New York,Cattaraugus County,2003,82968
+New York,Cayuga County,2003,81073
+New York,Chautauqua County,2003,136904
+New York,Chemung County,2003,89816
+New York,Chenango County,2003,51254
+New York,Clinton County,2003,81066
+New York,Columbia County,2003,62782
+New York,Cortland County,2003,48802
+New York,Delaware County,2003,47011
+New York,Dutchess County,2003,289088
+New York,Erie County,2003,936931
+New York,Essex County,2003,38626
+New York,Franklin County,2003,50654
+New York,Fulton County,2003,54881
+New York,Genesee County,2003,59506
+New York,Greene County,2003,48361
+New York,Hamilton County,2003,5207
+New York,Herkimer County,2003,63208
+New York,Jefferson County,2003,113353
+New York,Kings County,2003,2483164
+New York,Lewis County,2003,26353
+New York,Livingston County,2003,63880
+New York,Madison County,2003,69828
+New York,Monroe County,2003,737420
+New York,Montgomery County,2003,48938
+New York,Nassau County,2003,1353565
+New York,New York County,2003,1578815
+New York,Niagara County,2003,217281
+New York,Oneida County,2003,232578
+New York,Onondaga County,2003,457139
+New York,Ontario County,2003,102119
+New York,Orange County,2003,362609
+New York,Orleans County,2003,43201
+New York,Oswego County,2003,122712
+New York,Otsego County,2003,62126
+New York,Putnam County,2003,98738
+New York,Queens County,2003,2244238
+New York,Rensselaer County,2003,152881
+New York,Richmond County,2003,466789
+New York,Rockland County,2003,290614
+New York,St. Lawrence County,2003,110381
+New York,Saratoga County,2003,209711
+New York,Schenectady County,2003,146967
+New York,Schoharie County,2003,31691
+New York,Schuyler County,2003,19261
+New York,Seneca County,2003,34712
+New York,Steuben County,2003,98253
+New York,Suffolk County,2003,1486783
+New York,Sullivan County,2003,74774
+New York,Tioga County,2003,51281
+New York,Tompkins County,2003,99203
+New York,Ulster County,2003,180223
+New York,Warren County,2003,64490
+New York,Washington County,2003,61374
+New York,Wayne County,2003,93054
+New York,Westchester County,2003,944440
+New York,Wyoming County,2003,42636
+New York,Yates County,2003,24601
+New York,Albany County,2004,298819
+New York,Allegany County,2004,50397
+New York,Bronx County,2004,1359139
+New York,Broome County,2004,197463
+New York,Cattaraugus County,2004,82366
+New York,Cayuga County,2004,80843
+New York,Chautauqua County,2004,136273
+New York,Chemung County,2004,89366
+New York,Chenango County,2004,51113
+New York,Clinton County,2004,81380
+New York,Columbia County,2004,62933
+New York,Cortland County,2004,48780
+New York,Delaware County,2004,47055
+New York,Dutchess County,2004,290637
+New York,Erie County,2004,932002
+New York,Essex County,2004,38389
+New York,Franklin County,2004,50427
+New York,Fulton County,2004,54976
+New York,Genesee County,2004,59096
+New York,Greene County,2004,48630
+New York,Hamilton County,2004,5188
+New York,Herkimer County,2004,63198
+New York,Jefferson County,2004,114424
+New York,Kings County,2004,2497859
+New York,Lewis County,2004,26219
+New York,Livingston County,2004,63941
+New York,Madison County,2004,69855
+New York,Monroe County,2004,735691
+New York,Montgomery County,2004,48768
+New York,Nassau County,2004,1356589
+New York,New York County,2004,1590911
+New York,Niagara County,2004,216712
+New York,Oneida County,2004,232484
+New York,Onondaga County,2004,456432
+New York,Ontario County,2004,102656
+New York,Orange County,2004,367562
+New York,Orleans County,2004,43119
+New York,Oswego County,2004,122802
+New York,Otsego County,2004,62426
+New York,Putnam County,2004,99204
+New York,Queens County,2004,2250718
+New York,Rensselaer County,2004,153791
+New York,Richmond County,2004,471313
+New York,Rockland County,2004,292625
+New York,St. Lawrence County,2004,110224
+New York,Saratoga County,2004,211745
+New York,Schenectady County,2004,147707
+New York,Schoharie County,2004,31866
+New York,Schuyler County,2004,19176
+New York,Seneca County,2004,34640
+New York,Steuben County,2004,97735
+New York,Suffolk County,2004,1499838
+New York,Sullivan County,2004,75351
+New York,Tioga County,2004,50874
+New York,Tompkins County,2004,99747
+New York,Ulster County,2004,180950
+New York,Warren County,2004,64741
+New York,Washington County,2004,61979
+New York,Wayne County,2004,92612
+New York,Westchester County,2004,947121
+New York,Wyoming County,2004,42439
+New York,Yates County,2004,24617
+New York,Albany County,2005,298605
+New York,Allegany County,2005,49824
+New York,Bronx County,2005,1364566
+New York,Broome County,2005,196103
+New York,Cattaraugus County,2005,81389
+New York,Cayuga County,2005,80532
+New York,Chautauqua County,2005,134998
+New York,Chemung County,2005,88351
+New York,Chenango County,2005,50994
+New York,Clinton County,2005,81690
+New York,Columbia County,2005,62839
+New York,Cortland County,2005,48315
+New York,Delaware County,2005,46820
+New York,Dutchess County,2005,291586
+New York,Erie County,2005,923820
+New York,Essex County,2005,38197
+New York,Franklin County,2005,50305
+New York,Fulton County,2005,54969
+New York,Genesee County,2005,58701
+New York,Greene County,2005,48917
+New York,Hamilton County,2005,5128
+New York,Herkimer County,2005,62873
+New York,Jefferson County,2005,116982
+New York,Kings County,2005,2511408
+New York,Lewis County,2005,26199
+New York,Livingston County,2005,63497
+New York,Madison County,2005,69527
+New York,Monroe County,2005,731773
+New York,Montgomery County,2005,48634
+New York,Nassau County,2005,1355194
+New York,New York County,2005,1606275
+New York,Niagara County,2005,215508
+New York,Oneida County,2005,231563
+New York,Onondaga County,2005,454625
+New York,Ontario County,2005,103302
+New York,Orange County,2005,370074
+New York,Orleans County,2005,42723
+New York,Oswego County,2005,121978
+New York,Otsego County,2005,62474
+New York,Putnam County,2005,99228
+New York,Queens County,2005,2256576
+New York,Rensselaer County,2005,153909
+New York,Richmond County,2005,475014
+New York,Rockland County,2005,294636
+New York,St. Lawrence County,2005,110072
+New York,Saratoga County,2005,213245
+New York,Schenectady County,2005,148687
+New York,Schoharie County,2005,31911
+New York,Schuyler County,2005,19037
+New York,Seneca County,2005,34318
+New York,Steuben County,2005,97287
+New York,Suffolk County,2005,1504285
+New York,Sullivan County,2005,75591
+New York,Tioga County,2005,50673
+New York,Tompkins County,2005,99698
+New York,Ulster County,2005,181305
+New York,Warren County,2005,65322
+New York,Washington County,2005,62070
+New York,Wayne County,2005,92175
+New York,Westchester County,2005,947719
+New York,Wyoming County,2005,42257
+New York,Yates County,2005,24618
+New York,Albany County,2006,299033
+New York,Allegany County,2006,49423
+New York,Bronx County,2006,1371353
+New York,Broome County,2006,195700
+New York,Cattaraugus County,2006,80578
+New York,Cayuga County,2006,80225
+New York,Chautauqua County,2006,134279
+New York,Chemung County,2006,88164
+New York,Chenango County,2006,51097
+New York,Clinton County,2006,81905
+New York,Columbia County,2006,62383
+New York,Cortland County,2006,48279
+New York,Delaware County,2006,46413
+New York,Dutchess County,2006,291471
+New York,Erie County,2006,916292
+New York,Essex County,2006,38156
+New York,Franklin County,2006,50371
+New York,Fulton County,2006,54937
+New York,Genesee County,2006,58362
+New York,Greene County,2006,49215
+New York,Hamilton County,2006,5029
+New York,Herkimer County,2006,62358
+New York,Jefferson County,2006,117162
+New York,Kings County,2006,2523047
+New York,Lewis County,2006,26319
+New York,Livingston County,2006,63254
+New York,Madison County,2006,69719
+New York,Monroe County,2006,730458
+New York,Montgomery County,2006,48681
+New York,Nassau County,2006,1351870
+New York,New York County,2006,1612630
+New York,Niagara County,2006,214621
+New York,Oneida County,2006,231052
+New York,Onondaga County,2006,453533
+New York,Ontario County,2006,103455
+New York,Orange County,2006,373386
+New York,Orleans County,2006,42511
+New York,Oswego County,2006,121592
+New York,Otsego County,2006,62348
+New York,Putnam County,2006,98958
+New York,Queens County,2006,2264661
+New York,Rensselaer County,2006,154719
+New York,Richmond County,2006,478876
+New York,Rockland County,2006,295927
+New York,St. Lawrence County,2006,109769
+New York,Saratoga County,2006,214925
+New York,Schenectady County,2006,149973
+New York,Schoharie County,2006,31891
+New York,Schuyler County,2006,18931
+New York,Seneca County,2006,34201
+New York,Steuben County,2006,96648
+New York,Suffolk County,2006,1507211
+New York,Sullivan County,2006,75828
+New York,Tioga County,2006,50463
+New York,Tompkins County,2006,99997
+New York,Ulster County,2006,181551
+New York,Warren County,2006,65641
+New York,Washington County,2006,62303
+New York,Wayne County,2006,91780
+New York,Westchester County,2006,945172
+New York,Wyoming County,2006,42056
+New York,Yates County,2006,24422
+New York,Albany County,2007,298246
+New York,Allegany County,2007,49183
+New York,Bronx County,2007,1385122
+New York,Broome County,2007,194978
+New York,Cattaraugus County,2007,80253
+New York,Cayuga County,2007,79932
+New York,Chautauqua County,2007,134014
+New York,Chemung County,2007,88058
+New York,Chenango County,2007,51132
+New York,Clinton County,2007,81865
+New York,Columbia County,2007,62284
+New York,Cortland County,2007,48313
+New York,Delaware County,2007,46287
+New York,Dutchess County,2007,291815
+New York,Erie County,2007,911784
+New York,Essex County,2007,37856
+New York,Franklin County,2007,50482
+New York,Fulton County,2007,55075
+New York,Genesee County,2007,58159
+New York,Greene County,2007,49170
+New York,Hamilton County,2007,5016
+New York,Herkimer County,2007,62433
+New York,Jefferson County,2007,117957
+New York,Kings County,2007,2539206
+New York,Lewis County,2007,26322
+New York,Livingston County,2007,63123
+New York,Madison County,2007,70049
+New York,Monroe County,2007,730629
+New York,Montgomery County,2007,48606
+New York,Nassau County,2007,1353061
+New York,New York County,2007,1625251
+New York,Niagara County,2007,214181
+New York,Oneida County,2007,230948
+New York,Onondaga County,2007,452944
+New York,Ontario County,2007,103834
+New York,Orange County,2007,376226
+New York,Orleans County,2007,42370
+New York,Oswego County,2007,121444
+New York,Otsego County,2007,62194
+New York,Putnam County,2007,99012
+New York,Queens County,2007,2277779
+New York,Rensselaer County,2007,155294
+New York,Richmond County,2007,482854
+New York,Rockland County,2007,297005
+New York,St. Lawrence County,2007,109594
+New York,Saratoga County,2007,216259
+New York,Schenectady County,2007,150288
+New York,Schoharie County,2007,31932
+New York,Schuyler County,2007,18923
+New York,Seneca County,2007,34276
+New York,Steuben County,2007,96430
+New York,Suffolk County,2007,1511732
+New York,Sullivan County,2007,76403
+New York,Tioga County,2007,50402
+New York,Tompkins County,2007,100413
+New York,Ulster County,2007,181530
+New York,Warren County,2007,65804
+New York,Washington County,2007,62577
+New York,Wayne County,2007,91529
+New York,Westchester County,2007,946563
+New York,Wyoming County,2007,41841
+New York,Yates County,2007,24535
+New York,Albany County,2008,297537
+New York,Allegany County,2008,49370
+New York,Bronx County,2008,1389315
+New York,Broome County,2008,194635
+New York,Cattaraugus County,2008,79835
+New York,Cayuga County,2008,79755
+New York,Chautauqua County,2008,133595
+New York,Chemung County,2008,87902
+New York,Chenango County,2008,50937
+New York,Clinton County,2008,81699
+New York,Columbia County,2008,61961
+New York,Cortland County,2008,48131
+New York,Delaware County,2008,45938
+New York,Dutchess County,2008,292500
+New York,Erie County,2008,909858
+New York,Essex County,2008,37740
+New York,Franklin County,2008,50440
+New York,Fulton County,2008,55122
+New York,Genesee County,2008,57950
+New York,Greene County,2008,49106
+New York,Hamilton County,2008,4959
+New York,Herkimer County,2008,62293
+New York,Jefferson County,2008,117157
+New York,Kings County,2008,2549941
+New York,Lewis County,2008,26030
+New York,Livingston County,2008,63067
+New York,Madison County,2008,70092
+New York,Monroe County,2008,731543
+New York,Montgomery County,2008,48623
+New York,Nassau County,2008,1353151
+New York,New York County,2008,1631599
+New York,Niagara County,2008,214197
+New York,Oneida County,2008,230540
+New York,Onondaga County,2008,453373
+New York,Ontario County,2008,104782
+New York,Orange County,2008,379520
+New York,Orleans County,2008,42246
+New York,Oswego County,2008,121551
+New York,Otsego County,2008,61811
+New York,Putnam County,2008,99090
+New York,Queens County,2008,2288574
+New York,Rensselaer County,2008,155751
+New York,Richmond County,2008,487365
+New York,Rockland County,2008,298747
+New York,St. Lawrence County,2008,109553
+New York,Saratoga County,2008,217958
+New York,Schenectady County,2008,151252
+New York,Schoharie County,2008,31803
+New York,Schuyler County,2008,18868
+New York,Seneca County,2008,34060
+New York,Steuben County,2008,96452
+New York,Suffolk County,2008,1513435
+New York,Sullivan County,2008,75969
+New York,Tioga County,2008,50235
+New York,Tompkins County,2008,101027
+New York,Ulster County,2008,181722
+New York,Warren County,2008,65926
+New York,Washington County,2008,62727
+New York,Wayne County,2008,91517
+New York,Westchester County,2008,949835
+New York,Wyoming County,2008,41549
+New York,Yates County,2008,24573
+New York,Albany County,2009,298284
+New York,Allegany County,2009,49157
+New York,Bronx County,2009,1397287
+New York,Broome County,2009,194630
+New York,Cattaraugus County,2009,79689
+New York,Cayuga County,2009,79526
+New York,Chautauqua County,2009,133503
+New York,Chemung County,2009,88331
+New York,Chenango County,2009,50620
+New York,Clinton County,2009,81618
+New York,Columbia County,2009,61618
+New York,Cortland County,2009,47996
+New York,Delaware County,2009,45514
+New York,Dutchess County,2009,293562
+New York,Erie County,2009,909247
+New York,Essex County,2009,37686
+New York,Franklin County,2009,50274
+New York,Fulton County,2009,55053
+New York,Genesee County,2009,57868
+New York,Greene County,2009,48947
+New York,Hamilton County,2009,4923
+New York,Herkimer County,2009,62236
+New York,Jefferson County,2009,118719
+New York,Kings County,2009,2567098
+New York,Lewis County,2009,26157
+New York,Livingston County,2009,62871
+New York,Madison County,2009,69954
+New York,Monroe County,2009,733703
+New York,Montgomery County,2009,48616
+New York,Nassau County,2009,1357429
+New York,New York County,2009,1629054
+New York,Niagara County,2009,214557
+New York,Oneida County,2009,231044
+New York,Onondaga County,2009,454753
+New York,Ontario County,2009,105650
+New York,Orange County,2009,383532
+New York,Orleans County,2009,42051
+New York,Oswego County,2009,121377
+New York,Otsego County,2009,61602
+New York,Putnam County,2009,99265
+New York,Queens County,2009,2306712
+New York,Rensselaer County,2009,155541
+New York,Richmond County,2009,491730
+New York,Rockland County,2009,300173
+New York,St. Lawrence County,2009,109715
+New York,Saratoga County,2009,220069
+New York,Schenectady County,2009,152169
+New York,Schoharie County,2009,31529
+New York,Schuyler County,2009,18720
+New York,Seneca County,2009,34049
+New York,Steuben County,2009,96552
+New York,Suffolk County,2009,1518475
+New York,Sullivan County,2009,75828
+New York,Tioga County,2009,50064
+New York,Tompkins County,2009,101779
+New York,Ulster County,2009,181440
+New York,Warren County,2009,66021
+New York,Washington County,2009,62753
+New York,Wayne County,2009,91291
+New York,Westchester County,2009,955962
+New York,Wyoming County,2009,41398
+New York,Yates County,2009,24482
+New York,Albany County,2010,304085
+New York,Allegany County,2010,48973
+New York,Bronx County,2010,1386929
+New York,Broome County,2010,200474
+New York,Cattaraugus County,2010,80220
+New York,Cayuga County,2010,79905
+New York,Chautauqua County,2010,134726
+New York,Chemung County,2010,88895
+New York,Chenango County,2010,50404
+New York,Clinton County,2010,82099
+New York,Columbia County,2010,63035
+New York,Cortland County,2010,49277
+New York,Delaware County,2010,47888
+New York,Dutchess County,2010,297721
+New York,Erie County,2010,919160
+New York,Essex County,2010,39359
+New York,Franklin County,2010,51642
+New York,Fulton County,2010,55453
+New York,Genesee County,2010,59932
+New York,Greene County,2010,49137
+New York,Hamilton County,2010,4852
+New York,Herkimer County,2010,64470
+New York,Jefferson County,2010,116609
+New York,Kings County,2010,2509954
+New York,Lewis County,2010,27072
+New York,Livingston County,2010,65226
+New York,Madison County,2010,73442
+New York,Monroe County,2010,744589
+New York,Montgomery County,2010,50312
+New York,Nassau County,2010,1341642
+New York,New York County,2010,1589041
+New York,Niagara County,2010,216474
+New York,Oneida County,2010,234752
+New York,Onondaga County,2010,467549
+New York,Ontario County,2010,108183
+New York,Orange County,2010,373451
+New York,Orleans County,2010,42850
+New York,Oswego County,2010,122141
+New York,Otsego County,2010,62260
+New York,Putnam County,2010,99644
+New York,Queens County,2010,2234574
+New York,Rensselaer County,2010,159342
+New York,Richmond County,2010,469607
+New York,Rockland County,2010,312497
+New York,St. Lawrence County,2010,111821
+New York,Saratoga County,2010,220123
+New York,Schenectady County,2010,154867
+New York,Schoharie County,2010,32684
+New York,Schuyler County,2010,18341
+New York,Seneca County,2010,35271
+New York,Steuben County,2010,98969
+New York,Suffolk County,2010,1494337
+New York,Sullivan County,2010,77480
+New York,Tioga County,2010,51012
+New York,Tompkins County,2010,101743
+New York,Ulster County,2010,182422
+New York,Warren County,2010,65668
+New York,Washington County,2010,63359
+New York,Wayne County,2010,93751
+New York,Westchester County,2010,950760
+New York,Wyoming County,2010,42125
+New York,Yates County,2010,25376
+New York,Albany County,2011,304627
+New York,Allegany County,2011,48808
+New York,Bronx County,2011,1396954
+New York,Broome County,2011,199367
+New York,Cattaraugus County,2011,79820
+New York,Cayuga County,2011,79707
+New York,Chautauqua County,2011,134227
+New York,Chemung County,2011,88916
+New York,Chenango County,2011,50196
+New York,Clinton County,2011,81735
+New York,Columbia County,2011,62532
+New York,Cortland County,2011,49382
+New York,Delaware County,2011,47584
+New York,Dutchess County,2011,298141
+New York,Erie County,2011,919901
+New York,Essex County,2011,39277
+New York,Franklin County,2011,51544
+New York,Fulton County,2011,55116
+New York,Genesee County,2011,59894
+New York,Greene County,2011,48858
+New York,Hamilton County,2011,4827
+New York,Herkimer County,2011,64388
+New York,Jefferson County,2011,117809
+New York,Kings County,2011,2540918
+New York,Lewis County,2011,27021
+New York,Livingston County,2011,64834
+New York,Madison County,2011,72898
+New York,Monroe County,2011,746821
+New York,Montgomery County,2011,49919
+New York,Nassau County,2011,1346207
+New York,New York County,2011,1608717
+New York,Niagara County,2011,215726
+New York,Oneida County,2011,234226
+New York,Onondaga County,2011,467679
+New York,Ontario County,2011,108616
+New York,Orange County,2011,374171
+New York,Orleans County,2011,42653
+New York,Oswego County,2011,121987
+New York,Otsego County,2011,61979
+New York,Putnam County,2011,99805
+New York,Queens County,2011,2255261
+New York,Rensselaer County,2011,159606
+New York,Richmond County,2011,471014
+New York,Rockland County,2011,315448
+New York,St. Lawrence County,2011,112290
+New York,Saratoga County,2011,221136
+New York,Schenectady County,2011,154882
+New York,Schoharie County,2011,32619
+New York,Schuyler County,2011,18421
+New York,Seneca County,2011,35325
+New York,Steuben County,2011,99117
+New York,Suffolk County,2011,1498910
+New York,Sullivan County,2011,77061
+New York,Tioga County,2011,50889
+New York,Tompkins County,2011,101861
+New York,Ulster County,2011,182458
+New York,Warren County,2011,65750
+New York,Washington County,2011,63100
+New York,Wayne County,2011,93258
+New York,Westchester County,2011,956423
+New York,Wyoming County,2011,41852
+New York,Yates County,2011,25453
+New York,Albany County,2012,305776
+New York,Allegany County,2012,48221
+New York,Bronx County,2012,1411087
+New York,Broome County,2012,198689
+New York,Cattaraugus County,2012,79354
+New York,Cayuga County,2012,79524
+New York,Chautauqua County,2012,133333
+New York,Chemung County,2012,89162
+New York,Chenango County,2012,49898
+New York,Clinton County,2012,81730
+New York,Columbia County,2012,62450
+New York,Cortland County,2012,49028
+New York,Delaware County,2012,47217
+New York,Dutchess County,2012,297028
+New York,Erie County,2012,919998
+New York,Essex County,2012,38884
+New York,Franklin County,2012,51791
+New York,Fulton County,2012,54851
+New York,Genesee County,2012,59684
+New York,Greene County,2012,48589
+New York,Hamilton County,2012,4803
+New York,Herkimer County,2012,64232
+New York,Jefferson County,2012,120335
+New York,Kings County,2012,2568538
+New York,Lewis County,2012,27190
+New York,Livingston County,2012,64780
+New York,Madison County,2012,72438
+New York,Monroe County,2012,747468
+New York,Montgomery County,2012,49836
+New York,Nassau County,2012,1349753
+New York,New York County,2012,1624573
+New York,Niagara County,2012,214724
+New York,Oneida County,2012,233778
+New York,Onondaga County,2012,467138
+New York,Ontario County,2012,108641
+New York,Orange County,2012,373795
+New York,Orleans County,2012,42396
+New York,Oswego County,2012,121469
+New York,Otsego County,2012,61763
+New York,Putnam County,2012,99600
+New York,Queens County,2012,2271920
+New York,Rensselaer County,2012,159466
+New York,Richmond County,2012,470597
+New York,Rockland County,2012,317201
+New York,St. Lawrence County,2012,112388
+New York,Saratoga County,2012,222527
+New York,Schenectady County,2012,155044
+New York,Schoharie County,2012,32038
+New York,Schuyler County,2012,18505
+New York,Seneca County,2012,35354
+New York,Steuben County,2012,98903
+New York,Suffolk County,2012,1497017
+New York,Sullivan County,2012,76940
+New York,Tioga County,2012,50297
+New York,Tompkins County,2012,102800
+New York,Ulster County,2012,181555
+New York,Warren County,2012,65438
+New York,Washington County,2012,63016
+New York,Wayne County,2012,93038
+New York,Westchester County,2012,959731
+New York,Wyoming County,2012,41702
+New York,Yates County,2012,25341
+New York,Albany County,2013,306661
+New York,Allegany County,2013,47918
+New York,Bronx County,2013,1421498
+New York,Broome County,2013,197953
+New York,Cattaraugus County,2013,79003
+New York,Cayuga County,2013,79112
+New York,Chautauqua County,2013,132884
+New York,Chemung County,2013,88230
+New York,Chenango County,2013,49489
+New York,Clinton County,2013,81544
+New York,Columbia County,2013,62153
+New York,Cortland County,2013,48913
+New York,Delaware County,2013,46806
+New York,Dutchess County,2013,296292
+New York,Erie County,2013,921015
+New York,Essex County,2013,38610
+New York,Franklin County,2013,51222
+New York,Fulton County,2013,54353
+New York,Genesee County,2013,59127
+New York,Greene County,2013,48308
+New York,Hamilton County,2013,4766
+New York,Herkimer County,2013,63888
+New York,Jefferson County,2013,118617
+New York,Kings County,2013,2587759
+New York,Lewis County,2013,27092
+New York,Livingston County,2013,64612
+New York,Madison County,2013,72490
+New York,Monroe County,2013,748456
+New York,Montgomery County,2013,49754
+New York,Nassau County,2013,1352355
+New York,New York County,2013,1628379
+New York,Niagara County,2013,214125
+New York,Oneida County,2013,233370
+New York,Onondaga County,2013,468302
+New York,Ontario County,2013,109081
+New York,Orange County,2013,374417
+New York,Orleans County,2013,42233
+New York,Oswego County,2013,121187
+New York,Otsego County,2013,61637
+New York,Putnam County,2013,99546
+New York,Queens County,2013,2286788
+New York,Rensselaer County,2013,159590
+New York,Richmond County,2013,471783
+New York,Rockland County,2013,319290
+New York,St. Lawrence County,2013,111967
+New York,Saratoga County,2013,224151
+New York,Schenectady County,2013,154978
+New York,Schoharie County,2013,31902
+New York,Schuyler County,2013,18391
+New York,Seneca County,2013,35244
+New York,Steuben County,2013,98826
+New York,Suffolk County,2013,1497389
+New York,Sullivan County,2013,76957
+New York,Tioga County,2013,50128
+New York,Tompkins County,2013,103668
+New York,Ulster County,2013,180722
+New York,Warren County,2013,65111
+New York,Washington County,2013,62785
+New York,Wayne County,2013,92360
+New York,Westchester County,2013,964713
+New York,Wyoming County,2013,41369
+New York,Yates County,2013,25219
+New York,Albany County,2014,307246
+New York,Allegany County,2014,47671
+New York,Bronx County,2014,1430474
+New York,Broome County,2014,197295
+New York,Cattaraugus County,2014,78690
+New York,Cayuga County,2014,78782
+New York,Chautauqua County,2014,131792
+New York,Chemung County,2014,87239
+New York,Chenango County,2014,49339
+New York,Clinton County,2014,81497
+New York,Columbia County,2014,61956
+New York,Cortland County,2014,48747
+New York,Delaware County,2014,46567
+New York,Dutchess County,2014,295162
+New York,Erie County,2014,921934
+New York,Essex County,2014,38333
+New York,Franklin County,2014,51110
+New York,Fulton County,2014,53940
+New York,Genesee County,2014,58745
+New York,Greene County,2014,47963
+New York,Hamilton County,2014,4701
+New York,Herkimer County,2014,63393
+New York,Jefferson County,2014,118121
+New York,Kings County,2014,2601527
+New York,Lewis County,2014,27085
+New York,Livingston County,2014,64574
+New York,Madison County,2014,72251
+New York,Monroe County,2014,747583
+New York,Montgomery County,2014,49689
+New York,Nassau County,2014,1354851
+New York,New York County,2014,1631733
+New York,Niagara County,2014,213331
+New York,Oneida County,2014,232634
+New York,Onondaga County,2014,467472
+New York,Ontario County,2014,109378
+New York,Orange County,2014,374945
+New York,Orleans County,2014,41864
+New York,Oswego County,2014,120611
+New York,Otsego County,2014,60973
+New York,Putnam County,2014,99407
+New York,Queens County,2014,2298234
+New York,Rensselaer County,2014,159719
+New York,Richmond County,2014,471899
+New York,Rockland County,2014,321120
+New York,St. Lawrence County,2014,111476
+New York,Saratoga County,2014,224605
+New York,Schenectady County,2014,155050
+New York,Schoharie County,2014,31768
+New York,Schuyler County,2014,18184
+New York,Seneca County,2014,34891
+New York,Steuben County,2014,98153
+New York,Suffolk County,2014,1495553
+New York,Sullivan County,2014,75651
+New York,Tioga County,2014,49855
+New York,Tompkins County,2014,103530
+New York,Ulster County,2014,180435
+New York,Warren County,2014,64893
+New York,Washington County,2014,62504
+New York,Wayne County,2014,91819
+New York,Westchester County,2014,967180
+New York,Wyoming County,2014,41145
+New York,Yates County,2014,25162
+New York,Albany County,2015,307521
+New York,Allegany County,2015,47352
+New York,Bronx County,2015,1439480
+New York,Broome County,2015,195981
+New York,Cattaraugus County,2015,77941
+New York,Cayuga County,2015,78323
+New York,Chautauqua County,2015,130582
+New York,Chemung County,2015,86771
+New York,Chenango County,2015,48794
+New York,Clinton County,2015,80759
+New York,Columbia County,2015,61451
+New York,Cortland County,2015,48299
+New York,Delaware County,2015,45895
+New York,Dutchess County,2015,294105
+New York,Erie County,2015,920858
+New York,Essex County,2015,37973
+New York,Franklin County,2015,50552
+New York,Fulton County,2015,53812
+New York,Genesee County,2015,58488
+New York,Greene County,2015,47621
+New York,Hamilton County,2015,4700
+New York,Herkimer County,2015,62659
+New York,Jefferson County,2015,116539
+New York,Kings County,2015,2608797
+New York,Lewis County,2015,26824
+New York,Livingston County,2015,64336
+New York,Madison County,2015,71779
+New York,Monroe County,2015,745847
+New York,Montgomery County,2015,49576
+New York,Nassau County,2015,1354987
+New York,New York County,2015,1637327
+New York,Niagara County,2015,212391
+New York,Oneida County,2015,231315
+New York,Onondaga County,2015,466320
+New York,Ontario County,2015,109324
+New York,Orange County,2015,375911
+New York,Orleans County,2015,41482
+New York,Oswego County,2015,119764
+New York,Otsego County,2015,60524
+New York,Putnam County,2015,99158
+New York,Queens County,2015,2305252
+New York,Rensselaer County,2015,159413
+New York,Richmond County,2015,472301
+New York,Rockland County,2015,322938
+New York,St. Lawrence County,2015,110399
+New York,Saratoga County,2015,226182
+New York,Schenectady County,2015,154773
+New York,Schoharie County,2015,31408
+New York,Schuyler County,2015,18037
+New York,Seneca County,2015,34814
+New York,Steuben County,2015,97549
+New York,Suffolk County,2015,1491997
+New York,Sullivan County,2015,74850
+New York,Tioga County,2015,49390
+New York,Tompkins County,2015,103187
+New York,Ulster County,2015,179696
+New York,Warren County,2015,64449
+New York,Washington County,2015,62277
+New York,Wayne County,2015,91316
+New York,Westchester County,2015,968891
+New York,Wyoming County,2015,40939
+New York,Yates County,2015,25145
+New York,Albany County,2016,307810
+New York,Allegany County,2016,47063
+New York,Bronx County,2016,1443678
+New York,Broome County,2016,194575
+New York,Cattaraugus County,2016,77711
+New York,Cayuga County,2016,77696
+New York,Chautauqua County,2016,129310
+New York,Chemung County,2016,85692
+New York,Chenango County,2016,48325
+New York,Clinton County,2016,80521
+New York,Columbia County,2016,60801
+New York,Cortland County,2016,47950
+New York,Delaware County,2016,45399
+New York,Dutchess County,2016,293065
+New York,Erie County,2016,918992
+New York,Essex County,2016,37695
+New York,Franklin County,2016,51073
+New York,Fulton County,2016,53643
+New York,Genesee County,2016,58024
+New York,Greene County,2016,47481
+New York,Hamilton County,2016,4558
+New York,Herkimer County,2016,62434
+New York,Jefferson County,2016,113280
+New York,Kings County,2016,2608146
+New York,Lewis County,2016,26656
+New York,Livingston County,2016,64013
+New York,Madison County,2016,71426
+New York,Monroe County,2016,744150
+New York,Montgomery County,2016,49242
+New York,Nassau County,2016,1356067
+New York,New York County,2016,1636721
+New York,Niagara County,2016,211555
+New York,Oneida County,2016,230372
+New York,Onondaga County,2016,464139
+New York,Ontario County,2016,109348
+New York,Orange County,2016,377894
+New York,Orleans County,2016,41270
+New York,Oswego County,2016,118907
+New York,Otsego County,2016,60135
+New York,Putnam County,2016,98753
+New York,Queens County,2016,2306249
+New York,Rensselaer County,2016,159311
+New York,Richmond County,2016,474160
+New York,Rockland County,2016,323231
+New York,St. Lawrence County,2016,109506
+New York,Saratoga County,2016,227189
+New York,Schenectady County,2016,154473
+New York,Schoharie County,2016,31318
+New York,Schuyler County,2016,17976
+New York,Seneca County,2016,34725
+New York,Steuben County,2016,96975
+New York,Suffolk County,2016,1486699
+New York,Sullivan County,2016,74913
+New York,Tioga County,2016,48858
+New York,Tompkins County,2016,103042
+New York,Ulster County,2016,179045
+New York,Warren County,2016,64525
+New York,Washington County,2016,61812
+New York,Wayne County,2016,90823
+New York,Westchester County,2016,970461
+New York,Wyoming County,2016,40450
+New York,Yates County,2016,25080
+New York,Albany County,2017,307919
+New York,Allegany County,2017,46669
+New York,Bronx County,2017,1439956
+New York,Broome County,2017,193255
+New York,Cattaraugus County,2017,77199
+New York,Cayuga County,2017,77495
+New York,Chautauqua County,2017,128424
+New York,Chemung County,2017,84825
+New York,Chenango County,2017,47842
+New York,Clinton County,2017,80595
+New York,Columbia County,2017,60312
+New York,Cortland County,2017,47834
+New York,Delaware County,2017,45061
+New York,Dutchess County,2017,293512
+New York,Erie County,2017,919378
+New York,Essex County,2017,37521
+New York,Franklin County,2017,50478
+New York,Fulton County,2017,53815
+New York,Genesee County,2017,57828
+New York,Greene County,2017,47403
+New York,Hamilton County,2017,4477
+New York,Herkimer County,2017,62193
+New York,Jefferson County,2017,113488
+New York,Kings County,2017,2594357
+New York,Lewis County,2017,26606
+New York,Livingston County,2017,63503
+New York,Madison County,2017,70993
+New York,Monroe County,2017,743528
+New York,Montgomery County,2017,49203
+New York,Nassau County,2017,1357260
+New York,New York County,2017,1632337
+New York,Niagara County,2017,210911
+New York,Oneida County,2017,229980
+New York,Onondaga County,2017,461843
+New York,Ontario County,2017,109652
+New York,Orange County,2017,379896
+New York,Orleans County,2017,40815
+New York,Oswego County,2017,118444
+New York,Otsego County,2017,59955
+New York,Putnam County,2017,98901
+New York,Queens County,2017,2295226
+New York,Rensselaer County,2017,159214
+New York,Richmond County,2017,475819
+New York,Rockland County,2017,324600
+New York,St. Lawrence County,2017,108768
+New York,Saratoga County,2017,229314
+New York,Schenectady County,2017,154716
+New York,Schoharie County,2017,31260
+New York,Schuyler County,2017,17910
+New York,Seneca County,2017,34293
+New York,Steuben County,2017,96379
+New York,Suffolk County,2017,1483862
+New York,Sullivan County,2017,75000
+New York,Tioga County,2017,48659
+New York,Tompkins County,2017,102731
+New York,Ulster County,2017,178650
+New York,Warren County,2017,64406
+New York,Washington County,2017,61600
+New York,Wayne County,2017,90429
+New York,Westchester County,2017,970033
+New York,Wyoming County,2017,40296
+New York,Yates County,2017,25021
+New York,Albany County,2018,306691
+New York,Allegany County,2018,46286
+New York,Bronx County,2018,1432316
+New York,Broome County,2018,192222
+New York,Cattaraugus County,2018,76748
+New York,Cayuga County,2018,77121
+New York,Chautauqua County,2018,127516
+New York,Chemung County,2018,84033
+New York,Chenango County,2018,47502
+New York,Clinton County,2018,80675
+New York,Columbia County,2018,59852
+New York,Cortland County,2018,47721
+New York,Delaware County,2018,44624
+New York,Dutchess County,2018,293814
+New York,Erie County,2018,919941
+New York,Essex County,2018,37309
+New York,Franklin County,2018,50325
+New York,Fulton County,2018,53654
+New York,Genesee County,2018,57509
+New York,Greene County,2018,47401
+New York,Hamilton County,2018,4453
+New York,Herkimer County,2018,61760
+New York,Jefferson County,2018,112266
+New York,Kings County,2018,2580088
+New York,Lewis County,2018,26503
+New York,Livingston County,2018,63281
+New York,Madison County,2018,71180
+New York,Monroe County,2018,744239
+New York,Montgomery County,2018,49502
+New York,Nassau County,2018,1357423
+New York,New York County,2018,1632393
+New York,Niagara County,2018,210300
+New York,Oneida County,2018,229431
+New York,Onondaga County,2018,461890
+New York,Ontario County,2018,109962
+New York,Orange County,2018,382411
+New York,Orleans County,2018,40708
+New York,Oswego County,2018,117520
+New York,Otsego County,2018,59828
+New York,Putnam County,2018,98871
+New York,Queens County,2018,2275286
+New York,Rensselaer County,2018,159452
+New York,Richmond County,2018,476531
+New York,Rockland County,2018,325656
+New York,St. Lawrence County,2018,108534
+New York,Saratoga County,2018,230127
+New York,Schenectady County,2018,155334
+New York,Schoharie County,2018,31182
+New York,Schuyler County,2018,17842
+New York,Seneca County,2018,34277
+New York,Steuben County,2018,95876
+New York,Suffolk County,2018,1482275
+New York,Sullivan County,2018,75381
+New York,Tioga County,2018,48515
+New York,Tompkins County,2018,102382
+New York,Ulster County,2018,178510
+New York,Warren County,2018,64269
+New York,Washington County,2018,61335
+New York,Wayne County,2018,90110
+New York,Westchester County,2018,968928
+New York,Wyoming County,2018,40068
+New York,Yates County,2018,24959
+New York,Albany County,2019,304752
+New York,Allegany County,2019,45915
+New York,Bronx County,2019,1418187
+New York,Broome County,2019,190737
+New York,Cattaraugus County,2019,76230
+New York,Cayuga County,2019,76450
+New York,Chautauqua County,2019,126636
+New York,Chemung County,2019,83404
+New York,Chenango County,2019,47234
+New York,Clinton County,2019,80031
+New York,Columbia County,2019,59582
+New York,Cortland County,2019,47410
+New York,Delaware County,2019,44356
+New York,Dutchess County,2019,293934
+New York,Erie County,2019,918813
+New York,Essex County,2019,36987
+New York,Franklin County,2019,50102
+New York,Fulton County,2019,53336
+New York,Genesee County,2019,57414
+New York,Greene County,2019,47211
+New York,Hamilton County,2019,4438
+New York,Herkimer County,2019,61356
+New York,Jefferson County,2019,110143
+New York,Kings County,2019,2562329
+New York,Lewis County,2019,26329
+New York,Livingston County,2019,62893
+New York,Madison County,2019,70875
+New York,Monroe County,2019,742605
+New York,Montgomery County,2019,49355
+New York,Nassau County,2019,1356073
+New York,New York County,2019,1632326
+New York,Niagara County,2019,209563
+New York,Oneida County,2019,228240
+New York,Onondaga County,2019,460870
+New York,Ontario County,2019,109984
+New York,Orange County,2019,384950
+New York,Orleans County,2019,40351
+New York,Oswego County,2019,116934
+New York,Otsego County,2019,59347
+New York,Putnam County,2019,98511
+New York,Queens County,2019,2253942
+New York,Rensselaer County,2019,158981
+New York,Richmond County,2019,476141
+New York,Rockland County,2019,326352
+New York,St. Lawrence County,2019,107766
+New York,Saratoga County,2019,229635
+New York,Schenectady County,2019,155548
+New York,Schoharie County,2019,31052
+New York,Schuyler County,2019,17812
+New York,Seneca County,2019,34189
+New York,Steuben County,2019,95328
+New York,Suffolk County,2019,1478325
+New York,Sullivan County,2019,75551
+New York,Tioga County,2019,48221
+New York,Tompkins County,2019,101971
+New York,Ulster County,2019,177933
+New York,Warren County,2019,63980
+New York,Washington County,2019,61168
+New York,Wayne County,2019,89816
+New York,Westchester County,2019,968467
+New York,Wyoming County,2019,39858
+New York,Yates County,2019,24902
+Washington,Adams County,2000,16450
+Washington,Asotin County,2000,20555
+Washington,Benton County,2000,143108
+Washington,Chelan County,2000,66688
+Washington,Clallam County,2000,64285
+Washington,Clark County,2000,347525
+Washington,Columbia County,2000,4071
+Washington,Cowlitz County,2000,93012
+Washington,Douglas County,2000,32691
+Washington,Ferry County,2000,7276
+Washington,Franklin County,2000,49602
+Washington,Garfield County,2000,2389
+Washington,Grant County,2000,74959
+Washington,Grays Harbor County,2000,67149
+Washington,Island County,2000,71847
+Washington,Jefferson County,2000,26418
+Washington,King County,2000,1739277
+Washington,Kitsap County,2000,232355
+Washington,Kittitas County,2000,33511
+Washington,Klickitat County,2000,19214
+Washington,Lewis County,2000,68618
+Washington,Lincoln County,2000,10175
+Washington,Mason County,2000,49554
+Washington,Okanogan County,2000,39554
+Washington,Pacific County,2000,20932
+Washington,Pend Oreille County,2000,11738
+Washington,Pierce County,2000,703985
+Washington,San Juan County,2000,14145
+Washington,Skagit County,2000,103475
+Washington,Skamania County,2000,9893
+Washington,Snohomish County,2000,609117
+Washington,Spokane County,2000,418826
+Washington,Stevens County,2000,40179
+Washington,Thurston County,2000,208304
+Washington,Wahkiakum County,2000,3837
+Washington,Walla Walla County,2000,55227
+Washington,Whatcom County,2000,167760
+Washington,Whitman County,2000,40725
+Washington,Yakima County,2000,222696
+Washington,Adams County,2001,16196
+Washington,Asotin County,2001,20467
+Washington,Benton County,2001,145611
+Washington,Chelan County,2001,66692
+Washington,Clallam County,2001,64792
+Washington,Clark County,2001,358517
+Washington,Columbia County,2001,4045
+Washington,Cowlitz County,2001,93623
+Washington,Douglas County,2001,32784
+Washington,Ferry County,2001,7277
+Washington,Franklin County,2001,50771
+Washington,Garfield County,2001,2302
+Washington,Grant County,2001,76171
+Washington,Grays Harbor County,2001,68004
+Washington,Island County,2001,74161
+Washington,Jefferson County,2001,26836
+Washington,King County,2001,1756988
+Washington,Kitsap County,2001,233348
+Washington,Kittitas County,2001,33894
+Washington,Klickitat County,2001,19208
+Washington,Lewis County,2001,68899
+Washington,Lincoln County,2001,10116
+Washington,Mason County,2001,49994
+Washington,Okanogan County,2001,39117
+Washington,Pacific County,2001,20653
+Washington,Pend Oreille County,2001,11861
+Washington,Pierce County,2001,716248
+Washington,San Juan County,2001,14343
+Washington,Skagit County,2001,104876
+Washington,Skamania County,2001,9829
+Washington,Snohomish County,2001,621144
+Washington,Spokane County,2001,422803
+Washington,Stevens County,2001,40038
+Washington,Thurston County,2001,212544
+Washington,Wahkiakum County,2001,3780
+Washington,Walla Walla County,2001,55218
+Washington,Whatcom County,2001,171250
+Washington,Whitman County,2001,40579
+Washington,Yakima County,2001,222806
+Washington,Adams County,2002,16325
+Washington,Asotin County,2002,20511
+Washington,Benton County,2002,149718
+Washington,Chelan County,2002,66927
+Washington,Clallam County,2002,65819
+Washington,Clark County,2002,368690
+Washington,Columbia County,2002,4016
+Washington,Cowlitz County,2002,94313
+Washington,Douglas County,2002,33017
+Washington,Ferry County,2002,7261
+Washington,Franklin County,2002,52831
+Washington,Garfield County,2002,2265
+Washington,Grant County,2002,77129
+Washington,Grays Harbor County,2002,68313
+Washington,Island County,2002,75603
+Washington,Jefferson County,2002,27182
+Washington,King County,2002,1763669
+Washington,Kitsap County,2002,235499
+Washington,Kittitas County,2002,34777
+Washington,Klickitat County,2002,19132
+Washington,Lewis County,2002,69349
+Washington,Lincoln County,2002,10048
+Washington,Mason County,2002,50701
+Washington,Okanogan County,2002,38849
+Washington,Pacific County,2002,20551
+Washington,Pend Oreille County,2002,11972
+Washington,Pierce County,2002,728555
+Washington,San Juan County,2002,14616
+Washington,Skagit County,2002,106208
+Washington,Skamania County,2002,9879
+Washington,Snohomish County,2002,629671
+Washington,Spokane County,2002,427045
+Washington,Stevens County,2002,40020
+Washington,Thurston County,2002,216607
+Washington,Wahkiakum County,2002,3792
+Washington,Walla Walla County,2002,55903
+Washington,Whatcom County,2002,174980
+Washington,Whitman County,2002,41050
+Washington,Yakima County,2002,223394
+Washington,Adams County,2003,16425
+Washington,Asotin County,2003,20499
+Washington,Benton County,2003,152586
+Washington,Chelan County,2003,67377
+Washington,Clallam County,2003,66349
+Washington,Clark County,2003,377233
+Washington,Columbia County,2003,4029
+Washington,Cowlitz County,2003,94427
+Washington,Douglas County,2003,33405
+Washington,Ferry County,2003,7388
+Washington,Franklin County,2003,56128
+Washington,Garfield County,2003,2268
+Washington,Grant County,2003,78148
+Washington,Grays Harbor County,2003,69036
+Washington,Island County,2003,76666
+Washington,Jefferson County,2003,27542
+Washington,King County,2003,1769753
+Washington,Kitsap County,2003,238988
+Washington,Kittitas County,2003,35424
+Washington,Klickitat County,2003,19328
+Washington,Lewis County,2003,70146
+Washington,Lincoln County,2003,10118
+Washington,Mason County,2003,51564
+Washington,Okanogan County,2003,38529
+Washington,Pacific County,2003,20923
+Washington,Pend Oreille County,2003,12048
+Washington,Pierce County,2003,736260
+Washington,San Juan County,2003,14748
+Washington,Skagit County,2003,108319
+Washington,Skamania County,2003,10028
+Washington,Snohomish County,2003,632925
+Washington,Spokane County,2003,430867
+Washington,Stevens County,2003,40106
+Washington,Thurston County,2003,220081
+Washington,Wahkiakum County,2003,3663
+Washington,Walla Walla County,2003,56416
+Washington,Whatcom County,2003,177821
+Washington,Whitman County,2003,40751
+Washington,Yakima County,2003,224950
+Washington,Adams County,2004,16415
+Washington,Asotin County,2004,20787
+Washington,Benton County,2004,154366
+Washington,Chelan County,2004,68152
+Washington,Clallam County,2004,67446
+Washington,Clark County,2004,389151
+Washington,Columbia County,2004,4062
+Washington,Cowlitz County,2004,95424
+Washington,Douglas County,2004,33980
+Washington,Ferry County,2004,7437
+Washington,Franklin County,2004,59112
+Washington,Garfield County,2004,2203
+Washington,Grant County,2004,78982
+Washington,Grays Harbor County,2004,69634
+Washington,Island County,2004,79372
+Washington,Jefferson County,2004,27886
+Washington,King County,2004,1782942
+Washington,Kitsap County,2004,239311
+Washington,Kittitas County,2004,36545
+Washington,Klickitat County,2004,19343
+Washington,Lewis County,2004,70722
+Washington,Lincoln County,2004,10310
+Washington,Mason County,2004,52771
+Washington,Okanogan County,2004,38790
+Washington,Pacific County,2004,20994
+Washington,Pend Oreille County,2004,12246
+Washington,Pierce County,2004,741321
+Washington,San Juan County,2004,15013
+Washington,Skagit County,2004,110243
+Washington,Skamania County,2004,10213
+Washington,Snohomish County,2004,639440
+Washington,Spokane County,2004,435011
+Washington,Stevens County,2004,40383
+Washington,Thurston County,2004,223535
+Washington,Wahkiakum County,2004,3736
+Washington,Walla Walla County,2004,57035
+Washington,Whatcom County,2004,181715
+Washington,Whitman County,2004,41248
+Washington,Yakima County,2004,227013
+Washington,Adams County,2005,16599
+Washington,Asotin County,2005,20899
+Washington,Benton County,2005,156050
+Washington,Chelan County,2005,69066
+Washington,Clallam County,2005,68749
+Washington,Clark County,2005,399553
+Washington,Columbia County,2005,4015
+Washington,Cowlitz County,2005,96359
+Washington,Douglas County,2005,34473
+Washington,Ferry County,2005,7443
+Washington,Franklin County,2005,62581
+Washington,Garfield County,2005,2189
+Washington,Grant County,2005,79845
+Washington,Grays Harbor County,2005,70144
+Washington,Island County,2005,79744
+Washington,Jefferson County,2005,28430
+Washington,King County,2005,1803691
+Washington,Kitsap County,2005,235769
+Washington,Kittitas County,2005,37015
+Washington,Klickitat County,2005,19411
+Washington,Lewis County,2005,71661
+Washington,Lincoln County,2005,10177
+Washington,Mason County,2005,53884
+Washington,Okanogan County,2005,39056
+Washington,Pacific County,2005,21262
+Washington,Pend Oreille County,2005,12341
+Washington,Pierce County,2005,749468
+Washington,San Juan County,2005,15083
+Washington,Skagit County,2005,112176
+Washington,Skamania County,2005,10272
+Washington,Snohomish County,2005,649229
+Washington,Spokane County,2005,440145
+Washington,Stevens County,2005,40803
+Washington,Thurston County,2005,227638
+Washington,Wahkiakum County,2005,3828
+Washington,Walla Walla County,2005,57021
+Washington,Whatcom County,2005,185356
+Washington,Whitman County,2005,41694
+Washington,Yakima County,2005,228163
+Washington,Adams County,2006,16615
+Washington,Asotin County,2006,21108
+Washington,Benton County,2006,157577
+Washington,Chelan County,2006,69919
+Washington,Clallam County,2006,69671
+Washington,Clark County,2006,408140
+Washington,Columbia County,2006,3943
+Washington,Cowlitz County,2006,98953
+Washington,Douglas County,2006,35370
+Washington,Ferry County,2006,7501
+Washington,Franklin County,2006,66143
+Washington,Garfield County,2006,2147
+Washington,Grant County,2006,81390
+Washington,Grays Harbor County,2006,70854
+Washington,Island County,2006,81109
+Washington,Jefferson County,2006,29144
+Washington,King County,2006,1832059
+Washington,Kitsap County,2006,239543
+Washington,Kittitas County,2006,38057
+Washington,Klickitat County,2006,19864
+Washington,Lewis County,2006,72833
+Washington,Lincoln County,2006,10204
+Washington,Mason County,2006,55265
+Washington,Okanogan County,2006,39218
+Washington,Pacific County,2006,21354
+Washington,Pend Oreille County,2006,12652
+Washington,Pierce County,2006,764241
+Washington,San Juan County,2006,15164
+Washington,Skagit County,2006,114416
+Washington,Skamania County,2006,10549
+Washington,Snohomish County,2006,663645
+Washington,Spokane County,2006,447211
+Washington,Stevens County,2006,41392
+Washington,Thurston County,2006,233335
+Washington,Wahkiakum County,2006,3940
+Washington,Walla Walla County,2006,57236
+Washington,Whatcom County,2006,188837
+Washington,Whitman County,2006,41473
+Washington,Yakima County,2006,230171
+Washington,Adams County,2007,16943
+Washington,Asotin County,2007,21167
+Washington,Benton County,2007,159444
+Washington,Chelan County,2007,70677
+Washington,Clallam County,2007,70272
+Washington,Clark County,2007,416662
+Washington,Columbia County,2007,3954
+Washington,Cowlitz County,2007,100557
+Washington,Douglas County,2007,36322
+Washington,Ferry County,2007,7362
+Washington,Franklin County,2007,69518
+Washington,Garfield County,2007,2091
+Washington,Grant County,2007,83111
+Washington,Grays Harbor County,2007,71343
+Washington,Island County,2007,80860
+Washington,Jefferson County,2007,29273
+Washington,King County,2007,1857506
+Washington,Kitsap County,2007,238087
+Washington,Kittitas County,2007,38384
+Washington,Klickitat County,2007,20109
+Washington,Lewis County,2007,73699
+Washington,Lincoln County,2007,10266
+Washington,Mason County,2007,56823
+Washington,Okanogan County,2007,39589
+Washington,Pacific County,2007,21458
+Washington,Pend Oreille County,2007,12792
+Washington,Pierce County,2007,774049
+Washington,San Juan County,2007,15280
+Washington,Skagit County,2007,116261
+Washington,Skamania County,2007,10749
+Washington,Snohomish County,2007,675805
+Washington,Spokane County,2007,456187
+Washington,Stevens County,2007,41953
+Washington,Thurston County,2007,238717
+Washington,Wahkiakum County,2007,3985
+Washington,Walla Walla County,2007,57509
+Washington,Whatcom County,2007,192843
+Washington,Whitman County,2007,41084
+Washington,Yakima County,2007,232288
+Washington,Adams County,2008,17257
+Washington,Asotin County,2008,21385
+Washington,Benton County,2008,164020
+Washington,Chelan County,2008,71308
+Washington,Clallam County,2008,70937
+Washington,Clark County,2008,424666
+Washington,Columbia County,2008,3970
+Washington,Cowlitz County,2008,101537
+Washington,Douglas County,2008,36993
+Washington,Ferry County,2008,7393
+Washington,Franklin County,2008,73186
+Washington,Garfield County,2008,2117
+Washington,Grant County,2008,85616
+Washington,Grays Harbor County,2008,71447
+Washington,Island County,2008,80847
+Washington,Jefferson County,2008,29592
+Washington,King County,2008,1884242
+Washington,Kitsap County,2008,239865
+Washington,Kittitas County,2008,39151
+Washington,Klickitat County,2008,20391
+Washington,Lewis County,2008,74362
+Washington,Lincoln County,2008,10322
+Washington,Mason County,2008,57717
+Washington,Okanogan County,2008,40115
+Washington,Pacific County,2008,21358
+Washington,Pend Oreille County,2008,12948
+Washington,Pierce County,2008,787099
+Washington,San Juan County,2008,15462
+Washington,Skagit County,2008,118373
+Washington,Skamania County,2008,10864
+Washington,Snohomish County,2008,685296
+Washington,Spokane County,2008,462408
+Washington,Stevens County,2008,42183
+Washington,Thurston County,2008,245571
+Washington,Wahkiakum County,2008,4058
+Washington,Walla Walla County,2008,58149
+Washington,Whatcom County,2008,196960
+Washington,Whitman County,2008,42027
+Washington,Yakima County,2008,234881
+Washington,Adams County,2009,17732
+Washington,Asotin County,2009,21432
+Washington,Benton County,2009,168294
+Washington,Chelan County,2009,72372
+Washington,Clallam County,2009,71413
+Washington,Clark County,2009,432002
+Washington,Columbia County,2009,4040
+Washington,Cowlitz County,2009,101966
+Washington,Douglas County,2009,37565
+Washington,Ferry County,2009,7520
+Washington,Franklin County,2009,77355
+Washington,Garfield County,2009,2101
+Washington,Grant County,2009,88098
+Washington,Grays Harbor County,2009,71797
+Washington,Island County,2009,81054
+Washington,Jefferson County,2009,29676
+Washington,King County,2009,1916441
+Washington,Kitsap County,2009,240862
+Washington,Kittitas County,2009,39532
+Washington,Klickitat County,2009,20554
+Washington,Lewis County,2009,74741
+Washington,Lincoln County,2009,10248
+Washington,Mason County,2009,58016
+Washington,Okanogan County,2009,40552
+Washington,Pacific County,2009,21272
+Washington,Pend Oreille County,2009,12946
+Washington,Pierce County,2009,796836
+Washington,San Juan County,2009,15484
+Washington,Skagit County,2009,119534
+Washington,Skamania County,2009,10894
+Washington,Snohomish County,2009,694571
+Washington,Spokane County,2009,468684
+Washington,Stevens County,2009,42334
+Washington,Thurston County,2009,250979
+Washington,Wahkiakum County,2009,4062
+Washington,Walla Walla County,2009,59059
+Washington,Whatcom County,2009,200434
+Washington,Whitman County,2009,42689
+Washington,Yakima County,2009,239054
+Washington,Adams County,2010,18791
+Washington,Asotin County,2010,21725
+Washington,Benton County,2010,176467
+Washington,Chelan County,2010,72747
+Washington,Clallam County,2010,71505
+Washington,Clark County,2010,426733
+Washington,Columbia County,2010,4094
+Washington,Cowlitz County,2010,102358
+Washington,Douglas County,2010,38513
+Washington,Ferry County,2010,7545
+Washington,Franklin County,2010,79076
+Washington,Garfield County,2010,2261
+Washington,Grant County,2010,89554
+Washington,Grays Harbor County,2010,72849
+Washington,Island County,2010,78700
+Washington,Jefferson County,2010,29899
+Washington,King County,2010,1938431
+Washington,Kitsap County,2010,251696
+Washington,Kittitas County,2010,40992
+Washington,Klickitat County,2010,20375
+Washington,Lewis County,2010,75503
+Washington,Lincoln County,2010,10572
+Washington,Mason County,2010,60733
+Washington,Okanogan County,2010,41224
+Washington,Pacific County,2010,20879
+Washington,Pend Oreille County,2010,12950
+Washington,Pierce County,2010,795402
+Washington,San Juan County,2010,15783
+Washington,Skagit County,2010,116939
+Washington,Skamania County,2010,11115
+Washington,Snohomish County,2010,715522
+Washington,Spokane County,2010,472102
+Washington,Stevens County,2010,43472
+Washington,Thurston County,2010,253011
+Washington,Wahkiakum County,2010,3983
+Washington,Walla Walla County,2010,58915
+Washington,Whatcom County,2010,201549
+Washington,Whitman County,2010,44795
+Washington,Yakima County,2010,244249
+Washington,Adams County,2011,18876
+Washington,Asotin County,2011,21984
+Washington,Benton County,2011,180449
+Washington,Chelan County,2011,73213
+Washington,Clallam County,2011,71778
+Washington,Clark County,2011,432388
+Washington,Columbia County,2011,4005
+Washington,Cowlitz County,2011,102313
+Washington,Douglas County,2011,38660
+Washington,Ferry County,2011,7641
+Washington,Franklin County,2011,83048
+Washington,Garfield County,2011,2237
+Washington,Grant County,2011,90588
+Washington,Grays Harbor County,2011,72374
+Washington,Island County,2011,78970
+Washington,Jefferson County,2011,29858
+Washington,King County,2011,1974499
+Washington,Kitsap County,2011,254351
+Washington,Kittitas County,2011,41561
+Washington,Klickitat County,2011,20691
+Washington,Lewis County,2011,75674
+Washington,Lincoln County,2011,10527
+Washington,Mason County,2011,60882
+Washington,Okanogan County,2011,41325
+Washington,Pacific County,2011,20888
+Washington,Pend Oreille County,2011,12956
+Washington,Pierce County,2011,807728
+Washington,San Juan County,2011,15807
+Washington,Skagit County,2011,117578
+Washington,Skamania County,2011,11156
+Washington,Snohomish County,2011,722149
+Washington,Spokane County,2011,473516
+Washington,Stevens County,2011,43457
+Washington,Thurston County,2011,256439
+Washington,Wahkiakum County,2011,3992
+Washington,Walla Walla County,2011,59452
+Washington,Whatcom County,2011,203503
+Washington,Whitman County,2011,45067
+Washington,Yakima County,2011,245899
+Washington,Adams County,2012,18936
+Washington,Asotin County,2012,21935
+Washington,Benton County,2012,182400
+Washington,Chelan County,2012,73471
+Washington,Clallam County,2012,71791
+Washington,Clark County,2012,436532
+Washington,Columbia County,2012,3977
+Washington,Cowlitz County,2012,101669
+Washington,Douglas County,2012,39192
+Washington,Ferry County,2012,7668
+Washington,Franklin County,2012,85691
+Washington,Garfield County,2012,2209
+Washington,Grant County,2012,91292
+Washington,Grays Harbor County,2012,71785
+Washington,Island County,2012,79086
+Washington,Jefferson County,2012,29808
+Washington,King County,2012,2011708
+Washington,Kitsap County,2012,254414
+Washington,Kittitas County,2012,41636
+Washington,Klickitat County,2012,20640
+Washington,Lewis County,2012,75452
+Washington,Lincoln County,2012,10430
+Washington,Mason County,2012,60689
+Washington,Okanogan County,2012,41176
+Washington,Pacific County,2012,20591
+Washington,Pend Oreille County,2012,13007
+Washington,Pierce County,2012,815772
+Washington,San Juan County,2012,15806
+Washington,Skagit County,2012,117716
+Washington,Skamania County,2012,11205
+Washington,Snohomish County,2012,732239
+Washington,Spokane County,2012,475605
+Washington,Stevens County,2012,43494
+Washington,Thurston County,2012,258613
+Washington,Wahkiakum County,2012,3996
+Washington,Walla Walla County,2012,59342
+Washington,Whatcom County,2012,204902
+Washington,Whitman County,2012,46660
+Washington,Yakima County,2012,246064
+Washington,Adams County,2013,19080
+Washington,Asotin County,2013,22167
+Washington,Benton County,2013,184362
+Washington,Chelan County,2013,73723
+Washington,Clallam County,2013,72091
+Washington,Clark County,2013,441591
+Washington,Columbia County,2013,4002
+Washington,Cowlitz County,2013,101497
+Washington,Douglas County,2013,39379
+Washington,Ferry County,2013,7598
+Washington,Franklin County,2013,86441
+Washington,Garfield County,2013,2239
+Washington,Grant County,2013,91698
+Washington,Grays Harbor County,2013,71059
+Washington,Island County,2013,78266
+Washington,Jefferson County,2013,30021
+Washington,King County,2013,2047967
+Washington,Kitsap County,2013,252538
+Washington,Kittitas County,2013,41845
+Washington,Klickitat County,2013,20873
+Washington,Lewis County,2013,74994
+Washington,Lincoln County,2013,10295
+Washington,Mason County,2013,60480
+Washington,Okanogan County,2013,41044
+Washington,Pacific County,2013,20460
+Washington,Pend Oreille County,2013,12890
+Washington,Pierce County,2013,821307
+Washington,San Juan County,2013,15867
+Washington,Skagit County,2013,118270
+Washington,Skamania County,2013,11316
+Washington,Snohomish County,2013,744322
+Washington,Spokane County,2013,478553
+Washington,Stevens County,2013,43287
+Washington,Thurston County,2013,261976
+Washington,Wahkiakum County,2013,4002
+Washington,Walla Walla County,2013,59387
+Washington,Whatcom County,2013,206139
+Washington,Whitman County,2013,46831
+Washington,Yakima County,2013,246395
+Washington,Adams County,2014,19154
+Washington,Asotin County,2014,22235
+Washington,Benton County,2014,186535
+Washington,Chelan County,2014,74114
+Washington,Clallam County,2014,72518
+Washington,Clark County,2014,448505
+Washington,Columbia County,2014,3984
+Washington,Cowlitz County,2014,101811
+Washington,Douglas County,2014,39757
+Washington,Ferry County,2014,7597
+Washington,Franklin County,2014,87640
+Washington,Garfield County,2014,2202
+Washington,Grant County,2014,92898
+Washington,Grays Harbor County,2014,70796
+Washington,Island County,2014,78777
+Washington,Jefferson County,2014,30172
+Washington,King County,2014,2086174
+Washington,Kitsap County,2014,253568
+Washington,Kittitas County,2014,42619
+Washington,Klickitat County,2014,20863
+Washington,Lewis County,2014,74877
+Washington,Lincoln County,2014,10224
+Washington,Mason County,2014,60613
+Washington,Okanogan County,2014,41225
+Washington,Pacific County,2014,20583
+Washington,Pend Oreille County,2014,12926
+Washington,Pierce County,2014,833106
+Washington,San Juan County,2014,15970
+Washington,Skagit County,2014,119990
+Washington,Skamania County,2014,11387
+Washington,Snohomish County,2014,757485
+Washington,Spokane County,2014,483148
+Washington,Stevens County,2014,43498
+Washington,Thurston County,2014,265071
+Washington,Wahkiakum County,2014,4008
+Washington,Walla Walla County,2014,59548
+Washington,Whatcom County,2014,208240
+Washington,Whitman County,2014,46965
+Washington,Yakima County,2014,246748
+Washington,Adams County,2015,19208
+Washington,Asotin County,2015,22167
+Washington,Benton County,2015,190282
+Washington,Chelan County,2015,75030
+Washington,Clallam County,2015,73261
+Washington,Clark County,2015,457320
+Washington,Columbia County,2015,3961
+Washington,Cowlitz County,2015,103031
+Washington,Douglas County,2015,40521
+Washington,Ferry County,2015,7526
+Washington,Franklin County,2015,88681
+Washington,Garfield County,2015,2223
+Washington,Grant County,2015,93517
+Washington,Grays Harbor County,2015,71027
+Washington,Island County,2015,80135
+Washington,Jefferson County,2015,30376
+Washington,King County,2015,2127372
+Washington,Kitsap County,2015,259467
+Washington,Kittitas County,2015,43120
+Washington,Klickitat County,2015,21009
+Washington,Lewis County,2015,75474
+Washington,Lincoln County,2015,10287
+Washington,Mason County,2015,60999
+Washington,Okanogan County,2015,41345
+Washington,Pacific County,2015,20890
+Washington,Pend Oreille County,2015,13095
+Washington,Pierce County,2015,844317
+Washington,San Juan County,2015,16155
+Washington,Skagit County,2015,121589
+Washington,Skamania County,2015,11386
+Washington,Snohomish County,2015,770022
+Washington,Spokane County,2015,488970
+Washington,Stevens County,2015,43576
+Washington,Thurston County,2015,268175
+Washington,Wahkiakum County,2015,3989
+Washington,Walla Walla County,2015,59970
+Washington,Whatcom County,2015,211942
+Washington,Whitman County,2015,48224
+Washington,Yakima County,2015,247648
+Washington,Adams County,2016,19311
+Washington,Asotin County,2016,22362
+Washington,Benton County,2016,193573
+Washington,Chelan County,2016,75809
+Washington,Clallam County,2016,74351
+Washington,Clark County,2016,465911
+Washington,Columbia County,2016,3983
+Washington,Cowlitz County,2016,104760
+Washington,Douglas County,2016,41312
+Washington,Ferry County,2016,7534
+Washington,Franklin County,2016,90132
+Washington,Garfield County,2016,2255
+Washington,Grant County,2016,94144
+Washington,Grays Harbor County,2016,71555
+Washington,Island County,2016,81826
+Washington,Jefferson County,2016,30949
+Washington,King County,2016,2167863
+Washington,Kitsap County,2016,263419
+Washington,Kittitas County,2016,44922
+Washington,Klickitat County,2016,21295
+Washington,Lewis County,2016,76709
+Washington,Lincoln County,2016,10339
+Washington,Mason County,2016,62166
+Washington,Okanogan County,2016,41516
+Washington,Pacific County,2016,21298
+Washington,Pend Oreille County,2016,13128
+Washington,Pierce County,2016,864004
+Washington,San Juan County,2016,16256
+Washington,Skagit County,2016,123661
+Washington,Skamania County,2016,11590
+Washington,Snohomish County,2016,787886
+Washington,Spokane County,2016,497163
+Washington,Stevens County,2016,44187
+Washington,Thurston County,2016,273827
+Washington,Wahkiakum County,2016,4123
+Washington,Walla Walla County,2016,60112
+Washington,Whatcom County,2016,216486
+Washington,Whitman County,2016,48912
+Washington,Yakima County,2016,249332
+Washington,Adams County,2017,19574
+Washington,Asotin County,2017,22612
+Washington,Benton County,2017,198229
+Washington,Chelan County,2017,76216
+Washington,Clallam County,2017,75741
+Washington,Clark County,2017,475238
+Washington,Columbia County,2017,4010
+Washington,Cowlitz County,2017,106800
+Washington,Douglas County,2017,41961
+Washington,Ferry County,2017,7587
+Washington,Franklin County,2017,91803
+Washington,Garfield County,2017,2224
+Washington,Grant County,2017,95262
+Washington,Grays Harbor County,2017,72507
+Washington,Island County,2017,83362
+Washington,Jefferson County,2017,31264
+Washington,King County,2017,2205001
+Washington,Kitsap County,2017,266636
+Washington,Kittitas County,2017,46164
+Washington,Klickitat County,2017,21757
+Washington,Lewis County,2017,78269
+Washington,Lincoln County,2017,10586
+Washington,Mason County,2017,63769
+Washington,Okanogan County,2017,41802
+Washington,Pacific County,2017,21756
+Washington,Pend Oreille County,2017,13360
+Washington,Pierce County,2017,880745
+Washington,San Juan County,2017,16674
+Washington,Skagit County,2017,125852
+Washington,Skamania County,2017,11815
+Washington,Snohomish County,2017,803061
+Washington,Spokane County,2017,505708
+Washington,Stevens County,2017,44679
+Washington,Thurston County,2017,280255
+Washington,Wahkiakum County,2017,4207
+Washington,Walla Walla County,2017,60683
+Washington,Whatcom County,2017,221417
+Washington,Whitman County,2017,49514
+Washington,Yakima County,2017,249851
+Washington,Adams County,2018,19640
+Washington,Asotin County,2018,22699
+Washington,Benton County,2018,201174
+Washington,Chelan County,2018,76612
+Washington,Clallam County,2018,76792
+Washington,Clark County,2018,482467
+Washington,Columbia County,2018,4055
+Washington,Cowlitz County,2018,108673
+Washington,Douglas County,2018,42518
+Washington,Ferry County,2018,7661
+Washington,Franklin County,2018,93950
+Washington,Garfield County,2018,2257
+Washington,Grant County,2018,96497
+Washington,Grays Harbor County,2018,73787
+Washington,Island County,2018,84391
+Washington,Jefferson County,2018,31864
+Washington,King County,2018,2228488
+Washington,Kitsap County,2018,269583
+Washington,Kittitas County,2018,47341
+Washington,Klickitat County,2018,22095
+Washington,Lewis County,2018,79466
+Washington,Lincoln County,2018,10708
+Washington,Mason County,2018,65533
+Washington,Okanogan County,2018,42058
+Washington,Pacific County,2018,22052
+Washington,Pend Oreille County,2018,13583
+Washington,Pierce County,2018,894951
+Washington,San Juan County,2018,16991
+Washington,Skagit County,2018,127728
+Washington,Skamania County,2018,11920
+Washington,Snohomish County,2018,814107
+Washington,Spokane County,2018,513502
+Washington,Stevens County,2018,45305
+Washington,Thurston County,2018,285672
+Washington,Wahkiakum County,2018,4343
+Washington,Walla Walla County,2018,60778
+Washington,Whatcom County,2018,225098
+Washington,Whitman County,2018,49821
+Washington,Yakima County,2018,250633
+Washington,Adams County,2019,19959
+Washington,Asotin County,2019,22687
+Washington,Benton County,2019,204173
+Washington,Chelan County,2019,77053
+Washington,Clallam County,2019,77457
+Washington,Clark County,2019,489271
+Washington,Columbia County,2019,4023
+Washington,Cowlitz County,2019,110389
+Washington,Douglas County,2019,43251
+Washington,Ferry County,2019,7676
+Washington,Franklin County,2019,95446
+Washington,Garfield County,2019,2266
+Washington,Grant County,2019,97959
+Washington,Grays Harbor County,2019,75047
+Washington,Island County,2019,85344
+Washington,Jefferson County,2019,32347
+Washington,King County,2019,2249653
+Washington,Kitsap County,2019,272299
+Washington,Kittitas County,2019,47856
+Washington,Klickitat County,2019,22433
+Washington,Lewis County,2019,80599
+Washington,Lincoln County,2019,10938
+Washington,Mason County,2019,66939
+Washington,Okanogan County,2019,42403
+Washington,Pacific County,2019,22517
+Washington,Pend Oreille County,2019,13726
+Washington,Pierce County,2019,905719
+Washington,San Juan County,2019,17352
+Washington,Skagit County,2019,129181
+Washington,Skamania County,2019,12096
+Washington,Snohomish County,2019,822413
+Washington,Spokane County,2019,522231
+Washington,Stevens County,2019,45815
+Washington,Thurston County,2019,289661
+Washington,Wahkiakum County,2019,4420
+Washington,Walla Walla County,2019,61062
+Washington,Whatcom County,2019,228675
+Washington,Whitman County,2019,50136
+Washington,Yakima County,2019,251552
