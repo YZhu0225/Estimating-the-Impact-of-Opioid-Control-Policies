@@ -28,8 +28,8 @@ florida_ref = ["FL", "SC", "LA", "AZ"]
 washington_ref = ["WA", "CO", "AZ", "NY"]
 
 # dataframes for FL, WA with reference states
-florida_ship_df = ship_df[ship_df["BUYER_COUNTY"].isin(florida_ref)]
-washington_ship_df = ship_df[ship_df["BUYER_COUNTY"].isin(washington_ref)]
+florida_ship_df = ship_df[ship_df["BUYER_STATE"].isin(florida_ref)]
+washington_ship_df = ship_df[ship_df["BUYER_STATE"].isin(washington_ref)]
 
 # output to csv for cleaning
 florida_ship_df.to_csv(
