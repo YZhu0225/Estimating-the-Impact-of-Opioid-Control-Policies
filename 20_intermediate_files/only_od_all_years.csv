@@ -1,4 +1,4 @@
-County,County Code,Year,Year Code,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,COUNTY,STATE
+County,County Code,Year,Year Code,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,CTYNAME,STNAME
 "Cochise County, AZ",4003.0,2007.0,2007.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,Cochise County,AZ
 "Gila County, AZ",4007.0,2007.0,2007.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,Gila County,AZ
 "Maricopa County, AZ",4013.0,2007.0,2007.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,411.0,Maricopa County,AZ
