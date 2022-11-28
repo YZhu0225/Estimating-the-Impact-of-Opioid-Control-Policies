@@ -31,7 +31,7 @@ fips.drop(columns=["County Name"], inplace=True)
 
 # Arkansas missing from fips_full, impute missing rows
 missing_state = fips["State"].isna()
-impute_dict = dict({"AK": "Arkansas"})
+impute_dict = dict({"AK": "Alaska"})
 fips.loc[missing_state, "State"] = fips.loc[missing_state, "BUYER_STATE"].map(
     impute_dict
 )
@@ -55,17 +55,25 @@ fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.upper()
 wa_df_pop = pd.read_csv(wa_pop_path)
 wa_df_pop["CTYNAME"] = wa_df_pop["CTYNAME"].str.replace(" County", "")
 wa_df_pop["CTYNAME"] = wa_df_pop["CTYNAME"].str.upper()
+
 # fix unmatching county names with population data
 wa_df_pop.loc[wa_df_pop["CTYNAME"] == "ST. LAWRENCE", "CTYNAME"] = "SAINT LAWRENCE"
 
-# merge shipment and population data
-fl_ship_pop = fl_ship_fips.merge(
-    fl_df_pop,
-    how="left",
-    left_on=["State", "BUYER_COUNTY", "YEAR"],
-    right_on=["STNAME", "CTYNAME", "YEAR"],
-    validate="1:1",
+fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.replace(" PARISH", "")
+fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.replace("ST. ", "SAINT ")
+fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.replace("DESOTO", "DE SOTO")
+fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.replace("LASALLE", "LA SALLE")
+fl_df_pop["CTYNAME"] = fl_df_pop["CTYNAME"].str.replace(
+    "SAINT JOHN THE BAPTIST", "ST JOHN THE BAPTIST"
 )
+
+# merge population with fips
+fl_pop_fips = fl_df_pop.merge(
+    fips, how="left", left_on=["STNAME", "CTYNAME"], right_on=["State", "BUYER_COUNTY"]
+)
+# merge population and shipment on fips
+fl_ship_pop = fl_pop_fips.merge(fl_ship_fips, how="right", on=["FIPS Code", "YEAR"])
+
 wa_ship_pop = wa_ship_fips.merge(
     wa_df_pop,
     how="left",
@@ -73,6 +81,10 @@ wa_ship_pop = wa_ship_fips.merge(
     right_on=["STNAME", "CTYNAME", "YEAR"],
     validate="1:1",
 )
+
+# check that all shipment observations are in final datasets
+assert fl_df.shape[0] == fl_ship_pop.shape[0]
+assert wa_df.shape[0] == wa_ship_pop.shape[0]
 
 fl_ship_pop.to_csv(
     f"../20_intermediate_files/fl_ship_merge.csv",
