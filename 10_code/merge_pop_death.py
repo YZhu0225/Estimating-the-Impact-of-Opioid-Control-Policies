@@ -53,6 +53,9 @@ fl_death_pop['Death Rate (%)'] = 100 * fl_death_pop['Deaths'] / fl_death_pop['PO
 # Add indicator for treatment and control group
 fl_death_pop['Indicator'] = fl_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Florida' else "Control")
 
+# write to csv
+fl_death_pop.to_csv('../20_intermediate_files/florida_death_cleaned.csv', index=False)
+
 
 
 ### Death: Texas and its reference states
@@ -104,6 +107,9 @@ tx_death_pop['Death Rate (%)'] = 100 * tx_death_pop['Deaths'] / tx_death_pop['PO
 # Add indicator for treatment and control group
 tx_death_pop['Indicator'] = tx_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Texas' else "Control")
 
+# write to csv
+tx_death_pop.to_csv('../20_intermediate_files/texas_death_cleaned.csv', index=False)
+
 
 
 ### Death: Washington and its reference states
@@ -154,3 +160,6 @@ wa_death_pop['Death Rate (%)'] = 100 * wa_death_pop['Deaths'] / wa_death_pop['PO
 
 # Add indicator for treatment and control group
 wa_death_pop['Indicator'] = wa_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Washington' else "Control")
+
+# write to csv
+wa_death_pop.to_csv('../20_intermediate_files/washington_death_cleaned.csv', index=False)

@@ -1,0 +1,2757 @@
+STNAME,CTYNAME,YEAR,POPULATION,Deaths,Death Rate (%),Indicator
+Colorado,Adams County,2003,378785,42.0,0.011088084269440447,Control
+Colorado,Alamosa County,2003,15125,1.0,0.006611570247933884,Control
+Colorado,Arapahoe County,2003,514406,45.0,0.008747953950770403,Control
+Colorado,Archuleta County,2003,11167,2.0,0.017909913136921286,Control
+Colorado,Baca County,2003,4106,5.0,0.12177301509985387,Control
+Colorado,Bent County,2003,6144,1.0,0.016276041666666668,Control
+Colorado,Boulder County,2003,282126,20.0,0.007089031142113808,Control
+Colorado,Broomfield County,2003,45098,1.0,0.0022173932325158545,Control
+Colorado,Chaffee County,2003,16678,6.0,0.03597553663508814,Control
+Colorado,Cheyenne County,2003,1986,3.0,0.1510574018126888,Control
+Colorado,Clear Creek County,2003,9335,4.0,0.04284949116229245,Control
+Colorado,Conejos County,2003,8220,1.0,0.012165450121654502,Control
+Colorado,Costilla County,2003,3522,1.0,0.028392958546280524,Control
+Colorado,Crowley County,2003,5627,0.0,0.0,Control
+Colorado,Custer County,2003,3794,2.0,0.05271481286241434,Control
+Colorado,Delta County,2003,28988,2.0,0.006899406651028011,Control
+Colorado,Denver County,2003,558351,107.0,0.019163572734713467,Control
+Colorado,Dolores County,2003,1802,4.0,0.22197558268590456,Control
+Colorado,Douglas County,2003,221978,4.0,0.0018019803764337007,Control
+Colorado,Eagle County,2003,45312,7.0,0.015448446327683616,Control
+Colorado,Elbert County,2003,21953,1.0,0.004555186079351342,Control
+Colorado,El Paso County,2003,551129,53.0,0.009616623331379767,Control
+Colorado,Fremont County,2003,47108,6.0,0.012736690158784071,Control
+Colorado,Garfield County,2003,47388,7.0,0.014771672153287752,Control
+Colorado,Gilpin County,2003,4867,8.0,0.16437230326689953,Control
+Colorado,Grand County,2003,13017,2.0,0.015364523315664132,Control
+Colorado,Gunnison County,2003,14254,8.0,0.0561245966044619,Control
+Colorado,Hinsdale County,2003,777,1.0,0.1287001287001287,Control
+Colorado,Huerfano County,2003,7934,1.0,0.012603982858583312,Control
+Colorado,Jackson County,2003,1494,7.0,0.4685408299866131,Control
+Colorado,Jefferson County,2003,526426,50.0,0.009498011116472211,Control
+Colorado,Kiowa County,2003,1452,7.0,0.4820936639118457,Control
+Colorado,Kit Carson County,2003,8072,7.0,0.0867195242814668,Control
+Colorado,Lake County,2003,7691,0.0,0.0,Control
+Colorado,La Plata County,2003,46258,0.0,0.0,Control
+Colorado,Larimer County,2003,268671,23.0,0.00856065596956873,Control
+Colorado,Las Animas County,2003,15720,2.0,0.01272264631043257,Control
+Colorado,Lincoln County,2003,5786,3.0,0.05184929139301763,Control
+Colorado,Logan County,2003,21286,7.0,0.03288546462463591,Control
+Colorado,Mesa County,2003,124510,3.0,0.002409445024496024,Control
+Colorado,Mineral County,2003,894,9.0,1.0067114093959733,Control
+Colorado,Moffat County,2003,13245,6.0,0.045300113250283124,Control
+Colorado,Montezuma County,2003,24239,8.0,0.033004661908494576,Control
+Colorado,Montrose County,2003,35674,9.0,0.025228457700285922,Control
+Colorado,Morgan County,2003,27634,6.0,0.021712383295939785,Control
+Colorado,Otero County,2003,19546,6.0,0.030696817763225213,Control
+Colorado,Ouray County,2003,3941,7.0,0.17761989342806395,Control
+Colorado,Park County,2003,16242,7.0,0.04309814062307597,Control
+Colorado,Phillips County,2003,4449,8.0,0.17981568891885816,Control
+Colorado,Pitkin County,2003,14923,5.0,0.03350532734704818,Control
+Colorado,Prowers County,2003,13992,6.0,0.04288164665523156,Control
+Colorado,Pueblo County,2003,147931,10.0,0.0067599083356429685,Control
+Colorado,Rio Blanco County,2003,5859,3.0,0.051203277009728626,Control
+Colorado,Rio Grande County,2003,12192,5.0,0.04101049868766404,Control
+Colorado,Routt County,2003,20833,4.0,0.01920030720491528,Control
+Colorado,Saguache County,2003,6590,1.0,0.015174506828528073,Control
+Colorado,San Juan County,2003,572,4.0,0.6993006993006993,Control
+Colorado,San Miguel County,2003,7121,8.0,0.11234377194214296,Control
+Colorado,Sedgwick County,2003,2620,0.0,0.0,Control
+Colorado,Summit County,2003,25313,7.0,0.027653774740252043,Control
+Colorado,Teller County,2003,21270,2.0,0.009402914903620122,Control
+Colorado,Washington County,2003,4890,4.0,0.081799591002045,Control
+Colorado,Weld County,2003,210635,11.0,0.005222303985567451,Control
+Colorado,Yuma County,2003,9827,1.0,0.010176045588684237,Control
+Colorado,Adams County,2004,386663,46.0,0.01189666453733613,Control
+Colorado,Alamosa County,2004,15293,8.0,0.05231151507225528,Control
+Colorado,Arapahoe County,2004,519785,65.0,0.0125051704069952,Control
+Colorado,Archuleta County,2004,11374,3.0,0.026375945138034113,Control
+Colorado,Baca County,2004,4050,0.0,0.0,Control
+Colorado,Bent County,2004,6195,3.0,0.048426150121065374,Control
+Colorado,Boulder County,2004,284815,20.0,0.007022102066253533,Control
+Colorado,Broomfield County,2004,46591,5.0,0.010731686377197312,Control
+Colorado,Chaffee County,2004,16725,9.0,0.053811659192825115,Control
+Colorado,Cheyenne County,2004,1932,5.0,0.2587991718426501,Control
+Colorado,Clear Creek County,2004,9048,5.0,0.05526083112290009,Control
+Colorado,Conejos County,2004,8235,2.0,0.024286581663630843,Control
+Colorado,Costilla County,2004,3497,0.0,0.0,Control
+Colorado,Crowley County,2004,5920,2.0,0.033783783783783786,Control
+Colorado,Custer County,2004,3821,6.0,0.15702695629416383,Control
+Colorado,Delta County,2004,29402,3.0,0.010203387524658186,Control
+Colorado,Denver County,2004,558506,111.0,0.01987445076686732,Control
+Colorado,Dolores County,2004,1797,1.0,0.05564830272676683,Control
+Colorado,Douglas County,2004,234810,1.0,0.00042587624036455004,Control
+Colorado,Eagle County,2004,46317,3.0,0.006477103439341926,Control
+Colorado,Elbert County,2004,22139,5.0,0.022584579249288587,Control
+Colorado,El Paso County,2004,558680,60.0,0.01073960048686189,Control
+Colorado,Fremont County,2004,46858,1.0,0.0021341073029151904,Control
+Colorado,Garfield County,2004,47881,1.0,0.002088511100436499,Control
+Colorado,Gilpin County,2004,4861,7.0,0.1440032915038058,Control
+Colorado,Grand County,2004,13186,5.0,0.03791900500530866,Control
+Colorado,Gunnison County,2004,14315,6.0,0.041914076143904994,Control
+Colorado,Hinsdale County,2004,809,5.0,0.6180469715698393,Control
+Colorado,Huerfano County,2004,7714,9.0,0.1166709878143635,Control
+Colorado,Jackson County,2004,1463,0.0,0.0,Control
+Colorado,Jefferson County,2004,522889,40.0,0.007649807129237754,Control
+Colorado,Kiowa County,2004,1394,4.0,0.28694404591104733,Control
+Colorado,Kit Carson County,2004,8098,8.0,0.09878982464806126,Control
+Colorado,Lake County,2004,7697,5.0,0.06496037417175522,Control
+Colorado,La Plata County,2004,46905,8.0,0.017055750986035605,Control
+Colorado,Larimer County,2004,271830,28.0,0.010300555494242726,Control
+Colorado,Las Animas County,2004,15588,7.0,0.04490633820887863,Control
+Colorado,Lincoln County,2004,5612,2.0,0.03563791874554526,Control
+Colorado,Logan County,2004,21122,0.0,0.0,Control
+Colorado,Mesa County,2004,127095,8.0,0.006294504111097997,Control
+Colorado,Mineral County,2004,939,6.0,0.6389776357827476,Control
+Colorado,Moffat County,2004,13335,8.0,0.05999250093738283,Control
+Colorado,Montezuma County,2004,24429,3.0,0.012280486307257768,Control
+Colorado,Montrose County,2004,36192,4.0,0.011052166224580018,Control
+Colorado,Morgan County,2004,27607,1.0,0.0036222697142029195,Control
+Colorado,Otero County,2004,19389,2.0,0.010315127133941926,Control
+Colorado,Ouray County,2004,4086,3.0,0.07342143906020558,Control
+Colorado,Park County,2004,16420,7.0,0.04263093788063337,Control
+Colorado,Phillips County,2004,4522,1.0,0.022114108801415303,Control
+Colorado,Pitkin County,2004,14834,5.0,0.03370635027639207,Control
+Colorado,Prowers County,2004,13784,4.0,0.02901915264074289,Control
+Colorado,Pueblo County,2004,148578,3.0,0.0020191414610507613,Control
+Colorado,Rio Blanco County,2004,5918,3.0,0.05069280162216965,Control
+Colorado,Rio Grande County,2004,12193,8.0,0.06561141638645124,Control
+Colorado,Routt County,2004,21077,3.0,0.014233524695165346,Control
+Colorado,Saguache County,2004,6798,4.0,0.05884083553986467,Control
+Colorado,San Juan County,2004,580,1.0,0.1724137931034483,Control
+Colorado,San Miguel County,2004,7115,0.0,0.0,Control
+Colorado,Sedgwick County,2004,2512,3.0,0.11942675159235669,Control
+Colorado,Summit County,2004,25177,5.0,0.01985939548000159,Control
+Colorado,Teller County,2004,21130,0.0,0.0,Control
+Colorado,Washington County,2004,4777,3.0,0.06280092108017585,Control
+Colorado,Weld County,2004,217706,5.0,0.002296675332788256,Control
+Colorado,Yuma County,2004,9671,2.0,0.020680384655154586,Control
+Colorado,Adams County,2005,397463,63.0,0.015850531999204956,Control
+Colorado,Alamosa County,2005,15317,5.0,0.032643468042044786,Control
+Colorado,Arapahoe County,2005,525293,54.0,0.010279977079458512,Control
+Colorado,Archuleta County,2005,11623,8.0,0.0688290458573518,Control
+Colorado,Baca County,2005,3979,8.0,0.20105554159336517,Control
+Colorado,Bent County,2005,6169,4.0,0.0648403306856865,Control
+Colorado,Boulder County,2005,286545,26.0,0.009073618454343995,Control
+Colorado,Broomfield County,2005,48490,6.0,0.012373685295937306,Control
+Colorado,Chaffee County,2005,16710,4.0,0.023937761819269897,Control
+Colorado,Cheyenne County,2005,1875,3.0,0.16,Control
+Colorado,Clear Creek County,2005,9011,7.0,0.0776828320941072,Control
+Colorado,Conejos County,2005,8190,8.0,0.09768009768009768,Control
+Colorado,Costilla County,2005,3370,5.0,0.14836795252225518,Control
+Colorado,Crowley County,2005,5939,4.0,0.06735140596059942,Control
+Colorado,Custer County,2005,3879,0.0,0.0,Control
+Colorado,Delta County,2005,29491,5.0,0.016954325048319827,Control
+Colorado,Denver County,2005,561323,140.0,0.02494107670628141,Control
+Colorado,Dolores County,2005,1803,3.0,0.16638935108153077,Control
+Colorado,Douglas County,2005,246058,11.0,0.004470490697315267,Control
+Colorado,Eagle County,2005,47719,3.0,0.006286803998407343,Control
+Colorado,Elbert County,2005,22374,6.0,0.026816840976133013,Control
+Colorado,El Paso County,2005,567103,83.0,0.01463578926579475,Control
+Colorado,Fremont County,2005,46930,5.0,0.010654165778819518,Control
+Colorado,Garfield County,2005,49177,6.0,0.012200825589198203,Control
+Colorado,Gilpin County,2005,4939,0.0,0.0,Control
+Colorado,Grand County,2005,13114,0.0,0.0,Control
+Colorado,Gunnison County,2005,14403,3.0,0.02082899395959175,Control
+Colorado,Hinsdale County,2005,792,3.0,0.3787878787878788,Control
+Colorado,Huerfano County,2005,7763,5.0,0.0644080896560608,Control
+Colorado,Jackson County,2005,1422,3.0,0.2109704641350211,Control
+Colorado,Jefferson County,2005,522007,28.0,0.005363912744465112,Control
+Colorado,Kiowa County,2005,1385,7.0,0.5054151624548736,Control
+Colorado,Kit Carson County,2005,8010,2.0,0.024968789013732832,Control
+Colorado,Lake County,2005,7653,8.0,0.10453416960669018,Control
+Colorado,La Plata County,2005,47792,5.0,0.010462002008704386,Control
+Colorado,Larimer County,2005,275477,12.0,0.0043560805439292576,Control
+Colorado,Las Animas County,2005,15608,9.0,0.057662737057919015,Control
+Colorado,Lincoln County,2005,5471,9.0,0.16450374702979345,Control
+Colorado,Logan County,2005,20849,4.0,0.019185572449517962,Control
+Colorado,Mesa County,2005,129457,4.0,0.0030898290552075205,Control
+Colorado,Mineral County,2005,923,4.0,0.4333694474539545,Control
+Colorado,Moffat County,2005,13122,6.0,0.04572473708276177,Control
+Colorado,Montezuma County,2005,24468,5.0,0.020434853686447606,Control
+Colorado,Montrose County,2005,37069,3.0,0.00809301572742723,Control
+Colorado,Morgan County,2005,27567,8.0,0.029020205317952623,Control
+Colorado,Otero County,2005,19184,7.0,0.036488740617180986,Control
+Colorado,Ouray County,2005,4160,8.0,0.19230769230769232,Control
+Colorado,Park County,2005,16560,3.0,0.018115942028985508,Control
+Colorado,Phillips County,2005,4524,7.0,0.15473032714412024,Control
+Colorado,Pitkin County,2005,14905,7.0,0.04696410600469641,Control
+Colorado,Prowers County,2005,13684,9.0,0.06577024261911722,Control
+Colorado,Pueblo County,2005,149677,21.0,0.014030211722575946,Control
+Colorado,Rio Blanco County,2005,5832,9.0,0.15432098765432098,Control
+Colorado,Rio Grande County,2005,12043,9.0,0.07473220958232998,Control
+Colorado,Routt County,2005,21282,6.0,0.028192839018889203,Control
+Colorado,Saguache County,2005,6822,3.0,0.04397537379067722,Control
+Colorado,San Juan County,2005,565,4.0,0.7079646017699115,Control
+Colorado,San Miguel County,2005,7193,1.0,0.013902405116085082,Control
+Colorado,Sedgwick County,2005,2471,1.0,0.04046944556859571,Control
+Colorado,Summit County,2005,25287,4.0,0.015818404713884605,Control
+Colorado,Teller County,2005,21282,0.0,0.0,Control
+Colorado,Washington County,2005,4718,3.0,0.0635862653666808,Control
+Colorado,Weld County,2005,225856,9.0,0.003984839897988098,Control
+Colorado,Yuma County,2005,9613,1.0,0.010402579839800271,Control
+Colorado,Adams County,2006,409532,62.0,0.015139232099078949,Control
+Colorado,Alamosa County,2006,15288,1.0,0.006541077969649398,Control
+Colorado,Arapahoe County,2006,532347,66.0,0.012397928418869646,Control
+Colorado,Archuleta County,2006,12096,6.0,0.0496031746031746,Control
+Colorado,Baca County,2006,3912,9.0,0.23006134969325154,Control
+Colorado,Bent County,2006,6070,8.0,0.13179571663920922,Control
+Colorado,Boulder County,2006,291449,40.0,0.013724528133567108,Control
+Colorado,Broomfield County,2006,51454,8.0,0.015547867998600692,Control
+Colorado,Chaffee County,2006,16626,2.0,0.012029351617947793,Control
+Colorado,Cheyenne County,2006,1833,0.0,0.0,Control
+Colorado,Clear Creek County,2006,8869,8.0,0.09020182658698839,Control
+Colorado,Conejos County,2006,8083,1.0,0.012371644191513051,Control
+Colorado,Costilla County,2006,3341,4.0,0.11972463334331039,Control
+Colorado,Crowley County,2006,6242,2.0,0.03204101249599487,Control
+Colorado,Custer County,2006,3863,1.0,0.02588661661920787,Control
+Colorado,Delta County,2006,29899,9.0,0.03010134118197933,Control
+Colorado,Denver County,2006,568692,144.0,0.0253212635310502,Control
+Colorado,Dolores County,2006,1892,9.0,0.47568710359408034,Control
+Colorado,Douglas County,2006,259881,19.0,0.007311038513781307,Control
+Colorado,Eagle County,2006,49112,3.0,0.006108486724222186,Control
+Colorado,Elbert County,2006,22648,1.0,0.004415400918403391,Control
+Colorado,El Paso County,2006,579710,68.0,0.011730002932500733,Control
+Colorado,Fremont County,2006,47203,6.0,0.012711056500646146,Control
+Colorado,Garfield County,2006,51111,1.0,0.0019565259924478095,Control
+Colorado,Gilpin County,2006,5034,6.0,0.11918951132300358,Control
+Colorado,Grand County,2006,13373,0.0,0.0,Control
+Colorado,Gunnison County,2006,14656,8.0,0.05458515283842795,Control
+Colorado,Hinsdale County,2006,816,6.0,0.7352941176470589,Control
+Colorado,Huerfano County,2006,7774,3.0,0.038590172369436584,Control
+Colorado,Jackson County,2006,1383,8.0,0.5784526391901663,Control
+Colorado,Jefferson County,2006,524507,22.0,0.004194414945844383,Control
+Colorado,Kiowa County,2006,1360,2.0,0.14705882352941177,Control
+Colorado,Kit Carson County,2006,7948,1.0,0.012581781580271767,Control
+Colorado,Lake County,2006,7666,7.0,0.09131228802504565,Control
+Colorado,La Plata County,2006,48834,6.0,0.012286521685710775,Control
+Colorado,Larimer County,2006,281215,35.0,0.012445993279163629,Control
+Colorado,Las Animas County,2006,15725,6.0,0.03815580286168521,Control
+Colorado,Lincoln County,2006,5329,6.0,0.1125914805779696,Control
+Colorado,Logan County,2006,20895,4.0,0.0191433357262503,Control
+Colorado,Mesa County,2006,133651,7.0,0.00523752160477662,Control
+Colorado,Mineral County,2006,916,5.0,0.5458515283842795,Control
+Colorado,Moffat County,2006,13298,9.0,0.06767935027823734,Control
+Colorado,Montezuma County,2006,24907,7.0,0.0281045489219898,Control
+Colorado,Montrose County,2006,38098,0.0,0.0,Control
+Colorado,Morgan County,2006,27639,8.0,0.02894460725786027,Control
+Colorado,Otero County,2006,18967,6.0,0.03163389044129277,Control
+Colorado,Ouray County,2006,4219,0.0,0.0,Control
+Colorado,Park County,2006,16656,5.0,0.030019212295869357,Control
+Colorado,Phillips County,2006,4482,1.0,0.022311468094600623,Control
+Colorado,Pitkin County,2006,14905,8.0,0.05367326400536732,Control
+Colorado,Prowers County,2006,13370,0.0,0.0,Control
+Colorado,Pueblo County,2006,151814,25.0,0.016467519464608008,Control
+Colorado,Rio Blanco County,2006,6033,5.0,0.0828775070445881,Control
+Colorado,Rio Grande County,2006,11839,2.0,0.016893318692457134,Control
+Colorado,Routt County,2006,21722,3.0,0.013810882975784918,Control
+Colorado,Saguache County,2006,6842,4.0,0.05846243788365975,Control
+Colorado,San Juan County,2006,574,8.0,1.3937282229965158,Control
+Colorado,San Miguel County,2006,7186,7.0,0.09741163373225717,Control
+Colorado,Sedgwick County,2006,2416,1.0,0.041390728476821195,Control
+Colorado,Summit County,2006,25745,1.0,0.0038842493688094775,Control
+Colorado,Teller County,2006,21440,5.0,0.02332089552238806,Control
+Colorado,Washington County,2006,4666,7.0,0.15002143163309045,Control
+Colorado,Weld County,2006,234387,2.0,0.0008532896449035143,Control
+Colorado,Yuma County,2006,9604,1.0,0.010412328196584756,Control
+Colorado,Adams County,2007,419607,70.0,0.016682276511116353,Control
+Colorado,Alamosa County,2007,15297,6.0,0.03922337713277113,Control
+Colorado,Arapahoe County,2007,543414,88.0,0.016193914768482226,Control
+Colorado,Archuleta County,2007,12479,7.0,0.056094238320378235,Control
+Colorado,Baca County,2007,3840,5.0,0.13020833333333334,Control
+Colorado,Bent County,2007,5785,4.0,0.06914433880726016,Control
+Colorado,Boulder County,2007,295691,33.0,0.011160299096015774,Control
+Colorado,Broomfield County,2007,53664,7.0,0.013044126416219439,Control
+Colorado,Chaffee County,2007,16858,6.0,0.03559141060624036,Control
+Colorado,Cheyenne County,2007,1781,3.0,0.16844469399213924,Control
+Colorado,Clear Creek County,2007,8933,8.0,0.08955558043210568,Control
+Colorado,Conejos County,2007,8006,8.0,0.09992505620784412,Control
+Colorado,Costilla County,2007,3303,8.0,0.24220405691795338,Control
+Colorado,Crowley County,2007,6471,5.0,0.07726781023025807,Control
+Colorado,Custer County,2007,3964,2.0,0.050454086781029264,Control
+Colorado,Delta County,2007,30219,7.0,0.02316423442205235,Control
+Colorado,Denver County,2007,578789,148.0,0.02557063109354186,Control
+Colorado,Dolores County,2007,1889,3.0,0.15881418740074113,Control
+Colorado,Douglas County,2007,271955,11.0,0.0040447868213491205,Control
+Colorado,Eagle County,2007,50568,5.0,0.009887676000632811,Control
+Colorado,Elbert County,2007,22684,9.0,0.03967554223241051,Control
+Colorado,El Paso County,2007,585518,74.0,0.012638381740612586,Control
+Colorado,Fremont County,2007,47340,1.0,0.0021123785382340513,Control
+Colorado,Garfield County,2007,52965,5.0,0.009440196356084207,Control
+Colorado,Gilpin County,2007,5070,1.0,0.01972386587771203,Control
+Colorado,Grand County,2007,13575,8.0,0.058931860036832415,Control
+Colorado,Gunnison County,2007,14988,0.0,0.0,Control
+Colorado,Hinsdale County,2007,834,8.0,0.9592326139088729,Control
+Colorado,Huerfano County,2007,7705,4.0,0.05191434133679429,Control
+Colorado,Jackson County,2007,1369,2.0,0.14609203798392986,Control
+Colorado,Jefferson County,2007,528396,70.0,0.013247640027555092,Control
+Colorado,Kiowa County,2007,1305,0.0,0.0,Control
+Colorado,Kit Carson County,2007,7871,2.0,0.025409731927328167,Control
+Colorado,Lake County,2007,7854,3.0,0.03819709702062643,Control
+Colorado,La Plata County,2007,49668,1.0,0.002013368768623661,Control
+Colorado,Larimer County,2007,286927,30.0,0.010455621116172407,Control
+Colorado,Las Animas County,2007,15815,8.0,0.05058488776478027,Control
+Colorado,Lincoln County,2007,5247,0.0,0.0,Control
+Colorado,Logan County,2007,20908,9.0,0.043045724124736943,Control
+Colorado,Mesa County,2007,138289,7.0,0.005061863199531416,Control
+Colorado,Mineral County,2007,963,1.0,0.10384215991692627,Control
+Colorado,Moffat County,2007,13555,6.0,0.044264109184802655,Control
+Colorado,Montezuma County,2007,25108,0.0,0.0,Control
+Colorado,Montrose County,2007,39452,6.0,0.015208354456047856,Control
+Colorado,Morgan County,2007,27552,9.0,0.03266550522648084,Control
+Colorado,Otero County,2007,18706,6.0,0.03207526996685556,Control
+Colorado,Ouray County,2007,4400,7.0,0.1590909090909091,Control
+Colorado,Park County,2007,16964,3.0,0.017684508370667297,Control
+Colorado,Phillips County,2007,4469,0.0,0.0,Control
+Colorado,Pitkin County,2007,15099,8.0,0.052983641300748396,Control
+Colorado,Prowers County,2007,13006,8.0,0.06151007227433492,Control
+Colorado,Pueblo County,2007,154348,11.0,0.007126752533236583,Control
+Colorado,Rio Blanco County,2007,6198,5.0,0.08067118425298483,Control
+Colorado,Rio Grande County,2007,11621,8.0,0.0688408914895448,Control
+Colorado,Routt County,2007,22340,6.0,0.02685765443151298,Control
+Colorado,Saguache County,2007,6864,6.0,0.08741258741258741,Control
+Colorado,San Juan County,2007,574,3.0,0.5226480836236934,Control
+Colorado,San Miguel County,2007,7459,5.0,0.0670331143584931,Control
+Colorado,Sedgwick County,2007,2330,0.0,0.0,Control
+Colorado,Summit County,2007,26234,8.0,0.030494777769307008,Control
+Colorado,Teller County,2007,21749,8.0,0.03678330038162674,Control
+Colorado,Washington County,2007,4597,6.0,0.13051990428540353,Control
+Colorado,Weld County,2007,242250,21.0,0.0086687306501548,Control
+Colorado,Yuma County,2007,9580,4.0,0.04175365344467641,Control
+Colorado,Adams County,2008,429597,50.0,0.01163881498241375,Control
+Colorado,Alamosa County,2008,15441,3.0,0.019428793471925394,Control
+Colorado,Arapahoe County,2008,554372,90.0,0.01623458616236029,Control
+Colorado,Archuleta County,2008,12497,7.0,0.05601344322637433,Control
+Colorado,Baca County,2008,3782,0.0,0.0,Control
+Colorado,Bent County,2008,6058,2.0,0.03301419610432486,Control
+Colorado,Boulder County,2008,300452,33.0,0.01098345159958995,Control
+Colorado,Broomfield County,2008,54813,4.0,0.007297538905004287,Control
+Colorado,Chaffee County,2008,17000,9.0,0.052941176470588235,Control
+Colorado,Cheyenne County,2008,1779,7.0,0.3934794828555368,Control
+Colorado,Clear Creek County,2008,8910,1.0,0.01122334455667789,Control
+Colorado,Conejos County,2008,7980,0.0,0.0,Control
+Colorado,Costilla County,2008,3246,1.0,0.030807147258163893,Control
+Colorado,Crowley County,2008,6498,9.0,0.13850415512465375,Control
+Colorado,Custer County,2008,3944,2.0,0.05070993914807302,Control
+Colorado,Delta County,2008,30834,3.0,0.00972951936174353,Control
+Colorado,Denver County,2008,593086,170.0,0.028663633941789217,Control
+Colorado,Dolores County,2008,1954,4.0,0.2047082906857728,Control
+Colorado,Douglas County,2008,281138,2.0,0.0007113944041716168,Control
+Colorado,Eagle County,2008,52019,8.0,0.015378996136027221,Control
+Colorado,Elbert County,2008,22938,7.0,0.030517045949952044,Control
+Colorado,El Paso County,2008,595359,88.0,0.014780997683750477,Control
+Colorado,Fremont County,2008,47677,1.0,0.002097447406506282,Control
+Colorado,Garfield County,2008,54838,8.0,0.014588424085488164,Control
+Colorado,Gilpin County,2008,5238,5.0,0.09545628102329133,Control
+Colorado,Grand County,2008,13775,6.0,0.043557168784029036,Control
+Colorado,Gunnison County,2008,15222,2.0,0.01313887793982394,Control
+Colorado,Hinsdale County,2008,818,6.0,0.7334963325183375,Control
+Colorado,Huerfano County,2008,7765,2.0,0.025756600128783,Control
+Colorado,Jackson County,2008,1340,9.0,0.6716417910447762,Control
+Colorado,Jefferson County,2008,533295,62.0,0.011625835606934249,Control
+Colorado,Kiowa County,2008,1272,5.0,0.39308176100628933,Control
+Colorado,Kit Carson County,2008,8128,4.0,0.04921259842519685,Control
+Colorado,Lake County,2008,7999,6.0,0.0750093761720215,Control
+Colorado,La Plata County,2008,50633,9.0,0.017774968893804435,Control
+Colorado,Larimer County,2008,292889,32.0,0.01092564077175995,Control
+Colorado,Las Animas County,2008,15901,8.0,0.05031130117602667,Control
+Colorado,Lincoln County,2008,5208,6.0,0.1152073732718894,Control
+Colorado,Logan County,2008,20718,9.0,0.043440486533449174,Control
+Colorado,Mesa County,2008,141905,10.0,0.007046968041999929,Control
+Colorado,Mineral County,2008,950,3.0,0.3157894736842105,Control
+Colorado,Moffat County,2008,13822,4.0,0.02893937201562726,Control
+Colorado,Montezuma County,2008,25150,4.0,0.015904572564612324,Control
+Colorado,Montrose County,2008,40484,5.0,0.012350558245232684,Control
+Colorado,Morgan County,2008,27540,6.0,0.02178649237472767,Control
+Colorado,Otero County,2008,18639,7.0,0.037555662857449434,Control
+Colorado,Ouray County,2008,4588,2.0,0.043591979075850044,Control
+Colorado,Park County,2008,16997,6.0,0.03530034712008001,Control
+Colorado,Phillips County,2008,4448,3.0,0.06744604316546762,Control
+Colorado,Pitkin County,2008,15616,8.0,0.05122950819672131,Control
+Colorado,Prowers County,2008,12989,4.0,0.030795288320886904,Control
+Colorado,Pueblo County,2008,156009,15.0,0.009614829913658827,Control
+Colorado,Rio Blanco County,2008,6318,1.0,0.015827793605571384,Control
+Colorado,Rio Grande County,2008,11632,2.0,0.0171939477303989,Control
+Colorado,Routt County,2008,22965,2.0,0.008708904855214456,Control
+Colorado,Saguache County,2008,7018,4.0,0.05699629524080935,Control
+Colorado,San Juan County,2008,571,5.0,0.8756567425569177,Control
+Colorado,San Miguel County,2008,7527,0.0,0.0,Control
+Colorado,Sedgwick County,2008,2348,7.0,0.2981260647359455,Control
+Colorado,Summit County,2008,26724,8.0,0.0299356383774884,Control
+Colorado,Teller County,2008,21616,6.0,0.02775721687638786,Control
+Colorado,Washington County,2008,4472,3.0,0.06708407871198568,Control
+Colorado,Weld County,2008,248852,15.0,0.006027679102438397,Control
+Colorado,Yuma County,2008,9620,3.0,0.031185031185031187,Control
+Colorado,Adams County,2009,440994,67.0,0.015192950470981464,Control
+Colorado,Alamosa County,2009,15424,0.0,0.0,Control
+Colorado,Arapahoe County,2009,565360,90.0,0.015919060421678222,Control
+Colorado,Archuleta County,2009,12430,1.0,0.008045052292839904,Control
+Colorado,Baca County,2009,3723,4.0,0.10744023636852001,Control
+Colorado,Bent County,2009,6560,3.0,0.04573170731707317,Control
+Colorado,Boulder County,2009,303482,44.0,0.014498388701801096,Control
+Colorado,Broomfield County,2009,55990,3.0,0.005358099660653688,Control
+Colorado,Chaffee County,2009,17156,5.0,0.02914432268594078,Control
+Colorado,Cheyenne County,2009,1746,8.0,0.4581901489117984,Control
+Colorado,Clear Creek County,2009,8706,1.0,0.011486331265793705,Control
+Colorado,Conejos County,2009,7844,9.0,0.11473737888832228,Control
+Colorado,Costilla County,2009,3148,3.0,0.09529860228716645,Control
+Colorado,Crowley County,2009,6403,8.0,0.12494143370295174,Control
+Colorado,Custer County,2009,4000,7.0,0.175,Control
+Colorado,Delta County,2009,31322,3.0,0.009577932443649831,Control
+Colorado,Denver County,2009,610345,160.0,0.02621468186025936,Control
+Colorado,Dolores County,2009,1940,9.0,0.4639175257731959,Control
+Colorado,Douglas County,2009,288225,20.0,0.006939023332465956,Control
+Colorado,Eagle County,2009,53653,7.0,0.013046800738076157,Control
+Colorado,Elbert County,2009,23287,0.0,0.0,Control
+Colorado,El Paso County,2009,604542,80.0,0.013233158324814488,Control
+Colorado,Fremont County,2009,47815,0.0,0.0,Control
+Colorado,Garfield County,2009,56298,5.0,0.008881310170876408,Control
+Colorado,Gilpin County,2009,5604,5.0,0.08922198429693076,Control
+Colorado,Grand County,2009,13911,6.0,0.04313133491481561,Control
+Colorado,Gunnison County,2009,15350,3.0,0.019543973941368076,Control
+Colorado,Hinsdale County,2009,821,6.0,0.730816077953715,Control
+Colorado,Huerfano County,2009,7558,8.0,0.10584810796507012,Control
+Colorado,Jackson County,2009,1369,6.0,0.4382761139517896,Control
+Colorado,Jefferson County,2009,536922,44.0,0.00819485884355642,Control
+Colorado,Kiowa County,2009,1238,2.0,0.16155088852988692,Control
+Colorado,Kit Carson County,2009,8402,0.0,0.0,Control
+Colorado,Lake County,2009,8046,6.0,0.07457121551081283,Control
+Colorado,La Plata County,2009,51464,1.0,0.001943105860407275,Control
+Colorado,Larimer County,2009,298382,30.0,0.0100542257911,Control
+Colorado,Las Animas County,2009,16020,8.0,0.049937578027465665,Control
+Colorado,Lincoln County,2009,5169,0.0,0.0,Control
+Colorado,Logan County,2009,20772,1.0,0.004814172925091469,Control
+Colorado,Mesa County,2009,146093,14.0,0.009582936896360538,Control
+Colorado,Mineral County,2009,912,1.0,0.10964912280701754,Control
+Colorado,Moffat County,2009,13980,9.0,0.06437768240343347,Control
+Colorado,Montezuma County,2009,25368,0.0,0.0,Control
+Colorado,Montrose County,2009,41412,5.0,0.01207379503525548,Control
+Colorado,Morgan County,2009,27850,6.0,0.02154398563734291,Control
+Colorado,Otero County,2009,18670,5.0,0.02678093197643278,Control
+Colorado,Ouray County,2009,4602,8.0,0.1738374619730552,Control
+Colorado,Park County,2009,16762,1.0,0.005965875193890944,Control
+Colorado,Phillips County,2009,4472,3.0,0.06708407871198568,Control
+Colorado,Pitkin County,2009,16043,3.0,0.01869974443682603,Control
+Colorado,Prowers County,2009,12982,3.0,0.023108920043136652,Control
+Colorado,Pueblo County,2009,157224,14.0,0.008904492952729864,Control
+Colorado,Rio Blanco County,2009,6534,3.0,0.04591368227731864,Control
+Colorado,Rio Grande County,2009,11581,4.0,0.034539331663932304,Control
+Colorado,Routt County,2009,23469,4.0,0.017043759853423664,Control
+Colorado,Saguache County,2009,7097,1.0,0.014090460758066789,Control
+Colorado,San Juan County,2009,555,7.0,1.2612612612612613,Control
+Colorado,San Miguel County,2009,7558,1.0,0.013231013495633765,Control
+Colorado,Sedgwick County,2009,2326,4.0,0.17196904557179707,Control
+Colorado,Summit County,2009,27239,8.0,0.029369653805205773,Control
+Colorado,Teller County,2009,21685,4.0,0.018445930366612864,Control
+Colorado,Washington County,2009,4420,0.0,0.0,Control
+Colorado,Weld County,2009,254759,18.0,0.007065501120666983,Control
+Colorado,Yuma County,2009,9734,5.0,0.051366344770906104,Control
+Colorado,Adams County,2010,443692,53.0,0.011945223262984233,Control
+Colorado,Alamosa County,2010,15515,5.0,0.03222687721559781,Control
+Colorado,Arapahoe County,2010,575124,78.0,0.013562292653410395,Control
+Colorado,Archuleta County,2010,12048,2.0,0.016600265604249667,Control
+Colorado,Baca County,2010,3807,1.0,0.026267402153926978,Control
+Colorado,Bent County,2010,6500,3.0,0.046153846153846156,Control
+Colorado,Boulder County,2010,295056,16.0,0.005422699419771162,Control
+Colorado,Broomfield County,2010,56212,1.0,0.0017789795773144525,Control
+Colorado,Chaffee County,2010,17808,3.0,0.016846361185983826,Control
+Colorado,Cheyenne County,2010,1833,9.0,0.4909983633387889,Control
+Colorado,Clear Creek County,2010,9084,4.0,0.044033465433729636,Control
+Colorado,Conejos County,2010,8312,2.0,0.02406159769008662,Control
+Colorado,Costilla County,2010,3529,1.0,0.028336639274582034,Control
+Colorado,Crowley County,2010,5859,3.0,0.051203277009728626,Control
+Colorado,Custer County,2010,4278,0.0,0.0,Control
+Colorado,Delta County,2010,30858,1.0,0.003240650722665111,Control
+Colorado,Denver County,2010,603012,121.0,0.02006593566960525,Control
+Colorado,Dolores County,2010,2069,0.0,0.0,Control
+Colorado,Douglas County,2010,287011,14.0,0.004877861824111271,Control
+Colorado,Eagle County,2010,52098,4.0,0.0076778379208414915,Control
+Colorado,Elbert County,2010,23137,7.0,0.030254570601201538,Control
+Colorado,El Paso County,2010,627088,77.0,0.012278978388998035,Control
+Colorado,Fremont County,2010,46834,3.0,0.0064056027672203955,Control
+Colorado,Garfield County,2010,56072,1.0,0.0017834213154515623,Control
+Colorado,Gilpin County,2010,5471,6.0,0.10966916468652897,Control
+Colorado,Grand County,2010,14795,1.0,0.006759040216289287,Control
+Colorado,Gunnison County,2010,15290,5.0,0.032701111837802485,Control
+Colorado,Hinsdale County,2010,844,2.0,0.23696682464454977,Control
+Colorado,Huerfano County,2010,6681,7.0,0.1047747343212094,Control
+Colorado,Jackson County,2010,1388,3.0,0.21613832853025935,Control
+Colorado,Jefferson County,2010,535567,55.0,0.010269490091809242,Control
+Colorado,Kiowa County,2010,1404,1.0,0.07122507122507123,Control
+Colorado,Kit Carson County,2010,8271,3.0,0.03627130939426913,Control
+Colorado,Lake County,2010,7263,2.0,0.027536830510808206,Control
+Colorado,La Plata County,2010,51416,2.0,0.0038898397386027696,Control
+Colorado,Larimer County,2010,300453,32.0,0.010650584284397227,Control
+Colorado,Las Animas County,2010,15422,2.0,0.012968486577616392,Control
+Colorado,Lincoln County,2010,5471,9.0,0.16450374702979345,Control
+Colorado,Logan County,2010,22749,2.0,0.008791595234955383,Control
+Colorado,Mesa County,2010,146266,11.0,0.007520544760915045,Control
+Colorado,Mineral County,2010,704,5.0,0.7102272727272727,Control
+Colorado,Moffat County,2010,13795,7.0,0.050743022834360274,Control
+Colorado,Montezuma County,2010,25576,4.0,0.01563966218329684,Control
+Colorado,Montrose County,2010,41182,0.0,0.0,Control
+Colorado,Morgan County,2010,28243,5.0,0.017703501752646674,Control
+Colorado,Otero County,2010,18857,5.0,0.02651535238903325,Control
+Colorado,Ouray County,2010,4457,2.0,0.04487323311644604,Control
+Colorado,Park County,2010,16278,9.0,0.055289347585698485,Control
+Colorado,Phillips County,2010,4471,6.0,0.13419816595839856,Control
+Colorado,Pitkin County,2010,17156,8.0,0.046630916297505244,Control
+Colorado,Prowers County,2010,12546,9.0,0.07173601147776183,Control
+Colorado,Pueblo County,2010,159401,22.0,0.01380167000207025,Control
+Colorado,Rio Blanco County,2010,6623,1.0,0.015098897780462027,Control
+Colorado,Rio Grande County,2010,12022,9.0,0.07486275162202628,Control
+Colorado,Routt County,2010,23434,0.0,0.0,Control
+Colorado,Saguache County,2010,6135,4.0,0.06519967400162999,Control
+Colorado,San Juan County,2010,708,6.0,0.847457627118644,Control
+Colorado,San Miguel County,2010,7358,4.0,0.05436259853220984,Control
+Colorado,Sedgwick County,2010,2371,7.0,0.2952340784479123,Control
+Colorado,Summit County,2010,28075,1.0,0.003561887800534283,Control
+Colorado,Teller County,2010,23474,3.0,0.012780097128738179,Control
+Colorado,Washington County,2010,4808,3.0,0.06239600665557404,Control
+Colorado,Weld County,2010,254224,18.0,0.007080370067342186,Control
+Colorado,Yuma County,2010,10054,4.0,0.039785160135269546,Control
+Colorado,Adams County,2011,452209,88.0,0.019460028438177922,Control
+Colorado,Alamosa County,2011,15715,0.0,0.0,Control
+Colorado,Arapahoe County,2011,586433,72.0,0.012277617391927126,Control
+Colorado,Archuleta County,2011,12027,7.0,0.058202377982871874,Control
+Colorado,Baca County,2011,3779,5.0,0.13231013495633764,Control
+Colorado,Bent County,2011,6424,6.0,0.09339975093399751,Control
+Colorado,Boulder County,2011,300045,38.0,0.012664766951623923,Control
+Colorado,Broomfield County,2011,57485,5.0,0.008697921196833956,Control
+Colorado,Chaffee County,2011,18035,4.0,0.022179096201829774,Control
+Colorado,Cheyenne County,2011,1863,8.0,0.4294149221685454,Control
+Colorado,Clear Creek County,2011,9012,1.0,0.011096316023080338,Control
+Colorado,Conejos County,2011,8291,2.0,0.024122542515981185,Control
+Colorado,Costilla County,2011,3640,9.0,0.24725274725274726,Control
+Colorado,Crowley County,2011,5884,1.0,0.01699524133242692,Control
+Colorado,Custer County,2011,4224,9.0,0.21306818181818182,Control
+Colorado,Delta County,2011,30398,6.0,0.019738140667149153,Control
+Colorado,Denver County,2011,620250,163.0,0.026279725916968963,Control
+Colorado,Dolores County,2011,2044,1.0,0.04892367906066536,Control
+Colorado,Douglas County,2011,292626,28.0,0.00956852774531313,Control
+Colorado,Eagle County,2011,52048,8.0,0.01537042729787888,Control
+Colorado,Elbert County,2011,23175,3.0,0.012944983818770227,Control
+Colorado,El Paso County,2011,637376,94.0,0.01474796666331961,Control
+Colorado,Fremont County,2011,47393,2.0,0.004220032494250205,Control
+Colorado,Garfield County,2011,56049,1.0,0.0017841531517065424,Control
+Colorado,Gilpin County,2011,5429,4.0,0.07367839381101492,Control
+Colorado,Grand County,2011,14564,4.0,0.027464982147761604,Control
+Colorado,Gunnison County,2011,15267,0.0,0.0,Control
+Colorado,Hinsdale County,2011,825,9.0,1.0909090909090908,Control
+Colorado,Huerfano County,2011,6527,6.0,0.09192584648383637,Control
+Colorado,Jackson County,2011,1357,7.0,0.5158437730287398,Control
+Colorado,Jefferson County,2011,540582,72.0,0.013318978434354084,Control
+Colorado,Kiowa County,2011,1432,8.0,0.5586592178770949,Control
+Colorado,Kit Carson County,2011,8183,9.0,0.10998411340584138,Control
+Colorado,Lake County,2011,7344,3.0,0.04084967320261438,Control
+Colorado,La Plata County,2011,51886,7.0,0.013491115137031183,Control
+Colorado,Larimer County,2011,305320,43.0,0.014083584436001571,Control
+Colorado,Las Animas County,2011,15054,0.0,0.0,Control
+Colorado,Lincoln County,2011,5420,3.0,0.055350553505535055,Control
+Colorado,Logan County,2011,22577,6.0,0.026575718651725207,Control
+Colorado,Mesa County,2011,147205,25.0,0.016983118779932745,Control
+Colorado,Mineral County,2011,711,0.0,0.0,Control
+Colorado,Moffat County,2011,13424,0.0,0.0,Control
+Colorado,Montezuma County,2011,25489,4.0,0.015693044058221195,Control
+Colorado,Montrose County,2011,40980,7.0,0.01708150317227916,Control
+Colorado,Morgan County,2011,28450,5.0,0.01757469244288225,Control
+Colorado,Otero County,2011,18837,3.0,0.01592610288262462,Control
+Colorado,Ouray County,2011,4424,4.0,0.09041591320072333,Control
+Colorado,Park County,2011,16060,9.0,0.05603985056039851,Control
+Colorado,Phillips County,2011,4402,6.0,0.13630168105406634,Control
+Colorado,Pitkin County,2011,17177,6.0,0.03493043022646562,Control
+Colorado,Prowers County,2011,12500,6.0,0.048,Control
+Colorado,Pueblo County,2011,160208,20.0,0.012483771097573156,Control
+Colorado,Rio Blanco County,2011,6751,5.0,0.07406310176270182,Control
+Colorado,Rio Grande County,2011,11914,8.0,0.06714789323484975,Control
+Colorado,Routt County,2011,23256,7.0,0.030099759201926386,Control
+Colorado,Saguache County,2011,6187,6.0,0.09697753353806368,Control
+Colorado,San Juan County,2011,690,1.0,0.14492753623188406,Control
+Colorado,San Miguel County,2011,7491,2.0,0.026698705112802028,Control
+Colorado,Sedgwick County,2011,2371,6.0,0.25305778152678193,Control
+Colorado,Summit County,2011,28048,1.0,0.00356531660011409,Control
+Colorado,Teller County,2011,23378,9.0,0.03849773291128411,Control
+Colorado,Washington County,2011,4750,1.0,0.021052631578947368,Control
+Colorado,Weld County,2011,258867,31.0,0.011975261427682942,Control
+Colorado,Yuma County,2011,10138,3.0,0.029591635431051488,Control
+Colorado,Adams County,2012,460568,91.0,0.01975821159959007,Control
+Colorado,Alamosa County,2012,15685,4.0,0.025502072043353523,Control
+Colorado,Arapahoe County,2012,597052,78.0,0.013064188713880868,Control
+Colorado,Archuleta County,2012,12141,4.0,0.03294621530351701,Control
+Colorado,Baca County,2012,3722,7.0,0.18807092960773777,Control
+Colorado,Bent County,2012,5850,1.0,0.017094017094017096,Control
+Colorado,Boulder County,2012,304717,34.0,0.011157894045950833,Control
+Colorado,Broomfield County,2012,58971,9.0,0.015261738820776314,Control
+Colorado,Chaffee County,2012,18164,7.0,0.038537767011671435,Control
+Colorado,Cheyenne County,2012,1871,5.0,0.2672367717797969,Control
+Colorado,Clear Creek County,2012,9017,0.0,0.0,Control
+Colorado,Conejos County,2012,8248,9.0,0.10911736178467507,Control
+Colorado,Costilla County,2012,3601,4.0,0.11108025548458761,Control
+Colorado,Crowley County,2012,5468,7.0,0.12801755669348938,Control
+Colorado,Custer County,2012,4217,0.0,0.0,Control
+Colorado,Delta County,2012,30473,5.0,0.016407967709119547,Control
+Colorado,Denver County,2012,634965,120.0,0.0188986794547731,Control
+Colorado,Dolores County,2012,2009,1.0,0.049776007964161276,Control
+Colorado,Douglas County,2012,298826,20.0,0.006692858051173593,Control
+Colorado,Eagle County,2012,52330,2.0,0.0038218994840435697,Control
+Colorado,Elbert County,2012,23276,1.0,0.004296270836913559,Control
+Colorado,El Paso County,2012,645900,96.0,0.014862981885740827,Control
+Colorado,Fremont County,2012,47072,2.0,0.00424881033310673,Control
+Colorado,Garfield County,2012,56765,9.0,0.01585484013036202,Control
+Colorado,Gilpin County,2012,5432,6.0,0.11045655375552282,Control
+Colorado,Grand County,2012,14227,3.0,0.021086666198074085,Control
+Colorado,Gunnison County,2012,15390,8.0,0.05198180636777128,Control
+Colorado,Hinsdale County,2012,802,7.0,0.8728179551122195,Control
+Colorado,Huerfano County,2012,6567,8.0,0.12182122734886554,Control
+Colorado,Jackson County,2012,1325,9.0,0.6792452830188679,Control
+Colorado,Jefferson County,2012,546736,75.0,0.013717772380088379,Control
+Colorado,Kiowa County,2012,1410,0.0,0.0,Control
+Colorado,Kit Carson County,2012,8088,0.0,0.0,Control
+Colorado,Lake County,2012,7259,1.0,0.013776002204160353,Control
+Colorado,La Plata County,2012,52489,1.0,0.0019051610813694297,Control
+Colorado,Larimer County,2012,310983,31.0,0.009968390555110729,Control
+Colorado,Las Animas County,2012,14996,6.0,0.04001066951186983,Control
+Colorado,Lincoln County,2012,5441,4.0,0.07351589781290203,Control
+Colorado,Logan County,2012,22360,5.0,0.022361359570661897,Control
+Colorado,Mesa County,2012,147360,14.0,0.009500542888165039,Control
+Colorado,Mineral County,2012,719,4.0,0.5563282336578581,Control
+Colorado,Moffat County,2012,13172,2.0,0.015183723048891588,Control
+Colorado,Montezuma County,2012,25497,6.0,0.023532180256500765,Control
+Colorado,Montrose County,2012,40675,9.0,0.022126613398893668,Control
+Colorado,Morgan County,2012,28243,0.0,0.0,Control
+Colorado,Otero County,2012,18631,4.0,0.021469593687939454,Control
+Colorado,Ouray County,2012,4508,7.0,0.15527950310559005,Control
+Colorado,Park County,2012,16052,3.0,0.01868925990530775,Control
+Colorado,Phillips County,2012,4417,9.0,0.20375820692777905,Control
+Colorado,Pitkin County,2012,17303,0.0,0.0,Control
+Colorado,Prowers County,2012,12422,3.0,0.024150700370310738,Control
+Colorado,Pueblo County,2012,160763,34.0,0.021149145014711098,Control
+Colorado,Rio Blanco County,2012,6763,2.0,0.02957267484844004,Control
+Colorado,Rio Grande County,2012,11867,2.0,0.016853459172495155,Control
+Colorado,Routt County,2012,23283,2.0,0.008589958338702058,Control
+Colorado,Saguache County,2012,6331,5.0,0.07897646501342599,Control
+Colorado,San Juan County,2012,692,7.0,1.0115606936416186,Control
+Colorado,San Miguel County,2012,7588,5.0,0.06589351607801792,Control
+Colorado,Sedgwick County,2012,2377,2.0,0.08413967185527976,Control
+Colorado,Summit County,2012,28307,5.0,0.01766347546543258,Control
+Colorado,Teller County,2012,23456,9.0,0.03836971350613915,Control
+Colorado,Washington County,2012,4689,1.0,0.021326508850501174,Control
+Colorado,Weld County,2012,264025,19.0,0.007196288230281223,Control
+Colorado,Yuma County,2012,10107,2.0,0.019788265558523796,Control
+Colorado,Adams County,2013,469995,78.0,0.016595921233204608,Control
+Colorado,Alamosa County,2013,15794,8.0,0.05065214638470305,Control
+Colorado,Arapahoe County,2013,609089,97.0,0.01592542304983344,Control
+Colorado,Archuleta County,2013,12225,7.0,0.05725971370143149,Control
+Colorado,Baca County,2013,3656,2.0,0.05470459518599562,Control
+Colorado,Bent County,2013,5759,4.0,0.06945650286508075,Control
+Colorado,Boulder County,2013,309538,54.0,0.017445354043768454,Control
+Colorado,Broomfield County,2013,60158,3.0,0.004986867914491838,Control
+Colorado,Chaffee County,2013,18375,2.0,0.010884353741496598,Control
+Colorado,Cheyenne County,2013,1878,9.0,0.4792332268370607,Control
+Colorado,Clear Creek County,2013,9025,1.0,0.0110803324099723,Control
+Colorado,Conejos County,2013,8199,4.0,0.04878643737041102,Control
+Colorado,Costilla County,2013,3540,0.0,0.0,Control
+Colorado,Crowley County,2013,5352,3.0,0.05605381165919283,Control
+Colorado,Custer County,2013,4260,6.0,0.14084507042253522,Control
+Colorado,Delta County,2013,30349,3.0,0.009885004448252003,Control
+Colorado,Denver County,2013,649270,116.0,0.01786621898439786,Control
+Colorado,Dolores County,2013,2033,6.0,0.2951303492375799,Control
+Colorado,Douglas County,2013,306407,27.0,0.008811809129686985,Control
+Colorado,Eagle County,2013,52814,3.0,0.005680312038474647,Control
+Colorado,Elbert County,2013,23543,9.0,0.03822792337425137,Control
+Colorado,El Paso County,2013,655178,107.0,0.016331439700356238,Control
+Colorado,Fremont County,2013,46360,4.0,0.008628127696289905,Control
+Colorado,Garfield County,2013,56945,0.0,0.0,Control
+Colorado,Gilpin County,2013,5535,4.0,0.07226738934056007,Control
+Colorado,Grand County,2013,14320,0.0,0.0,Control
+Colorado,Gunnison County,2013,15597,4.0,0.025645957555940246,Control
+Colorado,Hinsdale County,2013,803,2.0,0.24906600249066002,Control
+Colorado,Huerfano County,2013,6465,8.0,0.12374323279195669,Control
+Colorado,Jackson County,2013,1338,3.0,0.2242152466367713,Control
+Colorado,Jefferson County,2013,552242,75.0,0.013581002531498873,Control
+Colorado,Kiowa County,2013,1393,3.0,0.21536252692031588,Control
+Colorado,Kit Carson County,2013,8259,4.0,0.0484320135609638,Control
+Colorado,Lake County,2013,7276,0.0,0.0,Control
+Colorado,La Plata County,2013,53432,1.0,0.0018715376553376255,Control
+Colorado,Larimer County,2013,316426,58.0,0.01832972006093052,Control
+Colorado,Las Animas County,2013,14404,2.0,0.013885031935573451,Control
+Colorado,Lincoln County,2013,5435,8.0,0.14719411223551057,Control
+Colorado,Logan County,2013,22182,8.0,0.03606527815345776,Control
+Colorado,Mesa County,2013,147249,14.0,0.009507704636364253,Control
+Colorado,Mineral County,2013,732,1.0,0.1366120218579235,Control
+Colorado,Moffat County,2013,13129,8.0,0.06093381064818341,Control
+Colorado,Montezuma County,2013,25575,4.0,0.015640273704789834,Control
+Colorado,Montrose County,2013,40584,6.0,0.01478415138971023,Control
+Colorado,Morgan County,2013,28217,7.0,0.024807740014884644,Control
+Colorado,Otero County,2013,18449,8.0,0.04336278389072579,Control
+Colorado,Ouray County,2013,4554,6.0,0.13175230566534915,Control
+Colorado,Park County,2013,16190,3.0,0.01852995676343422,Control
+Colorado,Phillips County,2013,4384,4.0,0.09124087591240876,Control
+Colorado,Pitkin County,2013,17474,0.0,0.0,Control
+Colorado,Prowers County,2013,12319,4.0,0.03247016803311957,Control
+Colorado,Pueblo County,2013,161096,33.0,0.0204846799423946,Control
+Colorado,Rio Blanco County,2013,6699,9.0,0.13434841021047916,Control
+Colorado,Rio Grande County,2013,11674,1.0,0.008566044200788075,Control
+Colorado,Routt County,2013,23610,9.0,0.03811944091486658,Control
+Colorado,Saguache County,2013,6240,2.0,0.03205128205128205,Control
+Colorado,San Juan County,2013,692,6.0,0.8670520231213873,Control
+Colorado,San Miguel County,2013,7632,5.0,0.06551362683438156,Control
+Colorado,Sedgwick County,2013,2338,1.0,0.0427715996578272,Control
+Colorado,Summit County,2013,28741,3.0,0.010438050172227828,Control
+Colorado,Teller County,2013,23372,5.0,0.021393119972616805,Control
+Colorado,Washington County,2013,4731,7.0,0.14796026210103572,Control
+Colorado,Weld County,2013,270105,20.0,0.007404527868791766,Control
+Colorado,Yuma County,2013,10139,4.0,0.03945162244797317,Control
+Colorado,Adams County,2014,479954,88.0,0.018335090446167757,Control
+Colorado,Alamosa County,2014,15807,3.0,0.01897893338394382,Control
+Colorado,Arapahoe County,2014,619681,99.0,0.015975961825519906,Control
+Colorado,Archuleta County,2014,12240,7.0,0.05718954248366013,Control
+Colorado,Baca County,2014,3586,7.0,0.19520356943669828,Control
+Colorado,Bent County,2014,5821,1.0,0.017179178835251677,Control
+Colorado,Boulder County,2014,312525,33.0,0.010559155267578594,Control
+Colorado,Broomfield County,2014,61791,1.0,0.0016183586606463725,Control
+Colorado,Chaffee County,2014,18471,2.0,0.010827784093985165,Control
+Colorado,Cheyenne County,2014,1845,5.0,0.27100271002710025,Control
+Colorado,Clear Creek County,2014,9124,4.0,0.04384042086804033,Control
+Colorado,Conejos County,2014,8230,2.0,0.024301336573511544,Control
+Colorado,Costilla County,2014,3560,9.0,0.25280898876404495,Control
+Colorado,Crowley County,2014,5610,1.0,0.017825311942959002,Control
+Colorado,Custer County,2014,4339,8.0,0.18437427978796958,Control
+Colorado,Delta County,2014,29973,1.0,0.003336336035765522,Control
+Colorado,Denver County,2014,664540,130.0,0.019562404068980046,Control
+Colorado,Dolores County,2014,1976,0.0,0.0,Control
+Colorado,Douglas County,2014,314783,15.0,0.004765187446590191,Control
+Colorado,Eagle County,2014,53276,0.0,0.0,Control
+Colorado,Elbert County,2014,24035,6.0,0.0249635947576451,Control
+Colorado,El Paso County,2014,662968,132.0,0.01991046325011162,Control
+Colorado,Fremont County,2014,46185,4.0,0.008660820612753058,Control
+Colorado,Garfield County,2014,57174,2.0,0.0034980935390212333,Control
+Colorado,Gilpin County,2014,5754,7.0,0.12165450121654502,Control
+Colorado,Grand County,2014,14569,9.0,0.06177500171597227,Control
+Colorado,Gunnison County,2014,15786,4.0,0.02533890789306981,Control
+Colorado,Hinsdale County,2014,772,0.0,0.0,Control
+Colorado,Huerfano County,2014,6399,4.0,0.06250976715111736,Control
+Colorado,Jackson County,2014,1385,3.0,0.21660649819494585,Control
+Colorado,Jefferson County,2014,559099,80.0,0.014308736019917761,Control
+Colorado,Kiowa County,2014,1382,7.0,0.5065123010130246,Control
+Colorado,Kit Carson County,2014,8028,2.0,0.02491280518186348,Control
+Colorado,Lake County,2014,7333,8.0,0.10909586799399973,Control
+Colorado,La Plata County,2014,53941,2.0,0.003707754769099572,Control
+Colorado,Larimer County,2014,324272,54.0,0.01665268663344353,Control
+Colorado,Las Animas County,2014,14054,9.0,0.064038707841184,Control
+Colorado,Lincoln County,2014,5503,0.0,0.0,Control
+Colorado,Logan County,2014,22446,7.0,0.03118595740889245,Control
+Colorado,Mesa County,2014,147215,17.0,0.011547736304045104,Control
+Colorado,Mineral County,2014,703,8.0,1.1379800853485065,Control
+Colorado,Moffat County,2014,12941,3.0,0.02318213430183139,Control
+Colorado,Montezuma County,2014,25551,3.0,0.011741223435481977,Control
+Colorado,Montrose County,2014,40622,6.0,0.014770321500664664,Control
+Colorado,Morgan County,2014,28098,3.0,0.010676916506512918,Control
+Colorado,Otero County,2014,18334,3.0,0.01636304134395113,Control
+Colorado,Ouray County,2014,4576,2.0,0.043706293706293704,Control
+Colorado,Park County,2014,16392,3.0,0.018301610541727673,Control
+Colorado,Phillips County,2014,4394,9.0,0.2048247610377788,Control
+Colorado,Pitkin County,2014,17730,6.0,0.0338409475465313,Control
+Colorado,Prowers County,2014,12064,6.0,0.04973474801061008,Control
+Colorado,Pueblo County,2014,161434,37.0,0.022919583235254035,Control
+Colorado,Rio Blanco County,2014,6604,1.0,0.015142337976983646,Control
+Colorado,Rio Grande County,2014,11505,0.0,0.0,Control
+Colorado,Routt County,2014,24085,8.0,0.033215694415611376,Control
+Colorado,Saguache County,2014,6195,3.0,0.048426150121065374,Control
+Colorado,San Juan County,2014,712,7.0,0.9831460674157303,Control
+Colorado,San Miguel County,2014,7751,6.0,0.07740936653335054,Control
+Colorado,Sedgwick County,2014,2332,1.0,0.04288164665523156,Control
+Colorado,Summit County,2014,29333,9.0,0.03068216684280503,Control
+Colorado,Teller County,2014,23458,6.0,0.025577628101287407,Control
+Colorado,Washington County,2014,4720,9.0,0.1906779661016949,Control
+Colorado,Weld County,2014,277480,29.0,0.010451203690356061,Control
+Colorado,Yuma County,2014,10191,1.0,0.009812579727210283,Control
+Colorado,Adams County,2015,490448,84.0,0.01712719799040877,Control
+Colorado,Alamosa County,2015,15894,2.0,0.012583364791745313,Control
+Colorado,Arapahoe County,2015,631688,98.0,0.015513987918086143,Control
+Colorado,Archuleta County,2015,12399,3.0,0.024195499637067505,Control
+Colorado,Baca County,2015,3554,5.0,0.14068655036578503,Control
+Colorado,Bent County,2015,5891,5.0,0.08487523340689188,Control
+Colorado,Boulder County,2015,318408,32.0,0.010049998743750156,Control
+Colorado,Broomfield County,2015,64914,4.0,0.006161998952460178,Control
+Colorado,Chaffee County,2015,18635,4.0,0.021464985242822646,Control
+Colorado,Cheyenne County,2015,1826,0.0,0.0,Control
+Colorado,Clear Creek County,2015,9246,4.0,0.043261951113995244,Control
+Colorado,Conejos County,2015,8064,1.0,0.01240079365079365,Control
+Colorado,Costilla County,2015,3576,2.0,0.05592841163310962,Control
+Colorado,Crowley County,2015,5633,2.0,0.03550505947097461,Control
+Colorado,Custer County,2015,4434,5.0,0.11276499774470004,Control
+Colorado,Delta County,2015,29925,5.0,0.01670843776106934,Control
+Colorado,Denver County,2015,683328,107.0,0.01565865879928819,Control
+Colorado,Dolores County,2015,1980,6.0,0.30303030303030304,Control
+Colorado,Douglas County,2015,322333,18.0,0.005584287057173792,Control
+Colorado,Eagle County,2015,53863,0.0,0.0,Control
+Colorado,Elbert County,2015,24634,5.0,0.020297150280100675,Control
+Colorado,El Paso County,2015,674094,143.0,0.02121365862921195,Control
+Colorado,Fremont County,2015,46327,3.0,0.006475705312236925,Control
+Colorado,Garfield County,2015,57724,3.0,0.00519714503499411,Control
+Colorado,Gilpin County,2015,5813,6.0,0.10321692757612248,Control
+Colorado,Grand County,2015,14742,0.0,0.0,Control
+Colorado,Gunnison County,2015,16125,6.0,0.037209302325581395,Control
+Colorado,Hinsdale County,2015,762,3.0,0.3937007874015748,Control
+Colorado,Huerfano County,2015,6408,0.0,0.0,Control
+Colorado,Jackson County,2015,1352,4.0,0.2958579881656805,Control
+Colorado,Jefferson County,2015,565240,85.0,0.015037860024060577,Control
+Colorado,Kiowa County,2015,1386,3.0,0.21645021645021645,Control
+Colorado,Kit Carson County,2015,8223,9.0,0.10944910616563298,Control
+Colorado,Lake County,2015,7455,6.0,0.08048289738430583,Control
+Colorado,La Plata County,2015,54776,5.0,0.009128085292828976,Control
+Colorado,Larimer County,2015,333637,40.0,0.011989077949987562,Control
+Colorado,Las Animas County,2015,14048,11.0,0.07830296127562643,Control
+Colorado,Lincoln County,2015,5545,4.0,0.0721370604147881,Control
+Colorado,Logan County,2015,22484,0.0,0.0,Control
+Colorado,Mesa County,2015,148159,26.0,0.017548714556658726,Control
+Colorado,Mineral County,2015,742,1.0,0.1347708894878706,Control
+Colorado,Moffat County,2015,12946,3.0,0.023173180905298935,Control
+Colorado,Montezuma County,2015,25763,5.0,0.019407677677289136,Control
+Colorado,Montrose County,2015,40609,3.0,0.007387524932896648,Control
+Colorado,Morgan County,2015,28245,6.0,0.021242697822623474,Control
+Colorado,Otero County,2015,18182,2.0,0.010999890001099988,Control
+Colorado,Ouray County,2015,4611,6.0,0.13012361743656473,Control
+Colorado,Park County,2015,16739,0.0,0.0,Control
+Colorado,Phillips County,2015,4328,3.0,0.06931608133086876,Control
+Colorado,Pitkin County,2015,17962,5.0,0.027836543814719963,Control
+Colorado,Prowers County,2015,11937,0.0,0.0,Control
+Colorado,Pueblo County,2015,163101,44.0,0.02697714912845415,Control
+Colorado,Rio Blanco County,2015,6487,1.0,0.015415446277169724,Control
+Colorado,Rio Grande County,2015,11355,1.0,0.008806693086745927,Control
+Colorado,Routt County,2015,24388,7.0,0.02870264064293915,Control
+Colorado,Saguache County,2015,6250,9.0,0.144,Control
+Colorado,San Juan County,2015,690,0.0,0.0,Control
+Colorado,San Miguel County,2015,7850,5.0,0.06369426751592357,Control
+Colorado,Sedgwick County,2015,2373,9.0,0.37926675094816686,Control
+Colorado,Summit County,2015,30064,8.0,0.026609898882384245,Control
+Colorado,Teller County,2015,23421,6.0,0.025618035096708083,Control
+Colorado,Washington County,2015,4775,4.0,0.08376963350785341,Control
+Colorado,Weld County,2015,286493,39.0,0.013612898046374606,Control
+Colorado,Yuma County,2015,10044,3.0,0.02986857825567503,Control
+Florida,Alachua County,2003,225862,11.0,0.0048702304947268685,Treatment
+Florida,Baker County,2003,23285,4.0,0.017178441056474127,Treatment
+Florida,Bay County,2003,154726,21.0,0.013572379561288988,Treatment
+Florida,Bradford County,2003,27097,5.0,0.01845222718382109,Treatment
+Florida,Brevard County,2003,502985,97.0,0.01928486933009931,Treatment
+Florida,Broward County,2003,1719073,230.0,0.013379303845735463,Treatment
+Florida,Calhoun County,2003,12986,5.0,0.03850300323425227,Treatment
+Florida,Charlotte County,2003,152138,3.0,0.0019718939383980335,Treatment
+Florida,Citrus County,2003,125757,16.0,0.012722949815914819,Treatment
+Florida,Clay County,2003,155357,16.0,0.010298860044928778,Treatment
+Florida,Collier County,2003,284896,29.0,0.01017915309446254,Treatment
+Florida,Columbia County,2003,59898,5.0,0.008347524124344719,Treatment
+Florida,DeSoto County,2003,33531,3.0,0.008946944618412812,Treatment
+Florida,Dixie County,2003,13895,4.0,0.02878733357322778,Treatment
+Florida,Duval County,2003,812238,127.0,0.015635811178496942,Treatment
+Florida,Escambia County,2003,301040,27.0,0.008968907786340685,Treatment
+Florida,Flagler County,2003,62154,2.0,0.0032178138172925313,Treatment
+Florida,Franklin County,2003,9950,5.0,0.05025125628140704,Treatment
+Florida,Gadsden County,2003,45223,7.0,0.015478849258120868,Treatment
+Florida,Gilchrist County,2003,15448,1.0,0.00647332988089073,Treatment
+Florida,Glades County,2003,10946,0.0,0.0,Treatment
+Florida,Gulf County,2003,15210,5.0,0.03287310979618672,Treatment
+Florida,Hamilton County,2003,13850,8.0,0.05776173285198556,Treatment
+Florida,Hardee County,2003,27416,8.0,0.029180040852057193,Treatment
+Florida,Hendry County,2003,36424,9.0,0.0247089830880738,Treatment
+Florida,Hernando County,2003,142368,15.0,0.010536075522589346,Treatment
+Florida,Highlands County,2003,90700,10.0,0.011025358324145534,Treatment
+Florida,Hillsborough County,2003,1071415,126.0,0.011760148961886851,Treatment
+Florida,Holmes County,2003,18876,3.0,0.01589319771137953,Treatment
+Florida,Indian River County,2003,119836,10.0,0.008344737808338063,Treatment
+Florida,Jackson County,2003,46688,5.0,0.01070938999314599,Treatment
+Florida,Jefferson County,2003,13405,2.0,0.014919806042521447,Treatment
+Florida,Lafayette County,2003,7228,8.0,0.11068068622025456,Treatment
+Florida,Lake County,2003,246008,17.0,0.006910344379044584,Treatment
+Florida,Lee County,2003,490139,77.0,0.015709829252518164,Treatment
+Florida,Leon County,2003,248102,11.0,0.004433660349372435,Treatment
+Florida,Levy County,2003,35946,9.0,0.02503755633450175,Treatment
+Florida,Liberty County,2003,7210,9.0,0.12482662968099861,Treatment
+Florida,Madison County,2003,18619,8.0,0.04296686180783071,Treatment
+Florida,Manatee County,2003,286175,42.0,0.014676334410762645,Treatment
+Florida,Marion County,2003,279156,43.0,0.015403573629081947,Treatment
+Florida,Martin County,2003,134556,15.0,0.011147774904129135,Treatment
+Florida,Miami-Dade County,2003,2352658,94.0,0.003995480856121034,Treatment
+Florida,Monroe County,2003,78880,17.0,0.021551724137931036,Treatment
+Florida,Nassau County,2003,61513,8.0,0.013005380976378976,Treatment
+Florida,Okaloosa County,2003,178644,20.0,0.011195450169051298,Treatment
+Florida,Okeechobee County,2003,37303,5.0,0.013403747687853523,Treatment
+Florida,Orange County,2003,965744,83.0,0.00859441011282493,Treatment
+Florida,Osceola County,2003,206016,12.0,0.005824790307548928,Treatment
+Florida,Palm Beach County,2003,1208940,199.0,0.016460701110063362,Treatment
+Florida,Pasco County,2003,385513,62.0,0.01608246673912423,Treatment
+Florida,Pinellas County,2003,923484,135.0,0.014618553218030848,Treatment
+Florida,Polk County,2003,508118,42.0,0.00826579652757824,Treatment
+Florida,Putnam County,2003,71248,2.0,0.002807096339546373,Treatment
+Florida,St. Johns County,2003,142313,4.0,0.002810705979074294,Treatment
+Florida,St. Lucie County,2003,212555,21.0,0.009879795817553104,Treatment
+Florida,Santa Rosa County,2003,132549,21.0,0.015843197609940476,Treatment
+Florida,Sarasota County,2003,345161,62.0,0.017962631931185736,Treatment
+Florida,Seminole County,2003,385706,33.0,0.008555739345511867,Treatment
+Florida,Sumter County,2003,58797,5.0,0.008503835229688589,Treatment
+Florida,Suwannee County,2003,36440,4.0,0.010976948408342482,Treatment
+Florida,Taylor County,2003,19619,7.0,0.035679698251694786,Treatment
+Florida,Union County,2003,13462,9.0,0.06685485069083345,Treatment
+Florida,Volusia County,2003,465989,48.0,0.0103006723334671,Treatment
+Florida,Wakulla County,2003,25699,0.0,0.0,Treatment
+Florida,Walton County,2003,45721,8.0,0.01749743006495921,Treatment
+Florida,Washington County,2003,21299,4.0,0.018780224423681862,Treatment
+Florida,Alachua County,2004,228346,1.0,0.00043793191034657933,Treatment
+Florida,Baker County,2004,23789,5.0,0.021018117617386187,Treatment
+Florida,Bay County,2004,157841,18.0,0.011403881120874804,Treatment
+Florida,Bradford County,2004,27791,9.0,0.03238458493756972,Treatment
+Florida,Brevard County,2004,515890,111.0,0.021516214696931515,Treatment
+Florida,Broward County,2004,1741272,272.0,0.015620764590483279,Treatment
+Florida,Calhoun County,2004,13058,5.0,0.0382907030173074,Treatment
+Florida,Charlotte County,2004,156281,17.0,0.010877841836179703,Treatment
+Florida,Citrus County,2004,129208,12.0,0.009287350628444059,Treatment
+Florida,Clay County,2004,162473,22.0,0.01354071137973694,Treatment
+Florida,Collier County,2004,295453,29.0,0.009815435957665009,Treatment
+Florida,Columbia County,2004,61457,2.0,0.0032543078900694796,Treatment
+Florida,DeSoto County,2004,34240,9.0,0.026285046728971962,Treatment
+Florida,Dixie County,2004,14199,8.0,0.0563419959152053,Treatment
+Florida,Duval County,2004,821644,109.0,0.013266086042130169,Treatment
+Florida,Escambia County,2004,301768,33.0,0.010935553140160653,Treatment
+Florida,Flagler County,2004,68241,3.0,0.004396184112190619,Treatment
+Florida,Franklin County,2004,9981,0.0,0.0,Treatment
+Florida,Gadsden County,2004,45506,6.0,0.0131850744956709,Treatment
+Florida,Gilchrist County,2004,15714,5.0,0.03181876034109711,Treatment
+Florida,Glades County,2004,11123,1.0,0.008990380293086398,Treatment
+Florida,Gulf County,2004,15364,9.0,0.05857849518354595,Treatment
+Florida,Hamilton County,2004,13894,8.0,0.0575788109975529,Treatment
+Florida,Hardee County,2004,27657,6.0,0.021694326933506886,Treatment
+Florida,Hendry County,2004,37221,8.0,0.021493243061712474,Treatment
+Florida,Hernando County,2004,149114,14.0,0.009388789784996713,Treatment
+Florida,Highlands County,2004,92752,8.0,0.008625150940141452,Treatment
+Florida,Hillsborough County,2004,1099688,146.0,0.013276492968914819,Treatment
+Florida,Holmes County,2004,18819,4.0,0.02125511451192943,Treatment
+Florida,Indian River County,2004,124105,10.0,0.008057693082470488,Treatment
+Florida,Jackson County,2004,47424,0.0,0.0,Treatment
+Florida,Jefferson County,2004,13723,0.0,0.0,Treatment
+Florida,Lafayette County,2004,7438,5.0,0.06722237160527024,Treatment
+Florida,Lake County,2004,260829,10.0,0.003833929509372041,Treatment
+Florida,Lee County,2004,512180,98.0,0.019133898238900385,Treatment
+Florida,Leon County,2004,250863,9.0,0.0035876155511175424,Treatment
+Florida,Levy County,2004,36729,3.0,0.008167932696234583,Treatment
+Florida,Liberty County,2004,7292,5.0,0.06856829402084476,Treatment
+Florida,Madison County,2004,18859,7.0,0.03711755660427382,Treatment
+Florida,Manatee County,2004,294894,46.0,0.015598825340630871,Treatment
+Florida,Marion County,2004,289817,18.0,0.006210815790654103,Treatment
+Florida,Martin County,2004,137009,16.0,0.011678064944638673,Treatment
+Florida,Miami-Dade County,2004,2381215,123.0,0.0051654302530430895,Treatment
+Florida,Monroe County,2004,77901,14.0,0.017971527964981193,Treatment
+Florida,Nassau County,2004,62909,13.0,0.02066476974677709,Treatment
+Florida,Okaloosa County,2004,182220,22.0,0.012073317967292285,Treatment
+Florida,Okeechobee County,2004,38672,5.0,0.0129292511377741,Treatment
+Florida,Orange County,2004,993478,97.0,0.009763678712563338,Treatment
+Florida,Osceola County,2004,220191,13.0,0.005903965193854426,Treatment
+Florida,Palm Beach County,2004,1240191,196.0,0.015804017284434414,Treatment
+Florida,Pasco County,2004,404697,83.0,0.020509171058841553,Treatment
+Florida,Pinellas County,2004,924605,182.0,0.019684081310397412,Treatment
+Florida,Polk County,2004,521029,62.0,0.01189952958472561,Treatment
+Florida,Putnam County,2004,72019,10.0,0.013885224732362294,Treatment
+Florida,St. Johns County,2004,151916,10.0,0.006582585112825509,Treatment
+Florida,St. Lucie County,2004,225240,27.0,0.011987213638785296,Treatment
+Florida,Santa Rosa County,2004,138284,18.0,0.013016690289549044,Treatment
+Florida,Sarasota County,2004,354095,59.0,0.016662195173611602,Treatment
+Florida,Seminole County,2004,392099,23.0,0.005865865508455773,Treatment
+Florida,Sumter County,2004,60069,1.0,0.0016647522016347866,Treatment
+Florida,Suwannee County,2004,37103,4.0,0.010780799396275234,Treatment
+Florida,Taylor County,2004,19573,3.0,0.015327236499259184,Treatment
+Florida,Union County,2004,14086,7.0,0.04969473235837001,Treatment
+Florida,Volusia County,2004,476695,74.0,0.015523552795812837,Treatment
+Florida,Wakulla County,2004,26691,0.0,0.0,Treatment
+Florida,Walton County,2004,47684,5.0,0.010485697508598272,Treatment
+Florida,Washington County,2004,21651,4.0,0.01847489723338414,Treatment
+Florida,Alachua County,2005,231849,3.0,0.0012939456284046945,Treatment
+Florida,Baker County,2005,24382,9.0,0.03691247641702895,Treatment
+Florida,Bay County,2005,161586,17.0,0.010520713428143527,Treatment
+Florida,Bradford County,2005,28191,8.0,0.02837785108722642,Treatment
+Florida,Brevard County,2005,526088,119.0,0.022619789845044935,Treatment
+Florida,Broward County,2005,1766620,277.0,0.015679659462702788,Treatment
+Florida,Calhoun County,2005,13352,1.0,0.007489514679448772,Treatment
+Florida,Charlotte County,2005,153407,11.0,0.007170468101194861,Treatment
+Florida,Citrus County,2005,132947,14.0,0.010530512158980647,Treatment
+Florida,Clay County,2005,168280,14.0,0.008319467554076539,Treatment
+Florida,Collier County,2005,306640,43.0,0.014022958518132012,Treatment
+Florida,Columbia County,2005,63916,10.0,0.015645534764378247,Treatment
+Florida,DeSoto County,2005,34258,1.0,0.0029190262128553916,Treatment
+Florida,Dixie County,2005,14600,7.0,0.04794520547945205,Treatment
+Florida,Duval County,2005,830828,102.0,0.012276909300119881,Treatment
+Florida,Escambia County,2005,302476,32.0,0.010579351750221505,Treatment
+Florida,Flagler County,2005,75420,6.0,0.007955449482895784,Treatment
+Florida,Franklin County,2005,10055,5.0,0.04972650422675286,Treatment
+Florida,Gadsden County,2005,45863,0.0,0.0,Treatment
+Florida,Gilchrist County,2005,16217,1.0,0.006166368625516433,Treatment
+Florida,Glades County,2005,11270,1.0,0.008873114463176575,Treatment
+Florida,Gulf County,2005,15658,0.0,0.0,Treatment
+Florida,Hamilton County,2005,13762,2.0,0.014532771399505887,Treatment
+Florida,Hardee County,2005,27846,0.0,0.0,Treatment
+Florida,Hendry County,2005,38521,9.0,0.023363879442382076,Treatment
+Florida,Hernando County,2005,156478,19.0,0.012142281982131674,Treatment
+Florida,Highlands County,2005,95174,1.0,0.0010507071258957278,Treatment
+Florida,Hillsborough County,2005,1132025,162.0,0.014310638015944878,Treatment
+Florida,Holmes County,2005,18882,0.0,0.0,Treatment
+Florida,Indian River County,2005,126778,15.0,0.01183170581646658,Treatment
+Florida,Jackson County,2005,48460,2.0,0.004127115146512587,Treatment
+Florida,Jefferson County,2005,13831,7.0,0.05061094642469814,Treatment
+Florida,Lafayette County,2005,7868,5.0,0.06354855109303507,Treatment
+Florida,Lake County,2005,275559,18.0,0.006532176412310975,Treatment
+Florida,Lee County,2005,541542,81.0,0.014957288631352693,Treatment
+Florida,Leon County,2005,253978,16.0,0.00629975824677728,Treatment
+Florida,Levy County,2005,37357,4.0,0.010707497925422277,Treatment
+Florida,Liberty County,2005,7577,9.0,0.11878051999472086,Treatment
+Florida,Madison County,2005,18801,9.0,0.04786979415988511,Treatment
+Florida,Manatee County,2005,305054,43.0,0.014095864994394434,Treatment
+Florida,Marion County,2005,301714,28.0,0.009280311818477101,Treatment
+Florida,Martin County,2005,138474,25.0,0.018053930701792394,Treatment
+Florida,Miami-Dade County,2005,2413583,124.0,0.005137590047659434,Treatment
+Florida,Monroe County,2005,76135,0.0,0.0,Treatment
+Florida,Nassau County,2005,64526,17.0,0.02634596906673279,Treatment
+Florida,Okaloosa County,2005,183398,21.0,0.01145050654859922,Treatment
+Florida,Okeechobee County,2005,39380,0.0,0.0,Treatment
+Florida,Orange County,2005,1029447,90.0,0.008742557897589676,Treatment
+Florida,Osceola County,2005,231926,16.0,0.00689875218819796,Treatment
+Florida,Palm Beach County,2005,1262956,229.0,0.018132064775019874,Treatment
+Florida,Pasco County,2005,425683,84.0,0.019732993800551116,Treatment
+Florida,Pinellas County,2005,924628,176.0,0.019034682055918704,Treatment
+Florida,Polk County,2005,538638,60.0,0.011139206665701269,Treatment
+Florida,Putnam County,2005,72750,6.0,0.008247422680412371,Treatment
+Florida,St. Johns County,2005,160508,5.0,0.003115109527250978,Treatment
+Florida,St. Lucie County,2005,237569,25.0,0.01052325850594985,Treatment
+Florida,Santa Rosa County,2005,142364,22.0,0.015453344946756202,Treatment
+Florida,Sarasota County,2005,363146,60.0,0.01652228029497778,Treatment
+Florida,Seminole County,2005,402834,41.0,0.010177889651816877,Treatment
+Florida,Sumter County,2005,63405,6.0,0.009462976105985333,Treatment
+Florida,Suwannee County,2005,38055,7.0,0.018394429115753515,Treatment
+Florida,Taylor County,2005,19861,6.0,0.030209959216555057,Treatment
+Florida,Union County,2005,14350,2.0,0.013937282229965157,Treatment
+Florida,Volusia County,2005,485940,85.0,0.017491871424455695,Treatment
+Florida,Wakulla County,2005,27799,8.0,0.028778013597611424,Treatment
+Florida,Walton County,2005,49581,10.0,0.020169016357072266,Treatment
+Florida,Washington County,2005,21822,2.0,0.009165062780680048,Treatment
+Florida,Alachua County,2006,237199,6.0,0.0025295216253019615,Treatment
+Florida,Baker County,2006,25021,6.0,0.023979856920187042,Treatment
+Florida,Bay County,2006,163802,21.0,0.012820356283806058,Treatment
+Florida,Bradford County,2006,28610,0.0,0.0,Treatment
+Florida,Brevard County,2006,530319,107.0,0.020176535255195457,Treatment
+Florida,Broward County,2006,1762334,258.0,0.014639676701465217,Treatment
+Florida,Calhoun County,2006,13394,5.0,0.0373301478273854,Treatment
+Florida,Charlotte County,2006,154885,3.0,0.0019369209413435775,Treatment
+Florida,Citrus County,2006,136796,23.0,0.016813357115705137,Treatment
+Florida,Clay County,2006,176720,15.0,0.008488003621548211,Treatment
+Florida,Collier County,2006,311650,43.0,0.013797529279640623,Treatment
+Florida,Columbia County,2006,66975,7.0,0.010451661067562523,Treatment
+Florida,DeSoto County,2006,34764,2.0,0.005753077896674721,Treatment
+Florida,Dixie County,2006,14859,0.0,0.0,Treatment
+Florida,Duval County,2006,842100,146.0,0.01733760836005225,Treatment
+Florida,Escambia County,2006,305287,45.0,0.014740228047705929,Treatment
+Florida,Flagler County,2006,82285,4.0,0.0048611533086224705,Treatment
+Florida,Franklin County,2006,11134,6.0,0.05388898868331238,Treatment
+Florida,Gadsden County,2006,46109,6.0,0.013012643952373722,Treatment
+Florida,Gilchrist County,2006,16558,4.0,0.024157506945283246,Treatment
+Florida,Glades County,2006,11093,5.0,0.04507346975570179,Treatment
+Florida,Gulf County,2006,15713,7.0,0.04454909947177496,Treatment
+Florida,Hamilton County,2006,14124,0.0,0.0,Treatment
+Florida,Hardee County,2006,28192,7.0,0.024829738933030646,Treatment
+Florida,Hendry County,2006,39106,1.0,0.002557152355137319,Treatment
+Florida,Hernando County,2006,163551,25.0,0.015285751844990248,Treatment
+Florida,Highlands County,2006,97265,8.0,0.008224952449493651,Treatment
+Florida,Hillsborough County,2006,1158212,185.0,0.015972896153726605,Treatment
+Florida,Holmes County,2006,19055,3.0,0.01574389923904487,Treatment
+Florida,Indian River County,2006,129980,23.0,0.017695030004616096,Treatment
+Florida,Jackson County,2006,48832,2.0,0.0040956749672346,Treatment
+Florida,Jefferson County,2006,13988,8.0,0.057191878753217046,Treatment
+Florida,Lafayette County,2006,8013,6.0,0.07487832272557095,Treatment
+Florida,Lake County,2006,291330,16.0,0.005492053684824769,Treatment
+Florida,Lee County,2006,565956,98.0,0.01731583373972535,Treatment
+Florida,Leon County,2006,258104,4.0,0.0015497628862783995,Treatment
+Florida,Levy County,2006,38240,6.0,0.015690376569037656,Treatment
+Florida,Liberty County,2006,7729,2.0,0.025876568766981498,Treatment
+Florida,Madison County,2006,18981,7.0,0.0368789842474053,Treatment
+Florida,Manatee County,2006,311553,54.0,0.01733252448219083,Treatment
+Florida,Marion County,2006,313964,55.0,0.017517931992202928,Treatment
+Florida,Martin County,2006,137740,17.0,0.01234209379991288,Treatment
+Florida,Miami-Dade County,2006,2438702,142.0,0.005822769653692825,Treatment
+Florida,Monroe County,2006,74104,15.0,0.020241822303789268,Treatment
+Florida,Nassau County,2006,66529,7.0,0.010521727367012882,Treatment
+Florida,Okaloosa County,2006,182462,27.0,0.014797601692407186,Treatment
+Florida,Okeechobee County,2006,39813,1.0,0.002511742395699897,Treatment
+Florida,Orange County,2006,1053941,108.0,0.010247252929718077,Treatment
+Florida,Osceola County,2006,246259,13.0,0.005278994879374967,Treatment
+Florida,Palm Beach County,2006,1265707,211.0,0.016670524852908295,Treatment
+Florida,Pasco County,2006,444325,101.0,0.022731108985539865,Treatment
+Florida,Pinellas County,2006,918551,213.0,0.023188696109415808,Treatment
+Florida,Polk County,2006,557477,67.0,0.012018433047462048,Treatment
+Florida,Putnam County,2006,73411,7.0,0.00953535573687867,Treatment
+Florida,St. Johns County,2006,168762,2.0,0.001185100911342601,Treatment
+Florida,St. Lucie County,2006,249741,28.0,0.011211615233381784,Treatment
+Florida,Santa Rosa County,2006,144279,28.0,0.019406843684805136,Treatment
+Florida,Sarasota County,2006,365613,76.0,0.0207870070265554,Treatment
+Florida,Seminole County,2006,408464,47.0,0.011506521994594383,Treatment
+Florida,Sumter County,2006,68577,0.0,0.0,Treatment
+Florida,Suwannee County,2006,38773,1.0,0.0025791143321383437,Treatment
+Florida,Taylor County,2006,20016,2.0,0.009992006394884092,Treatment
+Florida,Union County,2006,14274,9.0,0.06305170239596469,Treatment
+Florida,Volusia County,2006,494302,80.0,0.016184437853781698,Treatment
+Florida,Wakulla County,2006,29158,4.0,0.013718362027573908,Treatment
+Florida,Walton County,2006,51372,16.0,0.031145371019232267,Treatment
+Florida,Washington County,2006,22371,6.0,0.026820437173125922,Treatment
+Florida,Alachua County,2007,240196,17.0,0.0070775533314459856,Treatment
+Florida,Baker County,2007,25605,5.0,0.019527436047646944,Treatment
+Florida,Bay County,2007,163300,30.0,0.01837109614206981,Treatment
+Florida,Bradford County,2007,28997,2.0,0.006897265234334586,Treatment
+Florida,Brevard County,2007,534407,104.0,0.019460822930837358,Treatment
+Florida,Broward County,2007,1746968,262.0,0.014997412660105966,Treatment
+Florida,Calhoun County,2007,13515,7.0,0.05179430262671106,Treatment
+Florida,Charlotte County,2007,157235,8.0,0.005087925716284542,Treatment
+Florida,Citrus County,2007,139838,17.0,0.012156924441139033,Treatment
+Florida,Clay County,2007,182392,26.0,0.014255011184701084,Treatment
+Florida,Collier County,2007,313463,38.0,0.012122642863751065,Treatment
+Florida,Columbia County,2007,67927,3.0,0.004416505954922196,Treatment
+Florida,DeSoto County,2007,35096,5.0,0.014246637793480739,Treatment
+Florida,Dixie County,2007,14871,0.0,0.0,Treatment
+Florida,Duval County,2007,848841,140.0,0.01649307703091627,Treatment
+Florida,Escambia County,2007,302580,31.0,0.010245224403463546,Treatment
+Florida,Flagler County,2007,88088,9.0,0.010217055671601126,Treatment
+Florida,Franklin County,2007,11272,9.0,0.07984386089425125,Treatment
+Florida,Gadsden County,2007,46728,7.0,0.014980311590481082,Treatment
+Florida,Gilchrist County,2007,16918,0.0,0.0,Treatment
+Florida,Glades County,2007,10967,1.0,0.009118263882556762,Treatment
+Florida,Gulf County,2007,15763,2.0,0.012687940112922668,Treatment
+Florida,Hamilton County,2007,14251,5.0,0.03508525717493509,Treatment
+Florida,Hardee County,2007,28832,8.0,0.02774694783573807,Treatment
+Florida,Hendry County,2007,39399,4.0,0.0101525419426889,Treatment
+Florida,Hernando County,2007,168982,36.0,0.02130404421772733,Treatment
+Florida,Highlands County,2007,98512,5.0,0.005075523794055546,Treatment
+Florida,Hillsborough County,2007,1169910,257.0,0.021967501773640707,Treatment
+Florida,Holmes County,2007,19119,5.0,0.02615199539724881,Treatment
+Florida,Indian River County,2007,132837,22.0,0.016561650744897884,Treatment
+Florida,Jackson County,2007,48955,7.0,0.014298845878868349,Treatment
+Florida,Jefferson County,2007,13854,6.0,0.043308791684711995,Treatment
+Florida,Lafayette County,2007,8023,6.0,0.07478499314470896,Treatment
+Florida,Lake County,2007,302170,20.0,0.006618790746930536,Treatment
+Florida,Lee County,2007,585264,98.0,0.01674458022362558,Treatment
+Florida,Leon County,2007,262720,13.0,0.004948233861144945,Treatment
+Florida,Levy County,2007,38830,4.0,0.010301313417460727,Treatment
+Florida,Liberty County,2007,7798,9.0,0.11541420877147987,Treatment
+Florida,Madison County,2007,18977,3.0,0.015808610423143805,Treatment
+Florida,Manatee County,2007,314027,46.0,0.014648421950978737,Treatment
+Florida,Marion County,2007,323032,30.0,0.00928700562173407,Treatment
+Florida,Martin County,2007,138865,27.0,0.019443344255211898,Treatment
+Florida,Miami-Dade County,2007,2453567,149.0,0.006072791164863238,Treatment
+Florida,Monroe County,2007,73420,17.0,0.023154453827295016,Treatment
+Florida,Nassau County,2007,68441,10.0,0.01461112491050686,Treatment
+Florida,Okaloosa County,2007,180911,29.0,0.016029981593159066,Treatment
+Florida,Okeechobee County,2007,40023,9.0,0.022487069934787496,Treatment
+Florida,Orange County,2007,1066117,110.0,0.010317816900021292,Treatment
+Florida,Osceola County,2007,258283,26.0,0.01006647746851322,Treatment
+Florida,Palm Beach County,2007,1264648,262.0,0.020717227244260852,Treatment
+Florida,Pasco County,2007,459566,125.0,0.027199575251432875,Treatment
+Florida,Pinellas County,2007,912764,235.0,0.02574597595873632,Treatment
+Florida,Polk County,2007,573483,82.0,0.0142985929835758,Treatment
+Florida,Putnam County,2007,73740,8.0,0.010848928668294006,Treatment
+Florida,St. Johns County,2007,175818,13.0,0.007394009714591225,Treatment
+Florida,St. Lucie County,2007,260461,46.0,0.017660993392484864,Treatment
+Florida,Santa Rosa County,2007,147753,20.0,0.013536104173857722,Treatment
+Florida,Sarasota County,2007,368841,76.0,0.0206050845757386,Treatment
+Florida,Seminole County,2007,408308,49.0,0.012000744535987538,Treatment
+Florida,Sumter County,2007,72711,9.0,0.012377769525931427,Treatment
+Florida,Suwannee County,2007,39473,9.0,0.022800395206850253,Treatment
+Florida,Taylor County,2007,20947,6.0,0.028643719864419725,Treatment
+Florida,Union County,2007,14727,5.0,0.033951246010728596,Treatment
+Florida,Volusia County,2007,498769,71.0,0.014235046684938317,Treatment
+Florida,Wakulla County,2007,30246,8.0,0.026449778483105205,Treatment
+Florida,Walton County,2007,52664,12.0,0.0227859638462707,Treatment
+Florida,Washington County,2007,22883,4.0,0.017480225494908883,Treatment
+Florida,Alachua County,2008,242133,0.0,0.0,Treatment
+Florida,Baker County,2008,26048,5.0,0.019195331695331695,Treatment
+Florida,Bay County,2008,163802,23.0,0.014041342596549492,Treatment
+Florida,Bradford County,2008,29171,6.0,0.020568372698913304,Treatment
+Florida,Brevard County,2008,536314,121.0,0.02256140992030788,Treatment
+Florida,Broward County,2008,1753262,313.0,0.01785243734250785,Treatment
+Florida,Calhoun County,2008,13543,7.0,0.05168721848925644,Treatment
+Florida,Charlotte County,2008,157736,2.0,0.001267941370391033,Treatment
+Florida,Citrus County,2008,140865,25.0,0.017747488730344655,Treatment
+Florida,Clay County,2008,185102,19.0,0.01026461086319975,Treatment
+Florida,Collier County,2008,315533,63.0,0.019966215895009395,Treatment
+Florida,Columbia County,2008,68901,10.0,0.014513577451706072,Treatment
+Florida,DeSoto County,2008,35036,0.0,0.0,Treatment
+Florida,Dixie County,2008,14846,4.0,0.026943284386366697,Treatment
+Florida,Duval County,2008,853116,108.0,0.012659474209837818,Treatment
+Florida,Escambia County,2008,302776,28.0,0.009247760720796893,Treatment
+Florida,Flagler County,2008,90700,5.0,0.005512679162072767,Treatment
+Florida,Franklin County,2008,11247,6.0,0.05334755934915977,Treatment
+Florida,Gadsden County,2008,47450,3.0,0.006322444678609062,Treatment
+Florida,Gilchrist County,2008,17046,3.0,0.017599436818021823,Treatment
+Florida,Glades County,2008,11072,6.0,0.054190751445086706,Treatment
+Florida,Gulf County,2008,15683,6.0,0.03825798635465153,Treatment
+Florida,Hamilton County,2008,14412,1.0,0.006938662225922842,Treatment
+Florida,Hardee County,2008,29135,1.0,0.003432297923459756,Treatment
+Florida,Hendry County,2008,39602,9.0,0.022726124943184687,Treatment
+Florida,Hernando County,2008,171447,45.0,0.026247178428318956,Treatment
+Florida,Highlands County,2008,99034,1.0,0.001009754225821435,Treatment
+Florida,Hillsborough County,2008,1180118,244.0,0.020675898511843732,Treatment
+Florida,Holmes County,2008,19170,2.0,0.010432968179447054,Treatment
+Florida,Indian River County,2008,134293,29.0,0.021594573060397786,Treatment
+Florida,Jackson County,2008,50915,2.0,0.003928115486595306,Treatment
+Florida,Jefferson County,2008,13982,8.0,0.05721642111285939,Treatment
+Florida,Lafayette County,2008,8054,8.0,0.09932952570151478,Treatment
+Florida,Lake County,2008,307964,24.0,0.007793118676208907,Treatment
+Florida,Lee County,2008,588709,95.0,0.016137004869978207,Treatment
+Florida,Leon County,2008,264597,14.0,0.005291065280407563,Treatment
+Florida,Levy County,2008,39199,6.0,0.01530651292124799,Treatment
+Florida,Liberty County,2008,7966,0.0,0.0,Treatment
+Florida,Madison County,2008,18961,2.0,0.010547966879383999,Treatment
+Florida,Manatee County,2008,316059,45.0,0.014237847996734786,Treatment
+Florida,Marion County,2008,327172,38.0,0.01161468585331263,Treatment
+Florida,Martin County,2008,139080,22.0,0.015818234109864826,Treatment
+Florida,Miami-Dade County,2008,2478745,149.0,0.006011106426841002,Treatment
+Florida,Monroe County,2008,73298,18.0,0.0245572866926792,Treatment
+Florida,Nassau County,2008,69815,17.0,0.02435006803695481,Treatment
+Florida,Okaloosa County,2008,179529,16.0,0.008912209169549209,Treatment
+Florida,Okeechobee County,2008,40222,11.0,0.02734821739346626,Treatment
+Florida,Orange County,2008,1075737,120.0,0.011155142939212838,Treatment
+Florida,Osceola County,2008,266609,18.0,0.006751460003225697,Treatment
+Florida,Palm Beach County,2008,1269745,271.0,0.02134286805618451,Treatment
+Florida,Pasco County,2008,468384,147.0,0.031384505021520806,Treatment
+Florida,Pinellas County,2008,910058,264.0,0.029009140076786316,Treatment
+Florida,Polk County,2008,580282,95.0,0.016371350481317704,Treatment
+Florida,Putnam County,2008,73455,1.0,0.0013613777142468177,Treatment
+Florida,St. Johns County,2008,182447,3.0,0.001644313142994952,Treatment
+Florida,St. Lucie County,2008,265646,34.0,0.012798988127056307,Treatment
+Florida,Santa Rosa County,2008,150356,21.0,0.013966852004575807,Treatment
+Florida,Sarasota County,2008,369867,71.0,0.019196089405110486,Treatment
+Florida,Seminole County,2008,410658,41.0,0.009983976934578165,Treatment
+Florida,Sumter County,2008,75219,4.0,0.0053178053417354655,Treatment
+Florida,Suwannee County,2008,39830,1.0,0.0025106703489831783,Treatment
+Florida,Taylor County,2008,21390,4.0,0.018700327255726974,Treatment
+Florida,Union County,2008,14935,2.0,0.013391362571141614,Treatment
+Florida,Volusia County,2008,497344,101.0,0.020307875434307038,Treatment
+Florida,Wakulla County,2008,31142,9.0,0.028899877978292982,Treatment
+Florida,Walton County,2008,53920,7.0,0.01298219584569733,Treatment
+Florida,Washington County,2008,23994,9.0,0.037509377344336084,Treatment
+Florida,Alachua County,2009,243574,15.0,0.006158292757026612,Treatment
+Florida,Baker County,2009,26336,6.0,0.022782503037667073,Treatment
+Florida,Bay County,2009,164767,18.0,0.010924517652199773,Treatment
+Florida,Bradford County,2009,29235,9.0,0.03078501795792714,Treatment
+Florida,Brevard County,2009,536357,135.0,0.025169802948409363,Treatment
+Florida,Broward County,2009,1766476,305.0,0.017266014369852745,Treatment
+Florida,Calhoun County,2009,13821,6.0,0.04341219882787063,Treatment
+Florida,Charlotte County,2009,156952,7.0,0.004459962281461848,Treatment
+Florida,Citrus County,2009,140357,19.0,0.013536909452325142,Treatment
+Florida,Clay County,2009,186756,29.0,0.015528282893186833,Treatment
+Florida,Collier County,2009,318537,54.0,0.016952504732574238,Treatment
+Florida,Columbia County,2009,69264,6.0,0.008662508662508662,Treatment
+Florida,DeSoto County,2009,35297,6.0,0.016998611780037965,Treatment
+Florida,Dixie County,2009,14824,5.0,0.03372908796546142,Treatment
+Florida,Duval County,2009,857040,137.0,0.015985251563520955,Treatment
+Florida,Escambia County,2009,303343,16.0,0.0052745571844413745,Treatment
+Florida,Flagler County,2009,91622,5.0,0.00545720460151492,Treatment
+Florida,Franklin County,2009,11280,7.0,0.06205673758865248,Treatment
+Florida,Gadsden County,2009,47474,1.0,0.0021064161435733245,Treatment
+Florida,Gilchrist County,2009,17116,2.0,0.011684973124561814,Treatment
+Florida,Glades County,2009,10950,4.0,0.0365296803652968,Treatment
+Florida,Gulf County,2009,15755,4.0,0.025388765471278957,Treatment
+Florida,Hamilton County,2009,14592,5.0,0.034265350877192985,Treatment
+Florida,Hardee County,2009,29415,6.0,0.02039775624681285,Treatment
+Florida,Hendry County,2009,39594,7.0,0.01767944638076476,Treatment
+Florida,Hernando County,2009,171233,43.0,0.025111981919373017,Treatment
+Florida,Highlands County,2009,98704,9.0,0.009118171502674664,Treatment
+Florida,Hillsborough County,2009,1195317,270.0,0.022588150256375505,Treatment
+Florida,Holmes County,2009,19099,0.0,0.0,Treatment
+Florida,Indian River County,2009,135167,31.0,0.02293459202320093,Treatment
+Florida,Jackson County,2009,50930,6.0,0.011780875711761242,Treatment
+Florida,Jefferson County,2009,14010,8.0,0.05710206995003569,Treatment
+Florida,Lafayette County,2009,7949,3.0,0.03774059630142156,Treatment
+Florida,Lake County,2009,312119,32.0,0.010252499847814456,Treatment
+Florida,Lee County,2009,586908,93.0,0.015845754360138214,Treatment
+Florida,Leon County,2009,265714,6.0,0.0022580669441580044,Treatment
+Florida,Levy County,2009,39147,4.0,0.010217896645975427,Treatment
+Florida,Liberty County,2009,7983,3.0,0.03757985719654265,Treatment
+Florida,Madison County,2009,18901,9.0,0.047616528226019784,Treatment
+Florida,Manatee County,2009,318361,74.0,0.023244053134649032,Treatment
+Florida,Marion County,2009,328547,53.0,0.016131634134537828,Treatment
+Florida,Martin County,2009,139794,24.0,0.01716811880338212,Treatment
+Florida,Miami-Dade County,2009,2500625,155.0,0.006198450387403149,Treatment
+Florida,Monroe County,2009,73165,1.0,0.0013667737306088978,Treatment
+Florida,Nassau County,2009,70576,10.0,0.014169122647925641,Treatment
+Florida,Okaloosa County,2009,178473,16.0,0.00896494147574143,Treatment
+Florida,Okeechobee County,2009,40241,5.0,0.012425138540294724,Treatment
+Florida,Orange County,2009,1086480,120.0,0.01104484205875856,Treatment
+Florida,Osceola County,2009,270618,15.0,0.005542868545329579,Treatment
+Florida,Palm Beach County,2009,1279950,276.0,0.0215633423180593,Treatment
+Florida,Pasco County,2009,471709,166.0,0.03519118778738587,Treatment
+Florida,Pinellas County,2009,909013,265.0,0.029152498369110234,Treatment
+Florida,Polk County,2009,583403,103.0,0.017655034341612915,Treatment
+Florida,Putnam County,2009,72893,8.0,0.010974990739851562,Treatment
+Florida,St. Johns County,2009,187436,11.0,0.00586866983930515,Treatment
+Florida,St. Lucie County,2009,266502,46.0,0.01726065845659695,Treatment
+Florida,Santa Rosa County,2009,151759,11.0,0.007248334530406763,Treatment
+Florida,Sarasota County,2009,369765,75.0,0.020283152813273295,Treatment
+Florida,Seminole County,2009,413204,72.0,0.017424807117065663,Treatment
+Florida,Sumter County,2009,77681,5.0,0.006436580373579125,Treatment
+Florida,Suwannee County,2009,40149,7.0,0.017435054422277017,Treatment
+Florida,Taylor County,2009,21400,8.0,0.037383177570093455,Treatment
+Florida,Union County,2009,14584,2.0,0.013713658804168952,Treatment
+Florida,Volusia County,2009,495890,106.0,0.021375708322410213,Treatment
+Florida,Wakulla County,2009,32815,1.0,0.0030473868657626088,Treatment
+Florida,Walton County,2009,55105,7.0,0.01270302150440069,Treatment
+Florida,Washington County,2009,23916,9.0,0.03763171098845961,Treatment
+Florida,Alachua County,2010,247624,15.0,0.006057571156269182,Treatment
+Florida,Baker County,2010,27067,2.0,0.007389071563158089,Treatment
+Florida,Bay County,2010,169209,22.0,0.013001672487870031,Treatment
+Florida,Bradford County,2010,28536,0.0,0.0,Treatment
+Florida,Brevard County,2010,544000,135.0,0.024816176470588234,Treatment
+Florida,Broward County,2010,1752843,262.0,0.014947145865317087,Treatment
+Florida,Calhoun County,2010,14657,0.0,0.0,Treatment
+Florida,Charlotte County,2010,159897,7.0,0.004377818220479434,Treatment
+Florida,Citrus County,2010,141177,27.0,0.019124928281518943,Treatment
+Florida,Clay County,2010,191453,20.0,0.010446428105070174,Treatment
+Florida,Collier County,2010,322576,36.0,0.011160160706314171,Treatment
+Florida,Columbia County,2010,67558,17.0,0.025163563160543533,Treatment
+Florida,DeSoto County,2010,34935,9.0,0.025762129669386003,Treatment
+Florida,Dixie County,2010,16399,5.0,0.030489664003902676,Treatment
+Florida,Duval County,2010,865653,146.0,0.016865880439390843,Treatment
+Florida,Escambia County,2010,298069,25.0,0.008387319714562736,Treatment
+Florida,Flagler County,2010,96065,4.0,0.004163847394992973,Treatment
+Florida,Franklin County,2010,11523,6.0,0.05206977349648529,Treatment
+Florida,Gadsden County,2010,47792,5.0,0.010462002008704386,Treatment
+Florida,Gilchrist County,2010,17006,8.0,0.04704222039280254,Treatment
+Florida,Glades County,2010,12877,2.0,0.015531567911780694,Treatment
+Florida,Gulf County,2010,15826,9.0,0.05686844433211172,Treatment
+Florida,Hamilton County,2010,14686,3.0,0.020427618139724907,Treatment
+Florida,Hardee County,2010,27731,6.0,0.021636435757816163,Treatment
+Florida,Hendry County,2010,39005,7.0,0.017946417126009487,Treatment
+Florida,Hernando County,2010,172978,50.0,0.02890540993652372,Treatment
+Florida,Highlands County,2010,98637,5.0,0.005069091720145584,Treatment
+Florida,Hillsborough County,2010,1233511,259.0,0.02099697530058508,Treatment
+Florida,Holmes County,2010,19844,4.0,0.020157226365652085,Treatment
+Florida,Indian River County,2010,138277,18.0,0.013017349233784361,Treatment
+Florida,Jackson County,2010,49651,2.0,0.004028116251435016,Treatment
+Florida,Jefferson County,2010,14754,6.0,0.040666937779585195,Treatment
+Florida,Lafayette County,2010,8809,0.0,0.0,Treatment
+Florida,Lake County,2010,297724,34.0,0.011419972860770377,Treatment
+Florida,Lee County,2010,620481,106.0,0.017083520687982388,Treatment
+Florida,Leon County,2010,275981,1.0,0.000362343784535892,Treatment
+Florida,Levy County,2010,40727,1.0,0.0024553735850909716,Treatment
+Florida,Liberty County,2010,8352,2.0,0.023946360153256706,Treatment
+Florida,Madison County,2010,19251,7.0,0.03636174744169134,Treatment
+Florida,Manatee County,2010,323442,76.0,0.023497257622695878,Treatment
+Florida,Marion County,2010,331341,51.0,0.015391997971877914,Treatment
+Florida,Martin County,2010,146912,20.0,0.013613591810063167,Treatment
+Florida,Miami-Dade County,2010,2506986,98.0,0.003909076476693528,Treatment
+Florida,Monroe County,2010,73226,16.0,0.021850162510583672,Treatment
+Florida,Nassau County,2010,73526,14.0,0.01904088349699426,Treatment
+Florida,Okaloosa County,2010,180725,13.0,0.007193249412090192,Treatment
+Florida,Okeechobee County,2010,40014,8.0,0.0199930024491428,Treatment
+Florida,Orange County,2010,1148590,149.0,0.012972427062746497,Treatment
+Florida,Osceola County,2010,269841,22.0,0.008152949329419918,Treatment
+Florida,Palm Beach County,2010,1323631,230.0,0.017376444039161974,Treatment
+Florida,Pasco County,2010,465516,173.0,0.0371630620644618,Treatment
+Florida,Pinellas County,2010,916428,284.0,0.03098988682144151,Treatment
+Florida,Polk County,2010,603119,86.0,0.01425920921078593,Treatment
+Florida,Putnam County,2010,74223,21.0,0.028293116688896974,Treatment
+Florida,St. Johns County,2010,191268,15.0,0.007842399146746972,Treatment
+Florida,St. Lucie County,2010,278290,43.0,0.015451507420316936,Treatment
+Florida,Santa Rosa County,2010,152924,17.0,0.011116633098794172,Treatment
+Florida,Sarasota County,2010,379942,83.0,0.02184543956709182,Treatment
+Florida,Seminole County,2010,423072,61.0,0.014418349595340746,Treatment
+Florida,Sumter County,2010,94286,0.0,0.0,Treatment
+Florida,Suwannee County,2010,42329,8.0,0.018899572397174515,Treatment
+Florida,Taylor County,2010,22594,5.0,0.022129768965212,Treatment
+Florida,Union County,2010,15551,1.0,0.006430454633142563,Treatment
+Florida,Volusia County,2010,494462,104.0,0.021032961076887607,Treatment
+Florida,Wakulla County,2010,30824,8.0,0.025953802232026993,Treatment
+Florida,Walton County,2010,55214,4.0,0.007244539428405839,Treatment
+Florida,Washington County,2010,24726,2.0,0.00808865162177465,Treatment
+Florida,Alachua County,2011,249879,14.0,0.005602711712468835,Treatment
+Florida,Baker County,2011,27055,2.0,0.0073923489188689705,Treatment
+Florida,Bay County,2011,169587,1.0,0.0005896678401056685,Treatment
+Florida,Bradford County,2011,28430,4.0,0.014069644741470278,Treatment
+Florida,Brevard County,2011,544442,123.0,0.022591938167885652,Treatment
+Florida,Broward County,2011,1787096,233.0,0.013037911785376947,Treatment
+Florida,Calhoun County,2011,14725,6.0,0.04074702886247878,Treatment
+Florida,Charlotte County,2011,159926,10.0,0.006252891962532672,Treatment
+Florida,Citrus County,2011,139782,29.0,0.020746591120459002,Treatment
+Florida,Clay County,2011,192335,23.0,0.0119583019211272,Treatment
+Florida,Collier County,2011,327670,41.0,0.012512588885158849,Treatment
+Florida,Columbia County,2011,67326,4.0,0.0059412411252710694,Treatment
+Florida,DeSoto County,2011,34847,7.0,0.020087812437225586,Treatment
+Florida,Dixie County,2011,16403,5.0,0.030482228860574286,Treatment
+Florida,Duval County,2011,872483,147.0,0.016848465815379784,Treatment
+Florida,Escambia County,2011,299478,29.0,0.009683515984479661,Treatment
+Florida,Flagler County,2011,97473,16.0,0.016414802047746556,Treatment
+Florida,Franklin County,2011,11471,1.0,0.00871763577717723,Treatment
+Florida,Gadsden County,2011,47372,2.0,0.004221903233977877,Treatment
+Florida,Gilchrist County,2011,17002,2.0,0.011763321962122103,Treatment
+Florida,Glades County,2011,12842,3.0,0.02336084722005918,Treatment
+Florida,Gulf County,2011,15767,0.0,0.0,Treatment
+Florida,Hamilton County,2011,14596,4.0,0.02740476842970677,Treatment
+Florida,Hardee County,2011,27681,5.0,0.018062931252483653,Treatment
+Florida,Hendry County,2011,38968,7.0,0.017963457195647712,Treatment
+Florida,Hernando County,2011,172877,33.0,0.01908871625490956,Treatment
+Florida,Highlands County,2011,98493,17.0,0.017260109855522728,Treatment
+Florida,Hillsborough County,2011,1255639,242.0,0.019273055392513293,Treatment
+Florida,Holmes County,2011,19841,7.0,0.03528047981452548,Treatment
+Florida,Indian River County,2011,139122,25.0,0.01796983942151493,Treatment
+Florida,Jackson County,2011,49204,1.0,0.0020323550930818634,Treatment
+Florida,Jefferson County,2011,14527,6.0,0.04130240242307428,Treatment
+Florida,Lafayette County,2011,8801,8.0,0.09089876150437451,Treatment
+Florida,Lake County,2011,300547,38.0,0.01264361314536495,Treatment
+Florida,Lee County,2011,631198,96.0,0.015209173666583227,Treatment
+Florida,Leon County,2011,278420,13.0,0.004669204798505854,Treatment
+Florida,Levy County,2011,40165,8.0,0.01991783891447778,Treatment
+Florida,Liberty County,2011,8266,5.0,0.06048874909266876,Treatment
+Florida,Madison County,2011,19134,0.0,0.0,Treatment
+Florida,Manatee County,2011,327619,73.0,0.022281979982845927,Treatment
+Florida,Marion County,2011,332325,46.0,0.013841871661776875,Treatment
+Florida,Martin County,2011,147904,22.0,0.014874513197749892,Treatment
+Florida,Miami-Dade County,2011,2544511,122.0,0.004794634411091169,Treatment
+Florida,Monroe County,2011,73988,20.0,0.027031410498999837,Treatment
+Florida,Nassau County,2011,74166,13.0,0.017528247444920854,Treatment
+Florida,Okaloosa County,2011,183205,16.0,0.008733386097541006,Treatment
+Florida,Okeechobee County,2011,39854,10.0,0.025091584282631606,Treatment
+Florida,Orange County,2011,1170699,148.0,0.012642019853096313,Treatment
+Florida,Osceola County,2011,278669,35.0,0.012559703447459172,Treatment
+Florida,Palm Beach County,2011,1336875,203.0,0.015184665731650305,Treatment
+Florida,Pasco County,2011,466529,147.0,0.03150929524209642,Treatment
+Florida,Pinellas County,2011,918574,244.0,0.02656291164348218,Treatment
+Florida,Polk County,2011,610026,112.0,0.018359873185733067,Treatment
+Florida,Putnam County,2011,73657,17.0,0.02307995166786592,Treatment
+Florida,St. Johns County,2011,196165,19.0,0.009685723752963067,Treatment
+Florida,St. Lucie County,2011,280481,40.0,0.014261215554707805,Treatment
+Florida,Santa Rosa County,2011,155796,18.0,0.011553570053146422,Treatment
+Florida,Sarasota County,2011,382298,84.0,0.021972388032372652,Treatment
+Florida,Seminole County,2011,426382,60.0,0.014071888588167419,Treatment
+Florida,Sumter County,2011,98011,0.0,0.0,Treatment
+Florida,Suwannee County,2011,43365,9.0,0.020754064337599448,Treatment
+Florida,Taylor County,2011,22666,1.0,0.004411894467484338,Treatment
+Florida,Union County,2011,15308,0.0,0.0,Treatment
+Florida,Volusia County,2011,494558,89.0,0.01799586701660877,Treatment
+Florida,Wakulla County,2011,30977,0.0,0.0,Treatment
+Florida,Walton County,2011,55613,6.0,0.010788844334957654,Treatment
+Florida,Washington County,2011,24516,4.0,0.01631587534671235,Treatment
+Florida,Alachua County,2012,251596,14.0,0.005564476382772381,Treatment
+Florida,Baker County,2012,27059,8.0,0.02956502457592668,Treatment
+Florida,Bay County,2012,171818,15.0,0.008730167968431712,Treatment
+Florida,Bradford County,2012,27052,4.0,0.01478633742422002,Treatment
+Florida,Brevard County,2012,547119,113.0,0.020653642077866057,Treatment
+Florida,Broward County,2012,1814468,228.0,0.012565666630659786,Treatment
+Florida,Calhoun County,2012,14673,1.0,0.006815238874122538,Treatment
+Florida,Charlotte County,2012,162840,7.0,0.004298698108572832,Treatment
+Florida,Citrus County,2012,139215,37.0,0.026577595805049745,Treatment
+Florida,Clay County,2012,193909,28.0,0.014439762981604773,Treatment
+Florida,Collier County,2012,332330,31.0,0.009328077513315079,Treatment
+Florida,Columbia County,2012,67903,16.0,0.023563023725019512,Treatment
+Florida,DeSoto County,2012,35003,9.0,0.025712081821558153,Treatment
+Florida,Dixie County,2012,16152,7.0,0.0433382862803368,Treatment
+Florida,Duval County,2012,880349,165.0,0.018742566868366978,Treatment
+Florida,Escambia County,2012,303556,25.0,0.008235712685632965,Treatment
+Florida,Flagler County,2012,98461,7.0,0.007109413879607154,Treatment
+Florida,Franklin County,2012,11609,7.0,0.06029804462055302,Treatment
+Florida,Gadsden County,2012,46571,7.0,0.015030813166992334,Treatment
+Florida,Gilchrist County,2012,16908,1.0,0.005914360066240833,Treatment
+Florida,Glades County,2012,12676,8.0,0.06311139160618491,Treatment
+Florida,Gulf County,2012,15769,1.0,0.006341556217895871,Treatment
+Florida,Hamilton County,2012,14726,9.0,0.06111639277468423,Treatment
+Florida,Hardee County,2012,27433,2.0,0.007290489556373711,Treatment
+Florida,Hendry County,2012,37864,5.0,0.01320515529262624,Treatment
+Florida,Hernando County,2012,172777,25.0,0.014469518512301984,Treatment
+Florida,Highlands County,2012,98244,11.0,0.011196612515777044,Treatment
+Florida,Hillsborough County,2012,1279861,185.0,0.014454694689501437,Treatment
+Florida,Holmes County,2012,19704,0.0,0.0,Treatment
+Florida,Indian River County,2012,140515,17.0,0.012098352489058108,Treatment
+Florida,Jackson County,2012,49111,1.0,0.00203620370181833,Treatment
+Florida,Jefferson County,2012,14218,8.0,0.05626670417780279,Treatment
+Florida,Lafayette County,2012,8791,2.0,0.022750540325332726,Treatment
+Florida,Lake County,2012,303806,26.0,0.008558092993555097,Treatment
+Florida,Lee County,2012,644451,67.0,0.010396445967187576,Treatment
+Florida,Leon County,2012,283707,6.0,0.0021148579344182554,Treatment
+Florida,Levy County,2012,39835,13.0,0.032634617798418475,Treatment
+Florida,Liberty County,2012,8304,1.0,0.012042389210019268,Treatment
+Florida,Madison County,2012,18973,5.0,0.026353238813050125,Treatment
+Florida,Manatee County,2012,333965,40.0,0.011977303010794544,Treatment
+Florida,Marion County,2012,333945,44.0,0.013175822365958467,Treatment
+Florida,Martin County,2012,149032,17.0,0.01140694615921413,Treatment
+Florida,Miami-Dade County,2012,2576473,135.0,0.005239721122635479,Treatment
+Florida,Monroe County,2012,74596,6.0,0.008043326719931364,Treatment
+Florida,Nassau County,2012,74546,16.0,0.021463257585920104,Treatment
+Florida,Okaloosa County,2012,189957,14.0,0.0073700890201466645,Treatment
+Florida,Okeechobee County,2012,39693,10.0,0.025193359030559543,Treatment
+Florida,Orange County,2012,1202716,131.0,0.01089201440739127,Treatment
+Florida,Osceola County,2012,288932,29.0,0.01003696371464566,Treatment
+Florida,Palm Beach County,2012,1355149,185.0,0.013651635355226621,Treatment
+Florida,Pasco County,2012,469755,109.0,0.023203584847420463,Treatment
+Florida,Pinellas County,2012,921863,221.0,0.023973193413771895,Treatment
+Florida,Polk County,2012,615581,84.0,0.013645645333432968,Treatment
+Florida,Putnam County,2012,72936,9.0,0.012339585389930898,Treatment
+Florida,St. Johns County,2012,202164,13.0,0.0064304228250331415,Treatment
+Florida,St. Lucie County,2012,283042,29.0,0.010245829240890044,Treatment
+Florida,Santa Rosa County,2012,158285,10.0,0.006317718040243864,Treatment
+Florida,Sarasota County,2012,386585,71.0,0.01836594798039241,Treatment
+Florida,Seminole County,2012,430626,40.0,0.009288802812649492,Treatment
+Florida,Sumter County,2012,101727,8.0,0.007864185516136326,Treatment
+Florida,Suwannee County,2012,43533,5.0,0.011485539705510762,Treatment
+Florida,Taylor County,2012,22760,8.0,0.0351493848857645,Treatment
+Florida,Union County,2012,15266,7.0,0.045853530721865585,Treatment
+Florida,Volusia County,2012,496711,85.0,0.017112566462188273,Treatment
+Florida,Wakulla County,2012,30860,8.0,0.02592352559948153,Treatment
+Florida,Walton County,2012,57215,3.0,0.005243380232456523,Treatment
+Florida,Washington County,2012,24747,5.0,0.020204469228593366,Treatment
+Florida,Alachua County,2013,252585,12.0,0.004750875942751945,Treatment
+Florida,Baker County,2013,27008,8.0,0.02962085308056872,Treatment
+Florida,Bay County,2013,174704,19.0,0.01087553805293525,Treatment
+Florida,Bradford County,2013,26804,1.0,0.0037307864497836143,Treatment
+Florida,Brevard County,2013,550478,106.0,0.019255992065077988,Treatment
+Florida,Broward County,2013,1836869,199.0,0.010833652263716138,Treatment
+Florida,Calhoun County,2013,14582,8.0,0.0548621588259498,Treatment
+Florida,Charlotte County,2013,164801,5.0,0.0030339621725596327,Treatment
+Florida,Citrus County,2013,138888,24.0,0.017280110592707794,Treatment
+Florida,Clay County,2013,195732,31.0,0.01583798254756504,Treatment
+Florida,Collier County,2013,339133,29.0,0.008551217368996824,Treatment
+Florida,Columbia County,2013,67444,11.0,0.016309827412371747,Treatment
+Florida,DeSoto County,2013,34903,8.0,0.022920665845342806,Treatment
+Florida,Dixie County,2013,16084,2.0,0.012434717731907486,Treatment
+Florida,Duval County,2013,886277,142.0,0.016022078876017316,Treatment
+Florida,Escambia County,2013,306879,17.0,0.0055396426604622665,Treatment
+Florida,Flagler County,2013,99845,0.0,0.0,Treatment
+Florida,Franklin County,2013,11520,8.0,0.06944444444444445,Treatment
+Florida,Gadsden County,2013,46084,0.0,0.0,Treatment
+Florida,Gilchrist County,2013,16972,9.0,0.05302851755833137,Treatment
+Florida,Glades County,2013,12680,0.0,0.0,Treatment
+Florida,Gulf County,2013,15887,4.0,0.02517781834204066,Treatment
+Florida,Hamilton County,2013,14344,9.0,0.06274400446179587,Treatment
+Florida,Hardee County,2013,27307,4.0,0.014648258688248435,Treatment
+Florida,Hendry County,2013,37802,3.0,0.007936088037669965,Treatment
+Florida,Hernando County,2013,173721,38.0,0.021874154535145435,Treatment
+Florida,Highlands County,2013,98118,17.0,0.017326076764711876,Treatment
+Florida,Hillsborough County,2013,1304474,163.0,0.012495457939368666,Treatment
+Florida,Holmes County,2013,19604,7.0,0.03570699857172006,Treatment
+Florida,Indian River County,2013,141961,11.0,0.007748607011784927,Treatment
+Florida,Jackson County,2013,48885,8.0,0.016364938120077735,Treatment
+Florida,Jefferson County,2013,14212,6.0,0.042217844075429216,Treatment
+Florida,Lafayette County,2013,8819,6.0,0.06803492459462523,Treatment
+Florida,Lake County,2013,308088,22.0,0.007140816909454442,Treatment
+Florida,Lee County,2013,660197,60.0,0.009088196401983044,Treatment
+Florida,Leon County,2013,282006,11.0,0.003900626227810756,Treatment
+Florida,Levy County,2013,39449,7.0,0.017744429516591043,Treatment
+Florida,Liberty County,2013,8360,7.0,0.08373205741626795,Treatment
+Florida,Madison County,2013,18757,5.0,0.026656714826464787,Treatment
+Florida,Manatee County,2013,342024,69.0,0.02017402287558768,Treatment
+Florida,Marion County,2013,335196,45.0,0.013424981205026313,Treatment
+Florida,Martin County,2013,151197,18.0,0.011904998115041966,Treatment
+Florida,Miami-Dade County,2013,2609570,110.0,0.004215253854083239,Treatment
+Florida,Monroe County,2013,75878,6.0,0.007907430348717678,Treatment
+Florida,Nassau County,2013,75428,14.0,0.018560746672323276,Treatment
+Florida,Okaloosa County,2013,192969,0.0,0.0,Treatment
+Florida,Okeechobee County,2013,39464,9.0,0.022805594972633285,Treatment
+Florida,Orange County,2013,1227761,122.0,0.009936787371483537,Treatment
+Florida,Osceola County,2013,299322,27.0,0.009020386072523904,Treatment
+Florida,Palm Beach County,2013,1376782,233.0,0.016923521661381394,Treatment
+Florida,Pasco County,2013,474501,99.0,0.020864023468865185,Treatment
+Florida,Pinellas County,2013,928755,176.0,0.018950099864872866,Treatment
+Florida,Polk County,2013,622808,88.0,0.014129555175912962,Treatment
+Florida,Putnam County,2013,72380,0.0,0.0,Treatment
+Florida,St. Johns County,2013,209579,11.0,0.005248617466444634,Treatment
+Florida,St. Lucie County,2013,285437,33.0,0.011561220164169326,Treatment
+Florida,Santa Rosa County,2013,160519,11.0,0.006852771323020951,Treatment
+Florida,Sarasota County,2013,390153,67.0,0.01717275017749447,Treatment
+Florida,Seminole County,2013,435640,45.0,0.010329629969699753,Treatment
+Florida,Sumter County,2013,106980,1.0,0.0009347541596560105,Treatment
+Florida,Suwannee County,2013,43578,2.0,0.004589471751801368,Treatment
+Florida,Taylor County,2013,22880,1.0,0.004370629370629371,Treatment
+Florida,Union County,2013,15165,8.0,0.05275304978569074,Treatment
+Florida,Volusia County,2013,500702,100.0,0.01997195936904586,Treatment
+Florida,Wakulla County,2013,31009,3.0,0.009674610596923474,Treatment
+Florida,Walton County,2013,59232,8.0,0.01350621285791464,Treatment
+Florida,Washington County,2013,24506,0.0,0.0,Treatment
+Florida,Alachua County,2014,255606,19.0,0.007433315336885676,Treatment
+Florida,Baker County,2014,27123,5.0,0.018434538952180807,Treatment
+Florida,Bay County,2014,178435,22.0,0.012329419676632947,Treatment
+Florida,Bradford County,2014,26562,3.0,0.0112943302462164,Treatment
+Florida,Brevard County,2014,555838,111.0,0.019969847329617624,Treatment
+Florida,Broward County,2014,1861259,220.0,0.01181995627690719,Treatment
+Florida,Calhoun County,2014,14456,8.0,0.05534034311012728,Treatment
+Florida,Charlotte County,2014,168208,12.0,0.007134024541044421,Treatment
+Florida,Citrus County,2014,138907,24.0,0.017277746981793574,Treatment
+Florida,Clay County,2014,198687,26.0,0.013085908992535998,Treatment
+Florida,Collier County,2014,347401,41.0,0.011801923425666593,Treatment
+Florida,Columbia County,2014,67821,11.0,0.016219165155335367,Treatment
+Florida,DeSoto County,2014,35333,9.0,0.025471938414513343,Treatment
+Florida,Dixie County,2014,16041,2.0,0.012468050620285519,Treatment
+Florida,Duval County,2014,897094,146.0,0.016274771651577202,Treatment
+Florida,Escambia County,2014,308200,35.0,0.01135626216742375,Treatment
+Florida,Flagler County,2014,101961,7.0,0.006865370092486343,Treatment
+Florida,Franklin County,2014,11656,6.0,0.05147563486616335,Treatment
+Florida,Gadsden County,2014,46113,0.0,0.0,Treatment
+Florida,Gilchrist County,2014,17007,4.0,0.023519727171164816,Treatment
+Florida,Glades County,2014,12956,7.0,0.05402902130287126,Treatment
+Florida,Gulf County,2014,16011,5.0,0.031228530385360064,Treatment
+Florida,Hamilton County,2014,14071,3.0,0.02132044630800938,Treatment
+Florida,Hardee County,2014,27259,7.0,0.02567959206133754,Treatment
+Florida,Hendry County,2014,38467,3.0,0.007798892557256869,Treatment
+Florida,Hernando County,2014,175411,25.0,0.014252241877647355,Treatment
+Florida,Highlands County,2014,98636,13.0,0.013179772091325682,Treatment
+Florida,Hillsborough County,2014,1332742,163.0,0.012230424193129653,Treatment
+Florida,Holmes County,2014,19578,3.0,0.015323322096230463,Treatment
+Florida,Indian River County,2014,144532,22.0,0.015221542634157141,Treatment
+Florida,Jackson County,2014,48737,4.0,0.008207316822947657,Treatment
+Florida,Jefferson County,2014,14061,9.0,0.06400682739492213,Treatment
+Florida,Lafayette County,2014,8860,4.0,0.045146726862302484,Treatment
+Florida,Lake County,2014,315493,40.0,0.012678569730548697,Treatment
+Florida,Lee County,2014,677710,86.0,0.012689793569520887,Treatment
+Florida,Leon County,2014,283923,18.0,0.006339747044092941,Treatment
+Florida,Levy County,2014,39317,2.0,0.005086858102093242,Treatment
+Florida,Liberty County,2014,8419,6.0,0.07126737142178406,Treatment
+Florida,Madison County,2014,18607,6.0,0.032245928951469875,Treatment
+Florida,Manatee County,2014,351080,91.0,0.02592001822946337,Treatment
+Florida,Marion County,2014,338165,57.0,0.016855676962429584,Treatment
+Florida,Martin County,2014,153218,16.0,0.010442637288047096,Treatment
+Florida,Miami-Dade County,2014,2634056,139.0,0.00527703283453351,Treatment
+Florida,Monroe County,2014,76353,10.0,0.013097062328919624,Treatment
+Florida,Nassau County,2014,76309,9.0,0.011794152721173125,Treatment
+Florida,Okaloosa County,2014,195074,17.0,0.008714641623178896,Treatment
+Florida,Okeechobee County,2014,39550,8.0,0.020227560050568902,Treatment
+Florida,Orange County,2014,1257031,177.0,0.014080798325578287,Treatment
+Florida,Osceola County,2014,311150,36.0,0.011569982323638118,Treatment
+Florida,Palm Beach County,2014,1399064,236.0,0.016868420601201948,Treatment
+Florida,Pasco County,2014,483590,105.0,0.02171260778758866,Treatment
+Florida,Pinellas County,2014,936862,190.0,0.020280468201293252,Treatment
+Florida,Polk County,2014,634624,93.0,0.014654346510689795,Treatment
+Florida,Putnam County,2014,71987,9.0,0.012502257352021894,Treatment
+Florida,St. Johns County,2014,218009,17.0,0.007797843208307914,Treatment
+Florida,St. Lucie County,2014,290207,39.0,0.013438683422522545,Treatment
+Florida,Santa Rosa County,2014,162840,13.0,0.007983296487349545,Treatment
+Florida,Sarasota County,2014,396636,54.0,0.01361449792757087,Treatment
+Florida,Seminole County,2014,441583,49.0,0.011096441665553248,Treatment
+Florida,Sumter County,2014,112354,2.0,0.0017800879363440553,Treatment
+Florida,Suwannee County,2014,43777,1.0,0.002284304543481737,Treatment
+Florida,Taylor County,2014,22591,2.0,0.008853083086184764,Treatment
+Florida,Union County,2014,15260,6.0,0.039318479685452164,Treatment
+Florida,Volusia County,2014,507050,75.0,0.014791440686322849,Treatment
+Florida,Wakulla County,2014,31418,8.0,0.025463110318925456,Treatment
+Florida,Walton County,2014,61244,7.0,0.01142969107177846,Treatment
+Florida,Washington County,2014,24300,9.0,0.037037037037037035,Treatment
+Florida,Alachua County,2015,259215,23.0,0.008872943309607854,Treatment
+Florida,Baker County,2015,27357,0.0,0.0,Treatment
+Florida,Bay County,2015,181678,25.0,0.013760609429870431,Treatment
+Florida,Bradford County,2015,26759,6.0,0.02242236256960275,Treatment
+Florida,Brevard County,2015,566133,155.0,0.02737872549383272,Treatment
+Florida,Broward County,2015,1885435,279.0,0.014797646166534513,Treatment
+Florida,Calhoun County,2015,14412,2.0,0.013877324451845684,Treatment
+Florida,Charlotte County,2015,172607,11.0,0.006372858574681212,Treatment
+Florida,Citrus County,2015,140397,25.0,0.01780664829020563,Treatment
+Florida,Clay County,2015,202552,41.0,0.02024171570757139,Treatment
+Florida,Collier County,2015,356288,48.0,0.013472247170828094,Treatment
+Florida,Columbia County,2015,68277,10.0,0.014646220542788933,Treatment
+Florida,DeSoto County,2015,35644,9.0,0.025249691392660756,Treatment
+Florida,Dixie County,2015,16352,3.0,0.01834637964774951,Treatment
+Florida,Duval County,2015,911106,169.0,0.018548884542523042,Treatment
+Florida,Escambia County,2015,309630,51.0,0.016471272163550044,Treatment
+Florida,Flagler County,2015,104533,11.0,0.01052299273913501,Treatment
+Florida,Franklin County,2015,11702,2.0,0.017091095539224065,Treatment
+Florida,Gadsden County,2015,46057,2.0,0.004342445230909525,Treatment
+Florida,Gilchrist County,2015,17394,1.0,0.0057491088881223415,Treatment
+Florida,Glades County,2015,13115,3.0,0.022874571101791842,Treatment
+Florida,Gulf County,2015,15944,4.0,0.025087807325639738,Treatment
+Florida,Hamilton County,2015,14275,7.0,0.04903677758318739,Treatment
+Florida,Hardee County,2015,27167,8.0,0.0294474914418228,Treatment
+Florida,Hendry County,2015,39242,2.0,0.0050965801946893634,Treatment
+Florida,Hernando County,2015,178036,27.0,0.015165472151699656,Treatment
+Florida,Highlands County,2015,100204,0.0,0.0,Treatment
+Florida,Hillsborough County,2015,1364645,176.0,0.0128971270916612,Treatment
+Florida,Holmes County,2015,19292,1.0,0.005183495749533485,Treatment
+Florida,Indian River County,2015,147547,17.0,0.01152175239076362,Treatment
+Florida,Jackson County,2015,48617,5.0,0.01028446839582862,Treatment
+Florida,Jefferson County,2015,14121,7.0,0.04957156008781248,Treatment
+Florida,Lafayette County,2015,8722,8.0,0.09172208209126347,Treatment
+Florida,Lake County,2015,325338,48.0,0.014753886727034654,Treatment
+Florida,Lee County,2015,700243,102.0,0.014566371959448363,Treatment
+Florida,Leon County,2015,286098,14.0,0.004893428126026746,Treatment
+Florida,Levy County,2015,39630,2.0,0.005046681806712087,Treatment
+Florida,Liberty County,2015,8412,6.0,0.07132667617689016,Treatment
+Florida,Madison County,2015,18485,6.0,0.032458750338111984,Treatment
+Florida,Manatee County,2015,362821,148.0,0.04079146466163756,Treatment
+Florida,Marion County,2015,342388,42.0,0.012266785050877952,Treatment
+Florida,Martin County,2015,155674,23.0,0.014774464586250756,Treatment
+Florida,Miami-Dade County,2015,2659549,202.0,0.007595272732331685,Treatment
+Florida,Monroe County,2015,76758,19.0,0.02475312019594049,Treatment
+Florida,Nassau County,2015,78022,1.0,0.0012816897798056958,Treatment
+Florida,Okaloosa County,2015,198310,39.0,0.019666179214361354,Treatment
+Florida,Okeechobee County,2015,39833,10.0,0.025104812592573997,Treatment
+Florida,Orange County,2015,1291844,195.0,0.015094701837063918,Treatment
+Florida,Osceola County,2015,323860,37.0,0.01142468968072624,Treatment
+Florida,Palm Beach County,2015,1424772,317.0,0.022249173902912187,Treatment
+Florida,Pasco County,2015,495130,113.0,0.022822289095793025,Treatment
+Florida,Pinellas County,2015,947664,190.0,0.0200493001739013,Treatment
+Florida,Polk County,2015,648823,96.0,0.014796022952330604,Treatment
+Florida,Putnam County,2015,71961,0.0,0.0,Treatment
+Florida,St. Johns County,2015,226582,17.0,0.007502802517410916,Treatment
+Florida,St. Lucie County,2015,297471,51.0,0.01714452837419446,Treatment
+Florida,Santa Rosa County,2015,166451,22.0,0.013217102931192964,Treatment
+Florida,Sarasota County,2015,405099,96.0,0.023697910881043893,Treatment
+Florida,Seminole County,2015,448535,63.0,0.014045726643405754,Treatment
+Florida,Sumter County,2015,117229,12.0,0.010236374958414727,Treatment
+Florida,Suwannee County,2015,43670,1.0,0.002289901534234028,Treatment
+Florida,Taylor County,2015,22362,9.0,0.04024684733029246,Treatment
+Florida,Union County,2015,15268,2.0,0.013099292638197537,Treatment
+Florida,Volusia County,2015,517144,98.0,0.018950234364122954,Treatment
+Florida,Wakulla County,2015,31529,6.0,0.019030099273684545,Treatment
+Florida,Walton County,2015,63145,4.0,0.006334626652941642,Treatment
+Florida,Washington County,2015,24556,5.0,0.020361622414073955,Treatment
+Louisiana,Acadia Parish,2003,58740,11.0,0.018726591760299626,Control
+Louisiana,Allen Parish,2003,25186,1.0,0.003970459779242436,Control
+Louisiana,Ascension Parish,2003,83760,11.0,0.013132760267430755,Control
+Louisiana,Assumption Parish,2003,23081,8.0,0.03466054330401629,Control
+Louisiana,Avoyelles Parish,2003,41607,0.0,0.0,Control
+Louisiana,Beauregard Parish,2003,33313,3.0,0.009005493350944076,Control
+Louisiana,Bienville Parish,2003,15161,5.0,0.03297935492381769,Control
+Louisiana,Bossier Parish,2003,101803,16.0,0.015716629175957487,Control
+Louisiana,Caddo Parish,2003,249387,22.0,0.008821630638325173,Control
+Louisiana,Calcasieu Parish,2003,183589,25.0,0.013617373589920965,Control
+Louisiana,Caldwell Parish,2003,10448,2.0,0.01914241960183767,Control
+Louisiana,Cameron Parish,2003,9688,2.0,0.02064409578860446,Control
+Louisiana,Catahoula Parish,2003,10556,7.0,0.06631299734748011,Control
+Louisiana,Claiborne Parish,2003,16425,5.0,0.030441400304414,Control
+Louisiana,Concordia Parish,2003,19477,1.0,0.005134260923140114,Control
+Louisiana,De Soto Parish,2003,25635,6.0,0.023405500292568753,Control
+Louisiana,East Baton Rouge Parish,2003,411473,22.0,0.005346644858836424,Control
+Louisiana,East Carroll Parish,2003,8833,4.0,0.04528472772557455,Control
+Louisiana,East Feliciana Parish,2003,20909,7.0,0.03347840642785403,Control
+Louisiana,Evangeline Parish,2003,34897,7.0,0.02005903086225177,Control
+Louisiana,Franklin Parish,2003,20615,1.0,0.004850836769342712,Control
+Louisiana,Grant Parish,2003,18739,5.0,0.026682320294572816,Control
+Louisiana,Iberia Parish,2003,73390,8.0,0.010900667665894537,Control
+Louisiana,Iberville Parish,2003,32734,1.0,0.0030549275982159224,Control
+Louisiana,Jackson Parish,2003,15187,3.0,0.019753736748534933,Control
+Louisiana,Jefferson Parish,2003,451533,86.0,0.019046226964585092,Control
+Louisiana,Jefferson Davis Parish,2003,30871,3.0,0.009717858184056233,Control
+Louisiana,Lafayette Parish,2003,193915,24.0,0.0123765567387773,Control
+Louisiana,Lafourche Parish,2003,91236,6.0,0.006576351440220966,Control
+Louisiana,LaSalle Parish,2003,14094,5.0,0.03547608911593586,Control
+Louisiana,Lincoln Parish,2003,42357,8.0,0.01888707887716316,Control
+Louisiana,Livingston Parish,2003,101066,23.0,0.022757406051491104,Control
+Louisiana,Madison Parish,2003,12617,8.0,0.06340651501941824,Control
+Louisiana,Morehouse Parish,2003,30263,8.0,0.026434920530020157,Control
+Louisiana,Natchitoches Parish,2003,38694,5.0,0.01292190003618132,Control
+Louisiana,Orleans Parish,2003,467761,16.0,0.0034205502382627026,Control
+Louisiana,Ouachita Parish,2003,147890,3.0,0.002028534721752654,Control
+Louisiana,Plaquemines Parish,2003,27644,1.0,0.0036174215019534077,Control
+Louisiana,Pointe Coupee Parish,2003,22199,4.0,0.018018829677012477,Control
+Louisiana,Rapides Parish,2003,126806,1.0,0.0007886062173714177,Control
+Louisiana,Red River Parish,2003,9413,0.0,0.0,Control
+Louisiana,Richland Parish,2003,20472,7.0,0.03419304415787417,Control
+Louisiana,Sabine Parish,2003,23363,4.0,0.01712108890125412,Control
+Louisiana,St. Bernard Parish,2003,65727,29.0,0.0441218981544875,Control
+Louisiana,St. Charles Parish,2003,49039,9.0,0.01835273965619201,Control
+Louisiana,St. Helena Parish,2003,10321,2.0,0.019377967251235344,Control
+Louisiana,St. James Parish,2003,20869,0.0,0.0,Control
+Louisiana,St. John the Baptist Parish,2003,44452,9.0,0.02024655808512553,Control
+Louisiana,St. Landry Parish,2003,87935,10.0,0.011372036163074998,Control
+Louisiana,St. Martin Parish,2003,49579,3.0,0.00605094899050001,Control
+Louisiana,St. Mary Parish,2003,51898,8.0,0.015414852210104435,Control
+Louisiana,St. Tammany Parish,2003,205883,40.0,0.019428510367538846,Control
+Louisiana,Tangipahoa Parish,2003,103360,9.0,0.008707430340557275,Control
+Louisiana,Tensas Parish,2003,6162,3.0,0.04868549172346641,Control
+Louisiana,Terrebonne Parish,2003,105172,19.0,0.01806564484843875,Control
+Louisiana,Union Parish,2003,22756,0.0,0.0,Control
+Louisiana,Vermilion Parish,2003,54161,5.0,0.009231735012278208,Control
+Louisiana,Vernon Parish,2003,51143,1.0,0.0019553018008329585,Control
+Louisiana,Washington Parish,2003,43691,9.0,0.020599208074889564,Control
+Louisiana,Webster Parish,2003,40898,6.0,0.014670644041273412,Control
+Louisiana,West Baton Rouge Parish,2003,21575,1.0,0.004634994206257242,Control
+Louisiana,West Carroll Parish,2003,12055,8.0,0.06636250518457072,Control
+Louisiana,West Feliciana Parish,2003,15079,0.0,0.0,Control
+Louisiana,Winn Parish,2003,16144,9.0,0.05574826560951437,Control
+Louisiana,Acadia Parish,2004,58620,1.0,0.0017059024223814397,Control
+Louisiana,Allen Parish,2004,25190,4.0,0.015879317189360857,Control
+Louisiana,Ascension Parish,2004,86085,7.0,0.008131497938084452,Control
+Louisiana,Assumption Parish,2004,23062,5.0,0.021680686844159223,Control
+Louisiana,Avoyelles Parish,2004,41478,9.0,0.021698249674526254,Control
+Louisiana,Beauregard Parish,2004,33705,5.0,0.01483459427384661,Control
+Louisiana,Bienville Parish,2004,15123,7.0,0.04628711234543411,Control
+Louisiana,Bossier Parish,2004,103515,1.0,0.0009660435685649423,Control
+Louisiana,Caddo Parish,2004,250038,37.0,0.014797750741887232,Control
+Louisiana,Calcasieu Parish,2004,184079,18.0,0.009778410356423057,Control
+Louisiana,Caldwell Parish,2004,10500,6.0,0.05714285714285714,Control
+Louisiana,Cameron Parish,2004,9636,8.0,0.08302200083022,Control
+Louisiana,Catahoula Parish,2004,10455,0.0,0.0,Control
+Louisiana,Claiborne Parish,2004,16130,3.0,0.018598884066955982,Control
+Louisiana,Concordia Parish,2004,19188,7.0,0.036481134042109654,Control
+Louisiana,De Soto Parish,2004,25904,7.0,0.027022853613341568,Control
+Louisiana,East Baton Rouge Parish,2004,412772,17.0,0.004118496409640189,Control
+Louisiana,East Carroll Parish,2004,8692,3.0,0.03451449608835711,Control
+Louisiana,East Feliciana Parish,2004,20680,6.0,0.029013539651837523,Control
+Louisiana,Evangeline Parish,2004,34923,0.0,0.0,Control
+Louisiana,Franklin Parish,2004,20472,6.0,0.029308323563892145,Control
+Louisiana,Grant Parish,2004,18984,4.0,0.02107037505267594,Control
+Louisiana,Iberia Parish,2004,73399,2.0,0.002724832763389147,Control
+Louisiana,Iberville Parish,2004,32332,4.0,0.012371644191513051,Control
+Louisiana,Jackson Parish,2004,15147,1.0,0.0066019673862811115,Control
+Louisiana,Jefferson Parish,2004,452678,88.0,0.019439866748549743,Control
+Louisiana,Jefferson Davis Parish,2004,30820,2.0,0.006489292667099286,Control
+Louisiana,Lafayette Parish,2004,195621,25.0,0.012779814028146262,Control
+Louisiana,Lafourche Parish,2004,91624,10.0,0.01091417095957391,Control
+Louisiana,LaSalle Parish,2004,14023,6.0,0.042786850174712975,Control
+Louisiana,Lincoln Parish,2004,42733,5.0,0.011700559286733907,Control
+Louisiana,Livingston Parish,2004,104631,16.0,0.015291835115787864,Control
+Louisiana,Madison Parish,2004,12255,9.0,0.07343941248470012,Control
+Louisiana,Morehouse Parish,2004,29946,0.0,0.0,Control
+Louisiana,Natchitoches Parish,2004,38694,5.0,0.01292190003618132,Control
+Louisiana,Orleans Parish,2004,461915,17.0,0.0036803307967916174,Control
+Louisiana,Ouachita Parish,2004,148455,3.0,0.002020814388198444,Control
+Louisiana,Plaquemines Parish,2004,28602,1.0,0.003496259002866932,Control
+Louisiana,Pointe Coupee Parish,2004,22110,3.0,0.013568521031207599,Control
+Louisiana,Rapides Parish,2004,127376,8.0,0.006280618012812461,Control
+Louisiana,Red River Parish,2004,9363,1.0,0.010680337498664958,Control
+Louisiana,Richland Parish,2004,20351,7.0,0.03439634415999214,Control
+Louisiana,Sabine Parish,2004,23317,8.0,0.034309731097482525,Control
+Louisiana,St. Bernard Parish,2004,65427,17.0,0.025983156800709187,Control
+Louisiana,St. Charles Parish,2004,49524,12.0,0.0242306760358614,Control
+Louisiana,St. Helena Parish,2004,10259,0.0,0.0,Control
+Louisiana,St. James Parish,2004,20703,5.0,0.024151089214123556,Control
+Louisiana,St. John the Baptist Parish,2004,45046,6.0,0.013319717621986414,Control
+Louisiana,St. Landry Parish,2004,88273,8.0,0.009062793832768796,Control
+Louisiana,St. Martin Parish,2004,49872,5.0,0.01002566570420276,Control
+Louisiana,St. Mary Parish,2004,51541,6.0,0.011641217671368425,Control
+Louisiana,St. Tammany Parish,2004,211529,44.0,0.02080093036888559,Control
+Louisiana,Tangipahoa Parish,2004,104745,17.0,0.016229891641605803,Control
+Louisiana,Tensas Parish,2004,6030,8.0,0.13266998341625208,Control
+Louisiana,Terrebonne Parish,2004,105453,17.0,0.016120925910121098,Control
+Louisiana,Union Parish,2004,22664,5.0,0.022061418990469466,Control
+Louisiana,Vermilion Parish,2004,54368,4.0,0.0073572689817539725,Control
+Louisiana,Vernon Parish,2004,50219,5.0,0.009956391007387643,Control
+Louisiana,Washington Parish,2004,43748,6.0,0.013714912681722593,Control
+Louisiana,Webster Parish,2004,40844,5.0,0.012241700127313682,Control
+Louisiana,West Baton Rouge Parish,2004,21730,2.0,0.009203865623561895,Control
+Louisiana,West Carroll Parish,2004,11875,1.0,0.008421052631578947,Control
+Louisiana,West Feliciana Parish,2004,14971,3.0,0.020038741567029592,Control
+Louisiana,Winn Parish,2004,15883,9.0,0.05666435811874331,Control
+Louisiana,Acadia Parish,2005,58750,23.0,0.03914893617021276,Control
+Louisiana,Allen Parish,2005,24864,2.0,0.008043758043758044,Control
+Louisiana,Ascension Parish,2005,89382,10.0,0.011187934930970441,Control
+Louisiana,Assumption Parish,2005,22864,2.0,0.00874737578726382,Control
+Louisiana,Avoyelles Parish,2005,41313,9.0,0.021784910318785853,Control
+Louisiana,Beauregard Parish,2005,34225,1.0,0.0029218407596785976,Control
+Louisiana,Bienville Parish,2005,14979,4.0,0.026704052339942587,Control
+Louisiana,Bossier Parish,2005,105152,17.0,0.016167072428484478,Control
+Louisiana,Caddo Parish,2005,250339,25.0,0.009986458362460503,Control
+Louisiana,Calcasieu Parish,2005,184399,47.0,0.02548820763670085,Control
+Louisiana,Caldwell Parish,2005,10382,7.0,0.06742438836447698,Control
+Louisiana,Cameron Parish,2005,9576,4.0,0.04177109440267335,Control
+Louisiana,Catahoula Parish,2005,10252,4.0,0.03901677721420211,Control
+Louisiana,Claiborne Parish,2005,16291,8.0,0.04910686882327665,Control
+Louisiana,Concordia Parish,2005,18913,8.0,0.04229894781367313,Control
+Louisiana,De Soto Parish,2005,25953,9.0,0.034678071899202405,Control
+Louisiana,East Baton Rouge Parish,2005,411859,18.0,0.004370427743475316,Control
+Louisiana,East Carroll Parish,2005,8494,2.0,0.02354603249352484,Control
+Louisiana,East Feliciana Parish,2005,20524,5.0,0.024361722861040734,Control
+Louisiana,Evangeline Parish,2005,35189,6.0,0.01705078291511552,Control
+Louisiana,Franklin Parish,2005,20135,2.0,0.009932952570151478,Control
+Louisiana,Grant Parish,2005,19282,8.0,0.04148947204646821,Control
+Louisiana,Iberia Parish,2005,73599,1.0,0.0013587141129634914,Control
+Louisiana,Iberville Parish,2005,32180,5.0,0.015537600994406464,Control
+Louisiana,Jackson Parish,2005,15053,8.0,0.05314555238158507,Control
+Louisiana,Jefferson Parish,2005,451652,99.0,0.0219195309663192,Control
+Louisiana,Jefferson Davis Parish,2005,30896,6.0,0.019419989642672192,Control
+Louisiana,Lafayette Parish,2005,197342,23.0,0.011654893535081229,Control
+Louisiana,Lafourche Parish,2005,91362,8.0,0.008756375736082836,Control
+Louisiana,LaSalle Parish,2005,13887,4.0,0.028803917332757254,Control
+Louisiana,Lincoln Parish,2005,42655,3.0,0.0070331731332786305,Control
+Louisiana,Livingston Parish,2005,107415,26.0,0.024205185495508076,Control
+Louisiana,Madison Parish,2005,12086,2.0,0.016548072149594573,Control
+Louisiana,Morehouse Parish,2005,29418,9.0,0.030593514174994903,Control
+Louisiana,Natchitoches Parish,2005,38787,8.0,0.02062546729574342,Control
+Louisiana,Orleans Parish,2005,455188,22.0,0.004833167833949928,Control
+Louisiana,Ouachita Parish,2005,148438,14.0,0.009431547177946349,Control
+Louisiana,Plaquemines Parish,2005,28549,5.0,0.01751374829240954,Control
+Louisiana,Pointe Coupee Parish,2005,21796,1.0,0.004587997797761057,Control
+Louisiana,Rapides Parish,2005,127846,7.0,0.005475337515448274,Control
+Louisiana,Red River Parish,2005,9205,0.0,0.0,Control
+Louisiana,Richland Parish,2005,20293,2.0,0.009855615236781155,Control
+Louisiana,Sabine Parish,2005,23402,7.0,0.02991197333561234,Control
+Louisiana,St. Bernard Parish,2005,64951,16.0,0.024633954827485337,Control
+Louisiana,St. Charles Parish,2005,50116,6.0,0.011972224439300821,Control
+Louisiana,St. Helena Parish,2005,10171,9.0,0.08848687444695703,Control
+Louisiana,St. James Parish,2005,20740,2.0,0.009643201542912247,Control
+Louisiana,St. John the Baptist Parish,2005,45597,3.0,0.006579380222383051,Control
+Louisiana,St. Landry Parish,2005,88593,23.0,0.025961419073741717,Control
+Louisiana,St. Martin Parish,2005,50010,8.0,0.015996800639872025,Control
+Louisiana,St. Mary Parish,2005,50871,1.0,0.00196575652139726,Control
+Louisiana,St. Tammany Parish,2005,217407,55.0,0.02529817347187533,Control
+Louisiana,Tangipahoa Parish,2005,106221,31.0,0.02918443622259252,Control
+Louisiana,Tensas Parish,2005,5956,1.0,0.0167897918065816,Control
+Louisiana,Terrebonne Parish,2005,106192,17.0,0.01600873888805183,Control
+Louisiana,Union Parish,2005,22734,9.0,0.0395882818685669,Control
+Louisiana,Vermilion Parish,2005,54909,0.0,0.0,Control
+Louisiana,Vernon Parish,2005,50262,0.0,0.0,Control
+Louisiana,Washington Parish,2005,43919,1.0,0.0022769188733805412,Control
+Louisiana,Webster Parish,2005,40817,1.0,0.0024499595756670013,Control
+Louisiana,West Baton Rouge Parish,2005,21531,9.0,0.041800195067576984,Control
+Louisiana,West Carroll Parish,2005,11784,2.0,0.01697216564833673,Control
+Louisiana,West Feliciana Parish,2005,15028,0.0,0.0,Control
+Louisiana,Winn Parish,2005,15716,2.0,0.012725884448969204,Control
+Louisiana,Acadia Parish,2006,59585,19.0,0.03188721993790383,Control
+Louisiana,Allen Parish,2006,25562,2.0,0.007824113919098662,Control
+Louisiana,Ascension Parish,2006,95986,8.0,0.00833454878836497,Control
+Louisiana,Assumption Parish,2006,23073,3.0,0.01300221037576388,Control
+Louisiana,Avoyelles Parish,2006,42384,5.0,0.01179690449226123,Control
+Louisiana,Beauregard Parish,2006,34624,2.0,0.00577634011090573,Control
+Louisiana,Bienville Parish,2006,14922,8.0,0.05361211633829245,Control
+Louisiana,Bossier Parish,2006,107741,10.0,0.009281517713776557,Control
+Louisiana,Caddo Parish,2006,253344,28.0,0.011052166224580018,Control
+Louisiana,Calcasieu Parish,2006,182944,54.0,0.029517229316074863,Control
+Louisiana,Caldwell Parish,2006,10376,9.0,0.08673862760215882,Control
+Louisiana,Cameron Parish,2006,7457,3.0,0.040230655759688885,Control
+Louisiana,Catahoula Parish,2006,10402,7.0,0.06729475100942127,Control
+Louisiana,Claiborne Parish,2006,16435,2.0,0.012169151201703681,Control
+Louisiana,Concordia Parish,2006,19144,2.0,0.010447137484329294,Control
+Louisiana,De Soto Parish,2006,26081,3.0,0.011502626433035543,Control
+Louisiana,East Baton Rouge Parish,2006,430886,34.0,0.007890718194603677,Control
+Louisiana,East Carroll Parish,2006,8323,7.0,0.08410428931875526,Control
+Louisiana,East Feliciana Parish,2006,21002,5.0,0.023807256451766498,Control
+Louisiana,Evangeline Parish,2006,35641,9.0,0.025251816727925702,Control
+Louisiana,Franklin Parish,2006,20059,0.0,0.0,Control
+Louisiana,Grant Parish,2006,19731,7.0,0.035477167908367545,Control
+Louisiana,Iberia Parish,2006,74481,7.0,0.00939837005410776,Control
+Louisiana,Iberville Parish,2006,32885,0.0,0.0,Control
+Louisiana,Jackson Parish,2006,15209,4.0,0.02630021697679006,Control
+Louisiana,Jefferson Parish,2006,420683,115.0,0.02733649802820651,Control
+Louisiana,Jefferson Davis Parish,2006,31177,4.0,0.012829970811816404,Control
+Louisiana,Lafayette Parish,2006,203659,35.0,0.017185589637580465,Control
+Louisiana,Lafourche Parish,2006,92780,0.0,0.0,Control
+Louisiana,LaSalle Parish,2006,14008,8.0,0.05711022272986865,Control
+Louisiana,Lincoln Parish,2006,42556,8.0,0.018798759281887397,Control
+Louisiana,Livingston Parish,2006,113529,25.0,0.022020805256806632,Control
+Louisiana,Madison Parish,2006,11942,5.0,0.041869033662703066,Control
+Louisiana,Morehouse Parish,2006,29152,7.0,0.024012074643249177,Control
+Louisiana,Natchitoches Parish,2006,38833,2.0,0.0051502588005047254,Control
+Louisiana,Orleans Parish,2006,208548,32.0,0.015344189347296545,Control
+Louisiana,Ouachita Parish,2006,149989,16.0,0.01066744894625606,Control
+Louisiana,Plaquemines Parish,2006,21293,6.0,0.0281782745503217,Control
+Louisiana,Pointe Coupee Parish,2006,22405,2.0,0.00892657888864093,Control
+Louisiana,Rapides Parish,2006,132436,3.0,0.0022652450995197682,Control
+Louisiana,Red River Parish,2006,9177,1.0,0.010896807235480005,Control
+Louisiana,Richland Parish,2006,20436,6.0,0.029359953024075163,Control
+Louisiana,Sabine Parish,2006,23603,6.0,0.025420497394399017,Control
+Louisiana,St. Bernard Parish,2006,14493,1.0,0.006899882701994066,Control
+Louisiana,St. Charles Parish,2006,51759,11.0,0.021252342587762516,Control
+Louisiana,St. Helena Parish,2006,10659,6.0,0.056290458767238954,Control
+Louisiana,St. James Parish,2006,21159,8.0,0.03780897017817477,Control
+Louisiana,St. John the Baptist Parish,2006,47697,5.0,0.010482839591588569,Control
+Louisiana,St. Landry Parish,2006,90756,22.0,0.02424082154347922,Control
+Louisiana,St. Martin Parish,2006,51180,0.0,0.0,Control
+Louisiana,St. Mary Parish,2006,51569,1.0,0.0019391494890341097,Control
+Louisiana,St. Tammany Parish,2006,223062,64.0,0.02869157453981404,Control
+Louisiana,Tangipahoa Parish,2006,113119,24.0,0.02121659491332137,Control
+Louisiana,Tensas Parish,2006,5978,3.0,0.050184008029441285,Control
+Louisiana,Terrebonne Parish,2006,108115,20.0,0.018498820700180364,Control
+Louisiana,Union Parish,2006,22870,4.0,0.0174901617839965,Control
+Louisiana,Vermilion Parish,2006,55313,5.0,0.009039466309909063,Control
+Louisiana,Vernon Parish,2006,48467,0.0,0.0,Control
+Louisiana,Washington Parish,2006,44017,1.0,0.0022718495126882797,Control
+Louisiana,Webster Parish,2006,40869,6.0,0.014681054099684357,Control
+Louisiana,West Baton Rouge Parish,2006,22181,7.0,0.03155854109372887,Control
+Louisiana,West Carroll Parish,2006,11635,5.0,0.042973785990545764,Control
+Louisiana,West Feliciana Parish,2006,15266,0.0,0.0,Control
+Louisiana,Winn Parish,2006,15680,0.0,0.0,Control
+Louisiana,Acadia Parish,2007,59715,19.0,0.031817801222473414,Control
+Louisiana,Allen Parish,2007,25845,3.0,0.011607661056297156,Control
+Louisiana,Ascension Parish,2007,99702,11.0,0.01103287797636958,Control
+Louisiana,Assumption Parish,2007,23093,7.0,0.03031221582297666,Control
+Louisiana,Avoyelles Parish,2007,42197,1.0,0.0023698367182501128,Control
+Louisiana,Beauregard Parish,2007,34775,0.0,0.0,Control
+Louisiana,Bienville Parish,2007,14880,6.0,0.04032258064516129,Control
+Louisiana,Bossier Parish,2007,108931,18.0,0.016524221755055954,Control
+Louisiana,Caddo Parish,2007,252414,32.0,0.012677585236951991,Control
+Louisiana,Calcasieu Parish,2007,184318,53.0,0.028754652285723586,Control
+Louisiana,Caldwell Parish,2007,10379,1.0,0.009634839579920994,Control
+Louisiana,Cameron Parish,2007,7228,2.0,0.02767017155506364,Control
+Louisiana,Catahoula Parish,2007,10452,4.0,0.038270187523918864,Control
+Louisiana,Claiborne Parish,2007,16431,7.0,0.042602397906396444,Control
+Louisiana,Concordia Parish,2007,18924,9.0,0.04755865567533291,Control
+Louisiana,De Soto Parish,2007,26317,6.0,0.02279895124824258,Control
+Louisiana,East Baton Rouge Parish,2007,430700,34.0,0.007894125841653122,Control
+Louisiana,East Carroll Parish,2007,8260,9.0,0.1089588377723971,Control
+Louisiana,East Feliciana Parish,2007,20902,3.0,0.01435269352215099,Control
+Louisiana,Evangeline Parish,2007,35834,1.0,0.002790645755427806,Control
+Louisiana,Franklin Parish,2007,20028,8.0,0.039944078290393446,Control
+Louisiana,Grant Parish,2007,19774,1.0,0.005057145746940427,Control
+Louisiana,Iberia Parish,2007,74810,4.0,0.005346878759524128,Control
+Louisiana,Iberville Parish,2007,32915,5.0,0.015190642564180465,Control
+Louisiana,Jackson Parish,2007,15075,0.0,0.0,Control
+Louisiana,Jefferson Parish,2007,440339,117.0,0.026570437776349584,Control
+Louisiana,Jefferson Davis Parish,2007,31037,3.0,0.009665882656184554,Control
+Louisiana,Lafayette Parish,2007,205203,31.0,0.015106991613183043,Control
+Louisiana,Lafourche Parish,2007,92881,12.0,0.012919757539216847,Control
+Louisiana,LaSalle Parish,2007,13993,4.0,0.028585721432144644,Control
+Louisiana,Lincoln Parish,2007,42695,2.0,0.004684389272748566,Control
+Louisiana,Livingston Parish,2007,117028,25.0,0.021362408996137675,Control
+Louisiana,Madison Parish,2007,11796,4.0,0.0339097999321804,Control
+Louisiana,Morehouse Parish,2007,28588,0.0,0.0,Control
+Louisiana,Natchitoches Parish,2007,38957,7.0,0.017968529404214905,Control
+Louisiana,Orleans Parish,2007,288113,46.0,0.015965957801279358,Control
+Louisiana,Ouachita Parish,2007,149880,18.0,0.01200960768614892,Control
+Louisiana,Plaquemines Parish,2007,21353,8.0,0.0374654615276542,Control
+Louisiana,Pointe Coupee Parish,2007,22447,3.0,0.013364814897313672,Control
+Louisiana,Rapides Parish,2007,132943,1.0,0.0007522020715645051,Control
+Louisiana,Red River Parish,2007,9137,0.0,0.0,Control
+Louisiana,Richland Parish,2007,20429,9.0,0.04405501982475892,Control
+Louisiana,Sabine Parish,2007,23701,3.0,0.012657693768195435,Control
+Louisiana,St. Bernard Parish,2007,33439,1.0,0.002990520051436945,Control
+Louisiana,St. Charles Parish,2007,51946,11.0,0.021175836445539598,Control
+Louisiana,St. Helena Parish,2007,10581,9.0,0.08505812305075135,Control
+Louisiana,St. James Parish,2007,21245,8.0,0.03765591903977406,Control
+Louisiana,St. John the Baptist Parish,2007,47910,6.0,0.012523481527864746,Control
+Louisiana,St. Landry Parish,2007,91291,14.0,0.015335575248381549,Control
+Louisiana,St. Martin Parish,2007,51623,6.0,0.011622726304166747,Control
+Louisiana,St. Mary Parish,2007,51163,9.0,0.017590837128393565,Control
+Louisiana,St. Tammany Parish,2007,226315,63.0,0.027837306409208406,Control
+Louisiana,Tangipahoa Parish,2007,115701,27.0,0.02333601265330464,Control
+Louisiana,Tensas Parish,2007,5778,1.0,0.017307026652821047,Control
+Louisiana,Terrebonne Parish,2007,108627,16.0,0.014729303027792354,Control
+Louisiana,Union Parish,2007,22708,2.0,0.008807468733485996,Control
+Louisiana,Vermilion Parish,2007,55629,3.0,0.0053928706250337055,Control
+Louisiana,Vernon Parish,2007,47171,4.0,0.008479786309385003,Control
+Louisiana,Washington Parish,2007,45059,15.0,0.03328968685501232,Control
+Louisiana,Webster Parish,2007,40742,1.0,0.0024544695891217908,Control
+Louisiana,West Baton Rouge Parish,2007,22636,0.0,0.0,Control
+Louisiana,West Carroll Parish,2007,11468,4.0,0.03487966515521451,Control
+Louisiana,West Feliciana Parish,2007,15130,1.0,0.006609385327164574,Control
+Louisiana,Winn Parish,2007,15541,9.0,0.05791133131716106,Control
+Louisiana,Acadia Parish,2008,59936,3.0,0.00500533902829685,Control
+Louisiana,Allen Parish,2008,25735,9.0,0.03497182824946571,Control
+Louisiana,Ascension Parish,2008,102461,12.0,0.011711773260069685,Control
+Louisiana,Assumption Parish,2008,23026,5.0,0.021714583514288194,Control
+Louisiana,Avoyelles Parish,2008,42517,9.0,0.021168003386880543,Control
+Louisiana,Beauregard Parish,2008,35099,6.0,0.01709450411692641,Control
+Louisiana,Bienville Parish,2008,14731,8.0,0.05430724322856561,Control
+Louisiana,Bossier Parish,2008,110292,16.0,0.014506945200014507,Control
+Louisiana,Caddo Parish,2008,252614,17.0,0.006729634937097707,Control
+Louisiana,Calcasieu Parish,2008,185872,21.0,0.011298097615563399,Control
+Louisiana,Caldwell Parish,2008,10424,2.0,0.01918649270913277,Control
+Louisiana,Cameron Parish,2008,7100,9.0,0.1267605633802817,Control
+Louisiana,Catahoula Parish,2008,10553,7.0,0.06633184876338483,Control
+Louisiana,Claiborne Parish,2008,16281,4.0,0.024568515447454087,Control
+Louisiana,Concordia Parish,2008,18924,5.0,0.02642147537518495,Control
+Louisiana,De Soto Parish,2008,26483,2.0,0.00755201449986784,Control
+Louisiana,East Baton Rouge Parish,2008,431024,30.0,0.006960169271316679,Control
+Louisiana,East Carroll Parish,2008,8140,3.0,0.036855036855036855,Control
+Louisiana,East Feliciana Parish,2008,20958,4.0,0.0190857906288768,Control
+Louisiana,Evangeline Parish,2008,35455,4.0,0.011281906642222535,Control
+Louisiana,Franklin Parish,2008,19949,3.0,0.015038347786856483,Control
+Louisiana,Grant Parish,2008,19974,4.0,0.020026033843997197,Control
+Louisiana,Iberia Parish,2008,75020,6.0,0.007997867235403893,Control
+Louisiana,Iberville Parish,2008,32899,7.0,0.02127724246937597,Control
+Louisiana,Jackson Parish,2008,15156,1.0,0.006598046978094484,Control
+Louisiana,Jefferson Parish,2008,444655,81.0,0.018216369994715004,Control
+Louisiana,Jefferson Davis Parish,2008,31100,6.0,0.01929260450160772,Control
+Louisiana,Lafayette Parish,2008,207659,25.0,0.012038967730750895,Control
+Louisiana,Lafourche Parish,2008,93556,7.0,0.007482149728504852,Control
+Louisiana,LaSalle Parish,2008,14012,6.0,0.042820439623180134,Control
+Louisiana,Lincoln Parish,2008,42813,8.0,0.0186859131572186,Control
+Louisiana,Livingston Parish,2008,121080,32.0,0.026428807400066073,Control
+Louisiana,Madison Parish,2008,11739,5.0,0.0425930658488798,Control
+Louisiana,Morehouse Parish,2008,28425,4.0,0.014072119613016711,Control
+Louisiana,Natchitoches Parish,2008,39050,2.0,0.005121638924455826,Control
+Louisiana,Orleans Parish,2008,336644,50.0,0.014852485117809911,Control
+Louisiana,Ouachita Parish,2008,150317,18.0,0.01197469348110992,Control
+Louisiana,Plaquemines Parish,2008,21138,1.0,0.00473081653893462,Control
+Louisiana,Pointe Coupee Parish,2008,22536,2.0,0.008874689385871494,Control
+Louisiana,Rapides Parish,2008,133477,5.0,0.003745963724087296,Control
+Louisiana,Red River Parish,2008,9061,3.0,0.033108928374351615,Control
+Louisiana,Richland Parish,2008,20495,0.0,0.0,Control
+Louisiana,Sabine Parish,2008,23706,4.0,0.01687336539272758,Control
+Louisiana,St. Bernard Parish,2008,37669,13.0,0.03451113647827126,Control
+Louisiana,St. Charles Parish,2008,51619,0.0,0.0,Control
+Louisiana,St. Helena Parish,2008,10561,6.0,0.056812801818009656,Control
+Louisiana,St. James Parish,2008,21083,5.0,0.023715789972964,Control
+Louisiana,St. John the Baptist Parish,2008,47438,9.0,0.01897213204603904,Control
+Louisiana,St. Landry Parish,2008,91948,16.0,0.01740113977465524,Control
+Louisiana,St. Martin Parish,2008,52114,7.0,0.013432091184710443,Control
+Louisiana,St. Mary Parish,2008,51005,11.0,0.02156651308695226,Control
+Louisiana,St. Tammany Parish,2008,229384,51.0,0.022233460049523944,Control
+Louisiana,Tangipahoa Parish,2008,117417,21.0,0.017884974066787605,Control
+Louisiana,Tensas Parish,2008,5671,3.0,0.05290072297654735,Control
+Louisiana,Terrebonne Parish,2008,109161,14.0,0.0128250932109453,Control
+Louisiana,Union Parish,2008,22664,1.0,0.004412283798093893,Control
+Louisiana,Vermilion Parish,2008,56068,7.0,0.012484839837340372,Control
+Louisiana,Vernon Parish,2008,44857,1.0,0.0022293064627594357,Control
+Louisiana,Washington Parish,2008,45554,9.0,0.019756772182464768,Control
+Louisiana,Webster Parish,2008,40625,6.0,0.014769230769230769,Control
+Louisiana,West Baton Rouge Parish,2008,22629,2.0,0.00883821644792081,Control
+Louisiana,West Carroll Parish,2008,11383,3.0,0.02635509092506369,Control
+Louisiana,West Feliciana Parish,2008,15192,7.0,0.04607688256977357,Control
+Louisiana,Winn Parish,2008,15385,4.0,0.025999350016249593,Control
+Louisiana,Acadia Parish,2009,60095,11.0,0.018304351443547716,Control
+Louisiana,Allen Parish,2009,25636,2.0,0.007801529099703542,Control
+Louisiana,Ascension Parish,2009,104822,13.0,0.012401976684283833,Control
+Louisiana,Assumption Parish,2009,22874,5.0,0.021858879076680948,Control
+Louisiana,Avoyelles Parish,2009,42511,3.0,0.007056997012537931,Control
+Louisiana,Beauregard Parish,2009,35419,8.0,0.022586747226065105,Control
+Louisiana,Bienville Parish,2009,14729,9.0,0.06110394459909023,Control
+Louisiana,Bossier Parish,2009,111492,12.0,0.010763104079216447,Control
+Louisiana,Caddo Parish,2009,253623,24.0,0.009462864172413385,Control
+Louisiana,Calcasieu Parish,2009,187554,27.0,0.014395853994049714,Control
+Louisiana,Caldwell Parish,2009,10439,4.0,0.03831784653702462,Control
+Louisiana,Cameron Parish,2009,6584,0.0,0.0,Control
+Louisiana,Catahoula Parish,2009,10460,2.0,0.019120458891013385,Control
+Louisiana,Claiborne Parish,2009,16118,6.0,0.03722546221615585,Control
+Louisiana,Concordia Parish,2009,18989,1.0,0.005266206751277055,Control
+Louisiana,De Soto Parish,2009,26401,5.0,0.018938676565281618,Control
+Louisiana,East Baton Rouge Parish,2009,434633,29.0,0.006672295937031933,Control
+Louisiana,East Carroll Parish,2009,8102,8.0,0.09874105159219945,Control
+Louisiana,East Feliciana Parish,2009,20970,6.0,0.02861230329041488,Control
+Louisiana,Evangeline Parish,2009,35330,5.0,0.014152278516841211,Control
+Louisiana,Franklin Parish,2009,19807,7.0,0.03534104104609481,Control
+Louisiana,Grant Parish,2009,20164,2.0,0.00991866693116445,Control
+Louisiana,Iberia Parish,2009,75101,7.0,0.009320781347784983,Control
+Louisiana,Iberville Parish,2009,32505,0.0,0.0,Control
+Louisiana,Jackson Parish,2009,15063,5.0,0.03319391887406227,Control
+Louisiana,Jefferson Parish,2009,443342,71.0,0.016014724524182233,Control
+Louisiana,Jefferson Davis Parish,2009,31097,0.0,0.0,Control
+Louisiana,Lafayette Parish,2009,210954,26.0,0.012324961840021995,Control
+Louisiana,Lafourche Parish,2009,93682,1.0,0.001067440917145236,Control
+Louisiana,LaSalle Parish,2009,13964,5.0,0.03580635920939559,Control
+Louisiana,Lincoln Parish,2009,43286,6.0,0.013861294644919836,Control
+Louisiana,Livingston Parish,2009,123326,26.0,0.021082334625302044,Control
+Louisiana,Madison Parish,2009,11385,7.0,0.061484409310496264,Control
+Louisiana,Morehouse Parish,2009,28223,7.0,0.02480246607376962,Control
+Louisiana,Natchitoches Parish,2009,39255,4.0,0.010189784740797351,Control
+Louisiana,Orleans Parish,2009,354850,45.0,0.01268141468226011,Control
+Louisiana,Ouachita Parish,2009,151502,18.0,0.011881031273514541,Control
+Louisiana,Plaquemines Parish,2009,20942,7.0,0.03342565180021011,Control
+Louisiana,Pointe Coupee Parish,2009,22447,6.0,0.026729629794627344,Control
+Louisiana,Rapides Parish,2009,133937,8.0,0.005972957435212077,Control
+Louisiana,Red River Parish,2009,9003,8.0,0.08885926913251138,Control
+Louisiana,Richland Parish,2009,20422,8.0,0.03917344040740378,Control
+Louisiana,Sabine Parish,2009,23733,3.0,0.012640626975097964,Control
+Louisiana,St. Bernard Parish,2009,40655,1.0,0.0024597220514081908,Control
+Louisiana,St. Charles Parish,2009,51611,9.0,0.017438143031524286,Control
+Louisiana,St. Helena Parish,2009,10551,1.0,0.009477774618519572,Control
+Louisiana,St. James Parish,2009,21054,8.0,0.03799753016053956,Control
+Louisiana,St. John the Baptist Parish,2009,47086,9.0,0.019113961687125685,Control
+Louisiana,St. Landry Parish,2009,92326,8.0,0.00866494811862314,Control
+Louisiana,St. Martin Parish,2009,52217,3.0,0.00574525537660149,Control
+Louisiana,St. Mary Parish,2009,50815,12.0,0.023615074289087868,Control
+Louisiana,St. Tammany Parish,2009,231495,36.0,0.015551091816237931,Control
+Louisiana,Tangipahoa Parish,2009,118688,20.0,0.016850903208411972,Control
+Louisiana,Tensas Parish,2009,5609,3.0,0.053485469780709574,Control
+Louisiana,Terrebonne Parish,2009,109291,12.0,0.010979861104757025,Control
+Louisiana,Union Parish,2009,22584,9.0,0.039851222104144525,Control
+Louisiana,Vermilion Parish,2009,56141,9.0,0.01603106464081509,Control
+Louisiana,Vernon Parish,2009,46616,1.0,0.0021451862021623475,Control
+Louisiana,Washington Parish,2009,45669,6.0,0.013138014845956777,Control
+Louisiana,Webster Parish,2009,40544,6.0,0.014798737174427782,Control
+Louisiana,West Baton Rouge Parish,2009,22638,9.0,0.0397561622051418,Control
+Louisiana,West Carroll Parish,2009,11329,0.0,0.0,Control
+Louisiana,West Feliciana Parish,2009,15055,6.0,0.03985386914646297,Control
+Louisiana,Winn Parish,2009,15331,3.0,0.019568195160133063,Control
+Louisiana,Acadia Parish,2010,61876,13.0,0.021009761458400673,Control
+Louisiana,Allen Parish,2010,25704,8.0,0.03112356053532524,Control
+Louisiana,Ascension Parish,2010,107894,5.0,0.004634177989508221,Control
+Louisiana,Assumption Parish,2010,23332,1.0,0.004285959197668438,Control
+Louisiana,Avoyelles Parish,2010,42115,5.0,0.011872254541137363,Control
+Louisiana,Beauregard Parish,2010,35832,0.0,0.0,Control
+Louisiana,Bienville Parish,2010,14307,0.0,0.0,Control
+Louisiana,Bossier Parish,2010,117637,12.0,0.010200872174570925,Control
+Louisiana,Caddo Parish,2010,255652,20.0,0.007823134573560934,Control
+Louisiana,Calcasieu Parish,2010,193023,19.0,0.009843386539427944,Control
+Louisiana,Caldwell Parish,2010,10148,6.0,0.059124950729207724,Control
+Louisiana,Cameron Parish,2010,6915,5.0,0.07230657989877079,Control
+Louisiana,Catahoula Parish,2010,10379,0.0,0.0,Control
+Louisiana,Claiborne Parish,2010,17174,3.0,0.017468265983463373,Control
+Louisiana,Concordia Parish,2010,20840,6.0,0.028790786948176585,Control
+Louisiana,De Soto Parish,2010,26670,0.0,0.0,Control
+Louisiana,East Baton Rouge Parish,2010,440937,31.0,0.00703048281273742,Control
+Louisiana,East Carroll Parish,2010,7737,9.0,0.11632415664986429,Control
+Louisiana,East Feliciana Parish,2010,20150,1.0,0.004962779156327543,Control
+Louisiana,Evangeline Parish,2010,33954,5.0,0.014725805501560935,Control
+Louisiana,Franklin Parish,2010,20810,4.0,0.019221528111484865,Control
+Louisiana,Grant Parish,2010,22346,5.0,0.022375369193591694,Control
+Louisiana,Iberia Parish,2010,72882,0.0,0.0,Control
+Louisiana,Iberville Parish,2010,33389,5.0,0.01497499176375453,Control
+Louisiana,Jackson Parish,2010,16309,2.0,0.012263167576184928,Control
+Louisiana,Jefferson Parish,2010,432618,58.0,0.013406746829766676,Control
+Louisiana,Jefferson Davis Parish,2010,31629,1.0,0.003161655442789845,Control
+Louisiana,Lafayette Parish,2010,222513,30.0,0.013482358334119805,Control
+Louisiana,Lafourche Parish,2010,96693,19.0,0.019649819531920614,Control
+Louisiana,LaSalle Parish,2010,14909,5.0,0.03353678985847475,Control
+Louisiana,Lincoln Parish,2010,46854,1.0,0.0021342894950271054,Control
+Louisiana,Livingston Parish,2010,128351,35.0,0.02726897336210859,Control
+Louisiana,Madison Parish,2010,12107,7.0,0.05781779136037003,Control
+Louisiana,Morehouse Parish,2010,27873,8.0,0.028701610877910524,Control
+Louisiana,Natchitoches Parish,2010,39523,2.0,0.005060344609467905,Control
+Louisiana,Orleans Parish,2010,347789,17.0,0.004888021185258878,Control
+Louisiana,Ouachita Parish,2010,153966,12.0,0.007793928529675383,Control
+Louisiana,Plaquemines Parish,2010,23120,6.0,0.025951557093425604,Control
+Louisiana,Pointe Coupee Parish,2010,22814,0.0,0.0,Control
+Louisiana,Rapides Parish,2010,131742,10.0,0.007590593736242049,Control
+Louisiana,Red River Parish,2010,9099,4.0,0.043960874821408945,Control
+Louisiana,Richland Parish,2010,20757,8.0,0.03854121501180325,Control
+Louisiana,Sabine Parish,2010,24230,3.0,0.012381345439537762,Control
+Louisiana,St. Bernard Parish,2010,36821,1.0,0.0027158415034898562,Control
+Louisiana,St. Charles Parish,2010,52817,7.0,0.013253308593823959,Control
+Louisiana,St. Helena Parish,2010,11206,5.0,0.044618954131715155,Control
+Louisiana,St. James Parish,2010,22051,3.0,0.013604825177996462,Control
+Louisiana,St. John the Baptist Parish,2010,45588,10.0,0.021935597086952707,Control
+Louisiana,St. Landry Parish,2010,83503,9.0,0.01077805587823192,Control
+Louisiana,St. Martin Parish,2010,52263,8.0,0.015307196295658496,Control
+Louisiana,St. Mary Parish,2010,54553,6.0,0.01099847854380144,Control
+Louisiana,St. Tammany Parish,2010,234564,42.0,0.017905560955645366,Control
+Louisiana,Tangipahoa Parish,2010,121463,29.0,0.02387558351102805,Control
+Louisiana,Tensas Parish,2010,5229,6.0,0.11474469305794607,Control
+Louisiana,Terrebonne Parish,2010,111552,22.0,0.01972174411933448,Control
+Louisiana,Union Parish,2010,22842,6.0,0.026267402153926978,Control
+Louisiana,Vermilion Parish,2010,58083,0.0,0.0,Control
+Louisiana,Vernon Parish,2010,52737,0.0,0.0,Control
+Louisiana,Washington Parish,2010,47083,5.0,0.010619544209162543,Control
+Louisiana,Webster Parish,2010,41202,0.0,0.0,Control
+Louisiana,West Baton Rouge Parish,2010,23964,2.0,0.008345852111500584,Control
+Louisiana,West Carroll Parish,2010,11577,0.0,0.0,Control
+Louisiana,West Feliciana Parish,2010,15636,5.0,0.031977487848554614,Control
+Louisiana,Winn Parish,2010,15302,6.0,0.039210560711018166,Control
+Louisiana,Acadia Parish,2011,61872,10.0,0.01616239979312128,Control
+Louisiana,Allen Parish,2011,25740,3.0,0.011655011655011656,Control
+Louisiana,Ascension Parish,2011,110084,11.0,0.00999236946331892,Control
+Louisiana,Assumption Parish,2011,23186,8.0,0.034503579746398685,Control
+Louisiana,Avoyelles Parish,2011,41805,4.0,0.009568233464896544,Control
+Louisiana,Beauregard Parish,2011,36101,7.0,0.019390044597102574,Control
+Louisiana,Bienville Parish,2011,14262,1.0,0.007011639321273314,Control
+Louisiana,Bossier Parish,2011,120122,7.0,0.005827408801052264,Control
+Louisiana,Caddo Parish,2011,257058,26.0,0.010114448879241261,Control
+Louisiana,Calcasieu Parish,2011,193881,16.0,0.008252484771586695,Control
+Louisiana,Caldwell Parish,2011,10123,0.0,0.0,Control
+Louisiana,Cameron Parish,2011,6672,8.0,0.11990407673860912,Control
+Louisiana,Catahoula Parish,2011,10289,0.0,0.0,Control
+Louisiana,Claiborne Parish,2011,16940,2.0,0.011806375442739079,Control
+Louisiana,Concordia Parish,2011,20844,6.0,0.028785261945883708,Control
+Louisiana,De Soto Parish,2011,26782,2.0,0.007467702188036741,Control
+Louisiana,East Baton Rouge Parish,2011,441627,24.0,0.0054344503393134935,Control
+Louisiana,East Carroll Parish,2011,7658,0.0,0.0,Control
+Louisiana,East Feliciana Parish,2011,20079,2.0,0.009960655411126052,Control
+Louisiana,Evangeline Parish,2011,33840,7.0,0.020685579196217493,Control
+Louisiana,Franklin Parish,2011,20774,7.0,0.03369596611148551,Control
+Louisiana,Grant Parish,2011,22397,9.0,0.04018395320801893,Control
+Louisiana,Iberia Parish,2011,73216,5.0,0.006829108391608392,Control
+Louisiana,Iberville Parish,2011,33364,5.0,0.014986212684330416,Control
+Louisiana,Jackson Parish,2011,16362,2.0,0.01222344456667889,Control
+Louisiana,Jefferson Parish,2011,434133,80.0,0.018427532576422434,Control
+Louisiana,Jefferson Davis Parish,2011,31595,2.0,0.006330115524608324,Control
+Louisiana,Lafayette Parish,2011,224898,27.0,0.01200544246725182,Control
+Louisiana,Lafourche Parish,2011,97031,14.0,0.014428378559429461,Control
+Louisiana,LaSalle Parish,2011,14941,9.0,0.06023693193226692,Control
+Louisiana,Lincoln Parish,2011,47068,3.0,0.006373757117362115,Control
+Louisiana,Livingston Parish,2011,129858,33.0,0.025412373515686364,Control
+Louisiana,Madison Parish,2011,11978,5.0,0.04174319585907497,Control
+Louisiana,Morehouse Parish,2011,27482,7.0,0.02547121752419766,Control
+Louisiana,Natchitoches Parish,2011,39385,3.0,0.007617113114129745,Control
+Louisiana,Orleans Parish,2011,360822,40.0,0.011085798537783173,Control
+Louisiana,Ouachita Parish,2011,154654,3.0,0.001939814036494368,Control
+Louisiana,Plaquemines Parish,2011,23588,7.0,0.029676106494827877,Control
+Louisiana,Pointe Coupee Parish,2011,22804,2.0,0.00877039115944571,Control
+Louisiana,Rapides Parish,2011,132019,15.0,0.01136200092410941,Control
+Louisiana,Red River Parish,2011,9082,9.0,0.09909711517286941,Control
+Louisiana,Richland Parish,2011,20887,4.0,0.0191506678795423,Control
+Louisiana,Sabine Parish,2011,24426,1.0,0.004093998198640793,Control
+Louisiana,St. Bernard Parish,2011,39520,3.0,0.0075910931174089065,Control
+Louisiana,St. Charles Parish,2011,52394,7.0,0.013360308432263237,Control
+Louisiana,St. Helena Parish,2011,10967,0.0,0.0,Control
+Louisiana,St. James Parish,2011,21787,8.0,0.036719144443934454,Control
+Louisiana,St. John the Baptist Parish,2011,45065,4.0,0.00887606790191945,Control
+Louisiana,St. Landry Parish,2011,83458,6.0,0.007189244889645091,Control
+Louisiana,St. Martin Parish,2011,52804,4.0,0.007575183698204682,Control
+Louisiana,St. Mary Parish,2011,54199,1.0,0.0018450524917433902,Control
+Louisiana,St. Tammany Parish,2011,236900,39.0,0.01646264246517518,Control
+Louisiana,Tangipahoa Parish,2011,122694,20.0,0.0163007156014149,Control
+Louisiana,Tensas Parish,2011,5091,4.0,0.0785700255352583,Control
+Louisiana,Terrebonne Parish,2011,111690,17.0,0.015220700152207,Control
+Louisiana,Union Parish,2011,22766,1.0,0.004392515154177282,Control
+Louisiana,Vermilion Parish,2011,58198,1.0,0.0017182721055706382,Control
+Louisiana,Vernon Parish,2011,52297,7.0,0.013385089010841922,Control
+Louisiana,Washington Parish,2011,47125,3.0,0.00636604774535809,Control
+Louisiana,Webster Parish,2011,41248,3.0,0.0072730799069045775,Control
+Louisiana,West Baton Rouge Parish,2011,24125,4.0,0.016580310880829015,Control
+Louisiana,West Carroll Parish,2011,11521,6.0,0.05207881260307265,Control
+Louisiana,West Feliciana Parish,2011,15511,3.0,0.019341112758687384,Control
+Louisiana,Winn Parish,2011,15155,9.0,0.059386341141537444,Control
+Louisiana,Acadia Parish,2012,62007,5.0,0.00806360572193462,Control
+Louisiana,Allen Parish,2012,25619,6.0,0.023420117881260003,Control
+Louisiana,Ascension Parish,2012,112238,12.0,0.010691566136246191,Control
+Louisiana,Assumption Parish,2012,23071,7.0,0.030341120887694507,Control
+Louisiana,Avoyelles Parish,2012,41584,5.0,0.012023855328972682,Control
+Louisiana,Beauregard Parish,2012,36346,0.0,0.0,Control
+Louisiana,Bienville Parish,2012,14195,4.0,0.028178936245156744,Control
+Louisiana,Bossier Parish,2012,123177,6.0,0.004871039236221048,Control
+Louisiana,Caddo Parish,2012,257367,14.0,0.005439702836805029,Control
+Louisiana,Calcasieu Parish,2012,194516,22.0,0.011310123588805034,Control
+Louisiana,Caldwell Parish,2012,10040,1.0,0.0099601593625498,Control
+Louisiana,Cameron Parish,2012,6630,6.0,0.09049773755656108,Control
+Louisiana,Catahoula Parish,2012,10243,9.0,0.08786488333496047,Control
+Louisiana,Claiborne Parish,2012,16869,2.0,0.011856067342462506,Control
+Louisiana,Concordia Parish,2012,20502,5.0,0.02438786459857575,Control
+Louisiana,De Soto Parish,2012,27028,5.0,0.018499334023975137,Control
+Louisiana,East Baton Rouge Parish,2012,443075,28.0,0.006319471872707781,Control
+Louisiana,East Carroll Parish,2012,7578,6.0,0.0791765637371338,Control
+Louisiana,East Feliciana Parish,2012,19852,0.0,0.0,Control
+Louisiana,Evangeline Parish,2012,33745,7.0,0.020743813898355314,Control
+Louisiana,Franklin Parish,2012,20580,3.0,0.014577259475218658,Control
+Louisiana,Grant Parish,2012,22402,1.0,0.004463887152932774,Control
+Louisiana,Iberia Parish,2012,73446,3.0,0.004084633608365329,Control
+Louisiana,Iberville Parish,2012,33332,4.0,0.012000480019200769,Control
+Louisiana,Jackson Parish,2012,16280,9.0,0.05528255528255528,Control
+Louisiana,Jefferson Parish,2012,434049,84.0,0.01935265373264309,Control
+Louisiana,Jefferson Davis Parish,2012,31452,6.0,0.01907668828691339,Control
+Louisiana,Lafayette Parish,2012,227554,31.0,0.013623140001933607,Control
+Louisiana,Lafourche Parish,2012,97131,12.0,0.012354449145998703,Control
+Louisiana,LaSalle Parish,2012,14860,9.0,0.06056527590847914,Control
+Louisiana,Lincoln Parish,2012,47039,6.0,0.012755373200960905,Control
+Louisiana,Livingston Parish,2012,131521,24.0,0.01824803643524608,Control
+Louisiana,Madison Parish,2012,12215,1.0,0.008186655751125664,Control
+Louisiana,Morehouse Parish,2012,27378,4.0,0.014610271020527432,Control
+Louisiana,Natchitoches Parish,2012,39341,2.0,0.005083754861340586,Control
+Louisiana,Orleans Parish,2012,369947,65.0,0.017570084363435844,Control
+Louisiana,Ouachita Parish,2012,155265,17.0,0.010949022638714456,Control
+Louisiana,Plaquemines Parish,2012,23836,2.0,0.00839066957543212,Control
+Louisiana,Pointe Coupee Parish,2012,22676,7.0,0.030869641912153818,Control
+Louisiana,Rapides Parish,2012,132022,1.0,0.0007574495159897593,Control
+Louisiana,Red River Parish,2012,9071,3.0,0.0330724286186749,Control
+Louisiana,Richland Parish,2012,20917,7.0,0.033465602141798535,Control
+Louisiana,Sabine Parish,2012,24328,2.0,0.008220979940808944,Control
+Louisiana,St. Bernard Parish,2012,41495,1.0,0.0024099289070972406,Control
+Louisiana,St. Charles Parish,2012,52429,3.0,0.005722024070647924,Control
+Louisiana,St. Helena Parish,2012,10988,2.0,0.018201674554058973,Control
+Louisiana,St. James Parish,2012,21638,6.0,0.027728995286070802,Control
+Louisiana,St. John the Baptist Parish,2012,44716,8.0,0.01789068789694964,Control
+Louisiana,St. Landry Parish,2012,83487,8.0,0.009582330183142286,Control
+Louisiana,St. Martin Parish,2012,52664,3.0,0.005696490961567675,Control
+Louisiana,St. Mary Parish,2012,53583,3.0,0.005598790661217177,Control
+Louisiana,St. Tammany Parish,2012,239154,40.0,0.016725624493004507,Control
+Louisiana,Tangipahoa Parish,2012,123656,3.0,0.0024260852688102476,Control
+Louisiana,Tensas Parish,2012,4998,1.0,0.020008003201280513,Control
+Louisiana,Terrebonne Parish,2012,111762,18.0,0.016105653084232566,Control
+Louisiana,Union Parish,2012,22528,7.0,0.03107244318181818,Control
+Louisiana,Vermilion Parish,2012,58637,8.0,0.013643262786295343,Control
+Louisiana,Vernon Parish,2012,54173,2.0,0.00369187602680302,Control
+Louisiana,Washington Parish,2012,46675,10.0,0.021424745581146223,Control
+Louisiana,Webster Parish,2012,40914,3.0,0.007332453438920663,Control
+Louisiana,West Baton Rouge Parish,2012,24170,0.0,0.0,Control
+Louisiana,West Carroll Parish,2012,11500,9.0,0.0782608695652174,Control
+Louisiana,West Feliciana Parish,2012,15471,1.0,0.00646370628918622,Control
+Louisiana,Winn Parish,2012,15105,3.0,0.019860973187686197,Control
+Louisiana,Acadia Parish,2013,62310,3.0,0.004814636494944632,Control
+Louisiana,Allen Parish,2013,25660,9.0,0.03507404520654715,Control
+Louisiana,Ascension Parish,2013,114665,22.0,0.019186325382636375,Control
+Louisiana,Assumption Parish,2013,23201,8.0,0.034481272358950044,Control
+Louisiana,Avoyelles Parish,2013,41288,1.0,0.002422011238132145,Control
+Louisiana,Beauregard Parish,2013,36281,9.0,0.024806372481464126,Control
+Louisiana,Bienville Parish,2013,13966,3.0,0.021480738937419447,Control
+Louisiana,Bossier Parish,2013,124049,15.0,0.012091995904844053,Control
+Louisiana,Caddo Parish,2013,255248,22.0,0.008619068513759168,Control
+Louisiana,Calcasieu Parish,2013,195550,19.0,0.009716185118895423,Control
+Louisiana,Caldwell Parish,2013,9986,9.0,0.09012617664730622,Control
+Louisiana,Cameron Parish,2013,6711,1.0,0.014900908955446282,Control
+Louisiana,Catahoula Parish,2013,10254,9.0,0.08777062609713282,Control
+Louisiana,Claiborne Parish,2013,16665,3.0,0.018001800180018002,Control
+Louisiana,Concordia Parish,2013,20504,3.0,0.01463129145532579,Control
+Louisiana,De Soto Parish,2013,27096,0.0,0.0,Control
+Louisiana,East Baton Rouge Parish,2013,444345,52.0,0.011702618460880622,Control
+Louisiana,East Carroll Parish,2013,7499,2.0,0.026670222696359516,Control
+Louisiana,East Feliciana Parish,2013,19596,9.0,0.04592774035517452,Control
+Louisiana,Evangeline Parish,2013,33824,6.0,0.017738883632923367,Control
+Louisiana,Franklin Parish,2013,20519,5.0,0.02436765924265315,Control
+Louisiana,Grant Parish,2013,22317,0.0,0.0,Control
+Louisiana,Iberia Parish,2013,73628,19.0,0.025805400119519747,Control
+Louisiana,Iberville Parish,2013,33395,8.0,0.023955681988321605,Control
+Louisiana,Jackson Parish,2013,16150,2.0,0.01238390092879257,Control
+Louisiana,Jefferson Parish,2013,434394,118.0,0.027164279432957177,Control
+Louisiana,Jefferson Davis Parish,2013,31305,0.0,0.0,Control
+Louisiana,Lafayette Parish,2013,231757,26.0,0.01121864711745492,Control
+Louisiana,Lafourche Parish,2013,97235,14.0,0.0143981076772767,Control
+Louisiana,LaSalle Parish,2013,14819,0.0,0.0,Control
+Louisiana,Lincoln Parish,2013,47257,7.0,0.014812620352540365,Control
+Louisiana,Livingston Parish,2013,133726,36.0,0.02692071848406443,Control
+Louisiana,Madison Parish,2013,11912,5.0,0.04197447951645399,Control
+Louisiana,Morehouse Parish,2013,26938,3.0,0.011136684237879575,Control
+Louisiana,Natchitoches Parish,2013,39122,8.0,0.020448852308164206,Control
+Louisiana,Orleans Parish,2013,378863,113.0,0.029826084890844446,Control
+Louisiana,Ouachita Parish,2013,156075,17.0,0.010892199263174756,Control
+Louisiana,Plaquemines Parish,2013,23520,7.0,0.02976190476190476,Control
+Louisiana,Pointe Coupee Parish,2013,22424,3.0,0.013378523011059578,Control
+Louisiana,Rapides Parish,2013,132337,14.0,0.010579051965814549,Control
+Louisiana,Red River Parish,2013,8956,8.0,0.08932559178204555,Control
+Louisiana,Richland Parish,2013,20918,8.0,0.03824457405105651,Control
+Louisiana,Sabine Parish,2013,24264,9.0,0.037091988130563795,Control
+Louisiana,St. Bernard Parish,2013,43446,15.0,0.03452561800856235,Control
+Louisiana,St. Charles Parish,2013,52623,14.0,0.026604336506850616,Control
+Louisiana,St. Helena Parish,2013,10781,8.0,0.07420461923754754,Control
+Louisiana,St. James Parish,2013,21609,8.0,0.03702161136563469,Control
+Louisiana,St. John the Baptist Parish,2013,43565,6.0,0.013772523814989097,Control
+Louisiana,St. Landry Parish,2013,83448,3.0,0.0035950532067874604,Control
+Louisiana,St. Martin Parish,2013,52950,1.0,0.0018885741265344666,Control
+Louisiana,St. Mary Parish,2013,53608,6.0,0.011192359349350842,Control
+Louisiana,St. Tammany Parish,2013,242074,66.0,0.027264390227781588,Control
+Louisiana,Tangipahoa Parish,2013,125550,20.0,0.01592990840302668,Control
+Louisiana,Tensas Parish,2013,4932,9.0,0.18248175182481752,Control
+Louisiana,Terrebonne Parish,2013,112773,22.0,0.019508215618986816,Control
+Louisiana,Union Parish,2013,22460,0.0,0.0,Control
+Louisiana,Vermilion Parish,2013,59286,8.0,0.013493910872718685,Control
+Louisiana,Vernon Parish,2013,52884,6.0,0.011345586566825504,Control
+Louisiana,Washington Parish,2013,46412,7.0,0.015082306300094803,Control
+Louisiana,Webster Parish,2013,40669,1.0,0.002458875310433008,Control
+Louisiana,West Baton Rouge Parish,2013,24682,9.0,0.03646381978769954,Control
+Louisiana,West Carroll Parish,2013,11452,5.0,0.04366049598323437,Control
+Louisiana,West Feliciana Parish,2013,15455,5.0,0.03235198964736331,Control
+Louisiana,Winn Parish,2013,14852,5.0,0.033665499596014004,Control
+Louisiana,Acadia Parish,2014,62681,8.0,0.01276303824125333,Control
+Louisiana,Allen Parish,2014,25710,2.0,0.007779074290159471,Control
+Louisiana,Ascension Parish,2014,117318,15.0,0.012785761775686596,Control
+Louisiana,Assumption Parish,2014,23052,6.0,0.026028110359187923,Control
+Louisiana,Avoyelles Parish,2014,41101,2.0,0.004866061653001143,Control
+Louisiana,Beauregard Parish,2014,36264,5.0,0.013787778513125966,Control
+Louisiana,Bienville Parish,2014,13789,0.0,0.0,Control
+Louisiana,Bossier Parish,2014,124922,7.0,0.005603496581867085,Control
+Louisiana,Caddo Parish,2014,252740,15.0,0.0059349529160402,Control
+Louisiana,Calcasieu Parish,2014,196641,25.0,0.012713523629355017,Control
+Louisiana,Caldwell Parish,2014,9953,1.0,0.010047221943132723,Control
+Louisiana,Cameron Parish,2014,6724,5.0,0.074360499702558,Control
+Louisiana,Catahoula Parish,2014,10133,7.0,0.06908121977696635,Control
+Louisiana,Claiborne Parish,2014,16406,0.0,0.0,Control
+Louisiana,Concordia Parish,2014,20484,9.0,0.043936731107205626,Control
+Louisiana,De Soto Parish,2014,27069,1.0,0.0036942628098562934,Control
+Louisiana,East Baton Rouge Parish,2014,445334,56.0,0.012574831474803181,Control
+Louisiana,East Carroll Parish,2014,7444,4.0,0.05373455131649651,Control
+Louisiana,East Feliciana Parish,2014,19672,9.0,0.045750305002033344,Control
+Louisiana,Evangeline Parish,2014,33759,0.0,0.0,Control
+Louisiana,Franklin Parish,2014,20441,6.0,0.02935277139083215,Control
+Louisiana,Grant Parish,2014,22377,4.0,0.017875497162264827,Control
+Louisiana,Iberia Parish,2014,73518,0.0,0.0,Control
+Louisiana,Iberville Parish,2014,33142,6.0,0.018103916480598635,Control
+Louisiana,Jackson Parish,2014,16013,7.0,0.043714481983388495,Control
+Louisiana,Jefferson Parish,2014,434235,104.0,0.023950165233111102,Control
+Louisiana,Jefferson Davis Parish,2014,31462,6.0,0.019070624880808594,Control
+Louisiana,Lafayette Parish,2014,235999,31.0,0.013135648879868135,Control
+Louisiana,Lafourche Parish,2014,97849,25.0,0.02554957127819395,Control
+Louisiana,LaSalle Parish,2014,14873,7.0,0.04706515161702414,Control
+Louisiana,Lincoln Parish,2014,47227,4.0,0.008469731297774579,Control
+Louisiana,Livingston Parish,2014,135241,29.0,0.021443201396026353,Control
+Louisiana,Madison Parish,2014,11826,6.0,0.050735667174023336,Control
+Louisiana,Morehouse Parish,2014,26654,8.0,0.030014256771966685,Control
+Louisiana,Natchitoches Parish,2014,39131,8.0,0.020444149140067976,Control
+Louisiana,Orleans Parish,2014,384228,104.0,0.027067262146433888,Control
+Louisiana,Ouachita Parish,2014,156383,14.0,0.008952379734370105,Control
+Louisiana,Plaquemines Parish,2014,23323,1.0,0.0042876130857951375,Control
+Louisiana,Pointe Coupee Parish,2014,22309,5.0,0.022412479268456676,Control
+Louisiana,Rapides Parish,2014,132229,14.0,0.010587692563658501,Control
+Louisiana,Red River Parish,2014,8758,4.0,0.04567252797442339,Control
+Louisiana,Richland Parish,2014,20763,1.0,0.004816259692722632,Control
+Louisiana,Sabine Parish,2014,24118,1.0,0.004146280786134837,Control
+Louisiana,St. Bernard Parish,2014,44451,1.0,0.002249668173944343,Control
+Louisiana,St. Charles Parish,2014,52690,6.0,0.011387360030366294,Control
+Louisiana,St. Helena Parish,2014,10527,6.0,0.05699629524080935,Control
+Louisiana,St. James Parish,2014,21518,2.0,0.009294544102611766,Control
+Louisiana,St. John the Baptist Parish,2014,43712,5.0,0.011438506588579795,Control
+Louisiana,St. Landry Parish,2014,83720,1.0,0.0011944577161968467,Control
+Louisiana,St. Martin Parish,2014,53309,2.0,0.0037517117184715527,Control
+Louisiana,St. Mary Parish,2014,53302,9.0,0.01688491989043563,Control
+Louisiana,St. Tammany Parish,2014,245390,63.0,0.025673417824687232,Control
+Louisiana,Tangipahoa Parish,2014,127058,24.0,0.018889011317665946,Control
+Louisiana,Tensas Parish,2014,4852,9.0,0.18549051937345423,Control
+Louisiana,Terrebonne Parish,2014,113553,22.0,0.01937421292260002,Control
+Louisiana,Union Parish,2014,22560,5.0,0.022163120567375887,Control
+Louisiana,Vermilion Parish,2014,59539,9.0,0.015116142360469608,Control
+Louisiana,Vernon Parish,2014,52900,2.0,0.003780718336483932,Control
+Louisiana,Washington Parish,2014,46320,13.0,0.028065630397236616,Control
+Louisiana,Webster Parish,2014,40292,7.0,0.017373175816539264,Control
+Louisiana,West Baton Rouge Parish,2014,25229,8.0,0.03170954060803044,Control
+Louisiana,West Carroll Parish,2014,11526,9.0,0.07808433107756377,Control
+Louisiana,West Feliciana Parish,2014,15372,6.0,0.039032006245121,Control
+Louisiana,Winn Parish,2014,14823,4.0,0.026985090737367604,Control
+Louisiana,Acadia Parish,2015,62696,9.0,0.014354982774020671,Control
+Louisiana,Allen Parish,2015,25630,4.0,0.015606710885680842,Control
+Louisiana,Ascension Parish,2015,119417,16.0,0.013398427359588669,Control
+Louisiana,Assumption Parish,2015,22902,3.0,0.013099292638197537,Control
+Louisiana,Avoyelles Parish,2015,40992,9.0,0.021955503512880562,Control
+Louisiana,Beauregard Parish,2015,36557,8.0,0.021883633777388736,Control
+Louisiana,Bienville Parish,2015,13828,0.0,0.0,Control
+Louisiana,Bossier Parish,2015,125634,9.0,0.007163665886623048,Control
+Louisiana,Caddo Parish,2015,251499,26.0,0.010338013272418577,Control
+Louisiana,Calcasieu Parish,2015,198542,16.0,0.008058748274924197,Control
+Louisiana,Caldwell Parish,2015,10048,8.0,0.07961783439490445,Control
+Louisiana,Cameron Parish,2015,6821,0.0,0.0,Control
+Louisiana,Catahoula Parish,2015,10034,7.0,0.06976280645804266,Control
+Louisiana,Claiborne Parish,2015,16271,9.0,0.05531313379632475,Control
+Louisiana,Concordia Parish,2015,20233,8.0,0.039539366381653736,Control
+Louisiana,De Soto Parish,2015,27112,1.0,0.0036884036588964294,Control
+Louisiana,East Baton Rouge Parish,2015,445776,72.0,0.016151609777107785,Control
+Louisiana,East Carroll Parish,2015,7279,9.0,0.12364335760406649,Control
+Louisiana,East Feliciana Parish,2015,19534,5.0,0.025596396027439336,Control
+Louisiana,Evangeline Parish,2015,33728,5.0,0.014824478178368121,Control
+Louisiana,Franklin Parish,2015,20397,3.0,0.014708045300779526,Control
+Louisiana,Grant Parish,2015,22327,6.0,0.026873292426210418,Control
+Louisiana,Iberia Parish,2015,73548,12.0,0.01631587534671235,Control
+Louisiana,Iberville Parish,2015,33149,3.0,0.009050046758574919,Control
+Louisiana,Jackson Parish,2015,15971,9.0,0.05635213825057917,Control
+Louisiana,Jefferson Parish,2015,435358,116.0,0.02664473835326329,Control
+Louisiana,Jefferson Davis Parish,2015,31449,2.0,0.006359502686889886,Control
+Louisiana,Lafayette Parish,2015,239654,28.0,0.011683510394151568,Control
+Louisiana,Lafourche Parish,2015,98279,12.0,0.01221013644827481,Control
+Louisiana,LaSalle Parish,2015,14975,4.0,0.02671118530884808,Control
+Louisiana,Lincoln Parish,2015,47469,6.0,0.012639828098337863,Control
+Louisiana,Livingston Parish,2015,137202,47.0,0.03425606040728269,Control
+Louisiana,Madison Parish,2015,11560,0.0,0.0,Control
+Louisiana,Morehouse Parish,2015,26307,4.0,0.015205078496217737,Control
+Louisiana,Natchitoches Parish,2015,39018,9.0,0.023066277102875597,Control
+Louisiana,Orleans Parish,2015,390094,96.0,0.02460945310617441,Control
+Louisiana,Ouachita Parish,2015,156916,23.0,0.014657523770679854,Control
+Louisiana,Plaquemines Parish,2015,23462,1.0,0.004262211235188816,Control
+Louisiana,Pointe Coupee Parish,2015,22197,8.0,0.03604090642879668,Control
+Louisiana,Rapides Parish,2015,131821,14.0,0.010620462597006547,Control
+Louisiana,Red River Parish,2015,8710,7.0,0.08036739380022963,Control
+Louisiana,Richland Parish,2015,20552,6.0,0.02919423900350331,Control
+Louisiana,Sabine Parish,2015,24213,5.0,0.020650064015198446,Control
+Louisiana,St. Bernard Parish,2015,45436,7.0,0.015406285764591953,Control
+Louisiana,St. Charles Parish,2015,52587,13.0,0.024720938635023865,Control
+Louisiana,St. Helena Parish,2015,10465,8.0,0.07644529383659819,Control
+Louisiana,St. James Parish,2015,21483,6.0,0.027929060187124703,Control
+Louisiana,St. John the Baptist Parish,2015,43527,8.0,0.018379396696303445,Control
+Louisiana,St. Landry Parish,2015,83693,10.0,0.011948430573644152,Control
+Louisiana,St. Martin Parish,2015,53891,1.0,0.0018555974095860162,Control
+Louisiana,St. Mary Parish,2015,52908,3.0,0.005670220004536176,Control
+Louisiana,St. Tammany Parish,2015,249116,61.0,0.02448658456301482,Control
+Louisiana,Tangipahoa Parish,2015,128774,24.0,0.018637302561075993,Control
+Louisiana,Tensas Parish,2015,4773,3.0,0.06285355122564425,Control
+Louisiana,Terrebonne Parish,2015,113894,35.0,0.030730328199905173,Control
+Louisiana,Union Parish,2015,22490,5.0,0.022232103156958647,Control
+Louisiana,Vermilion Parish,2015,59928,10.0,0.016686690695501268,Control
+Louisiana,Vernon Parish,2015,51535,4.0,0.007761715339089939,Control
+Louisiana,Washington Parish,2015,46365,18.0,0.038822387576835975,Control
+Louisiana,Webster Parish,2015,40067,7.0,0.01747073651633514,Control
+Louisiana,West Baton Rouge Parish,2015,25596,2.0,0.00781372089388967,Control
+Louisiana,West Carroll Parish,2015,11287,8.0,0.07087800124036502,Control
+Louisiana,West Feliciana Parish,2015,15376,8.0,0.05202913631633715,Control
+Louisiana,Winn Parish,2015,14646,3.0,0.020483408439164276,Control
+Nevada,Churchill County,2003,24047,4.0,0.016634091570674095,Control
+Nevada,Clark County,2003,1572924,247.0,0.015703238045830566,Control
+Nevada,Douglas County,2003,43942,4.0,0.009102908379227163,Control
+Nevada,Elko County,2003,43487,2.0,0.004599075585807253,Control
+Nevada,Esmeralda County,2003,813,8.0,0.984009840098401,Control
+Nevada,Eureka County,2003,1447,4.0,0.27643400138217,Control
+Nevada,Humboldt County,2003,16562,6.0,0.036227508754981284,Control
+Nevada,Lander County,2003,4864,7.0,0.14391447368421054,Control
+Nevada,Lincoln County,2003,4205,4.0,0.09512485136741974,Control
+Nevada,Lyon County,2003,39890,9.0,0.022562045625470043,Control
+Nevada,Mineral County,2003,4705,7.0,0.1487778958554729,Control
+Nevada,Nye County,2003,35424,7.0,0.019760614272809396,Control
+Nevada,Pershing County,2003,6369,4.0,0.06280420788192809,Control
+Nevada,Storey County,2003,3512,8.0,0.22779043280182232,Control
+Nevada,Washoe County,2003,371231,59.0,0.015893069274925856,Control
+Nevada,White Pine County,2003,8444,4.0,0.04737091425864519,Control
+Nevada,Carson City,2003,55083,6.0,0.010892652905615162,Control
+Nevada,Churchill County,2004,24117,2.0,0.008292905419413691,Control
+Nevada,Clark County,2004,1646875,280.0,0.01700189753320683,Control
+Nevada,Douglas County,2004,45591,1.0,0.0021934153670680615,Control
+Nevada,Elko County,2004,43569,2.0,0.004590419793890152,Control
+Nevada,Esmeralda County,2004,789,9.0,1.1406844106463878,Control
+Nevada,Eureka County,2004,1395,1.0,0.07168458781362007,Control
+Nevada,Humboldt County,2004,16853,7.0,0.041535631638283985,Control
+Nevada,Lander County,2004,4883,9.0,0.18431292238378047,Control
+Nevada,Lincoln County,2004,4190,3.0,0.07159904534606205,Control
+Nevada,Lyon County,2004,42846,8.0,0.01867152126219484,Control
+Nevada,Mineral County,2004,4827,7.0,0.145017609281127,Control
+Nevada,Nye County,2004,37159,8.0,0.02152910465836002,Control
+Nevada,Pershing County,2004,6332,6.0,0.09475679090334807,Control
+Nevada,Storey County,2004,3672,8.0,0.2178649237472767,Control
+Nevada,Washoe County,2004,381377,45.0,0.01179934815156656,Control
+Nevada,White Pine County,2004,8431,0.0,0.0,Control
+Nevada,Carson City,2004,55797,10.0,0.01792211050773339,Control
+Nevada,Churchill County,2005,24460,5.0,0.02044153720359771,Control
+Nevada,Clark County,2005,1708846,336.0,0.019662392047030568,Control
+Nevada,Douglas County,2005,45731,8.0,0.01749360390107367,Control
+Nevada,Elko County,2005,44428,2.0,0.004501665616278023,Control
+Nevada,Esmeralda County,2005,774,8.0,1.0335917312661498,Control
+Nevada,Eureka County,2005,1373,3.0,0.21849963583394028,Control
+Nevada,Humboldt County,2005,16989,9.0,0.052975454705986226,Control
+Nevada,Lander County,2005,4865,5.0,0.10277492291880781,Control
+Nevada,Lincoln County,2005,4334,6.0,0.1384402399630826,Control
+Nevada,Lyon County,2005,46607,2.0,0.004291200892569786,Control
+Nevada,Mineral County,2005,4794,5.0,0.10429703796412182,Control
+Nevada,Nye County,2005,39857,10.0,0.02508969566199162,Control
+Nevada,Pershing County,2005,6334,6.0,0.0947268708556994,Control
+Nevada,Storey County,2005,4018,9.0,0.22399203583872573,Control
+Nevada,Washoe County,2005,390863,69.0,0.01765324423135472,Control
+Nevada,White Pine County,2005,8800,5.0,0.056818181818181816,Control
+Nevada,Carson City,2005,55731,3.0,0.005383000484470044,Control
+Nevada,Churchill County,2006,24624,6.0,0.024366471734892786,Control
+Nevada,Clark County,2006,1778129,336.0,0.018896266806289082,Control
+Nevada,Douglas County,2006,45661,9.0,0.01971047502244804,Control
+Nevada,Elko County,2006,45710,7.0,0.015313935681470138,Control
+Nevada,Esmeralda County,2006,752,5.0,0.6648936170212766,Control
+Nevada,Eureka County,2006,1460,3.0,0.2054794520547945,Control
+Nevada,Humboldt County,2006,17365,4.0,0.02303484019579614,Control
+Nevada,Lander County,2006,4999,5.0,0.10002000400080016,Control
+Nevada,Lincoln County,2006,4390,2.0,0.04555808656036447,Control
+Nevada,Lyon County,2006,50289,2.0,0.00397701286563662,Control
+Nevada,Mineral County,2006,4761,3.0,0.0630119722747322,Control
+Nevada,Nye County,2006,42335,9.0,0.02125900555096256,Control
+Nevada,Pershing County,2006,6358,0.0,0.0,Control
+Nevada,Storey County,2006,4147,7.0,0.16879672052085845,Control
+Nevada,Washoe County,2006,398236,56.0,0.014062013479444349,Control
+Nevada,White Pine County,2006,9068,5.0,0.05513895015438906,Control
+Nevada,Carson City,2006,55121,0.0,0.0,Control
+Nevada,Churchill County,2007,24733,3.0,0.012129543524845349,Control
+Nevada,Clark County,2007,1838635,374.0,0.020341177014469972,Control
+Nevada,Douglas County,2007,45775,6.0,0.013107591480065538,Control
+Nevada,Elko County,2007,46993,9.0,0.01915178856425425,Control
+Nevada,Esmeralda County,2007,689,2.0,0.29027576197387517,Control
+Nevada,Eureka County,2007,1536,5.0,0.3255208333333333,Control
+Nevada,Humboldt County,2007,17617,9.0,0.0510870182210365,Control
+Nevada,Lander County,2007,5085,9.0,0.17699115044247787,Control
+Nevada,Lincoln County,2007,4455,5.0,0.1122334455667789,Control
+Nevada,Lyon County,2007,52305,5.0,0.009559315553006405,Control
+Nevada,Mineral County,2007,4753,0.0,0.0,Control
+Nevada,Nye County,2007,44067,7.0,0.01588490253477659,Control
+Nevada,Pershing County,2007,6376,5.0,0.07841907151819323,Control
+Nevada,Storey County,2007,4281,0.0,0.0,Control
+Nevada,Washoe County,2007,406335,76.0,0.018703778901645193,Control
+Nevada,White Pine County,2007,9110,7.0,0.07683863885839737,Control
+Nevada,Carson City,2007,55007,0.0,0.0,Control
+Nevada,Churchill County,2008,24808,9.0,0.03627861980006449,Control
+Nevada,Clark County,2008,1879093,359.0,0.01910496180870239,Control
+Nevada,Douglas County,2008,45741,10.0,0.021862224262696486,Control
+Nevada,Elko County,2008,47184,4.0,0.0084774499830451,Control
+Nevada,Esmeralda County,2008,664,4.0,0.6024096385542169,Control
+Nevada,Eureka County,2008,1599,3.0,0.18761726078799248,Control
+Nevada,Humboldt County,2008,17918,6.0,0.03348588012054917,Control
+Nevada,Lander County,2008,5127,3.0,0.058513750731421885,Control
+Nevada,Lincoln County,2008,4643,5.0,0.10768899418479431,Control
+Nevada,Lyon County,2008,52813,5.0,0.00946736598943442,Control
+Nevada,Mineral County,2008,4648,0.0,0.0,Control
+Nevada,Nye County,2008,44175,11.0,0.02490096208262592,Control
+Nevada,Pershing County,2008,6292,0.0,0.0,Control
+Nevada,Storey County,2008,4438,4.0,0.09013068949977468,Control
+Nevada,Washoe County,2008,412219,89.0,0.02159046526239693,Control
+Nevada,White Pine County,2008,9136,9.0,0.09851138353765324,Control
+Nevada,Carson City,2008,55274,6.0,0.010855013206932735,Control
+Nevada,Churchill County,2009,24897,9.0,0.03614893360645861,Control
+Nevada,Clark County,2009,1902834,389.0,0.020443191576354006,Control
+Nevada,Douglas County,2009,45464,9.0,0.01979588245644906,Control
+Nevada,Elko County,2009,47896,8.0,0.016702856188408218,Control
+Nevada,Esmeralda County,2009,626,8.0,1.2779552715654952,Control
+Nevada,Eureka County,2009,1707,0.0,0.0,Control
+Nevada,Humboldt County,2009,18260,7.0,0.038335158817086525,Control
+Nevada,Lander County,2009,5159,0.0,0.0,Control
+Nevada,Lincoln County,2009,4794,9.0,0.18773466833541927,Control
+Nevada,Lyon County,2009,52641,4.0,0.007598639843468019,Control
+Nevada,Mineral County,2009,4662,8.0,0.1716001716001716,Control
+Nevada,Nye County,2009,44234,10.0,0.022607044355021026,Control
+Nevada,Pershing County,2009,6286,7.0,0.111358574610245,Control
+Nevada,Storey County,2009,4441,5.0,0.11258725512272011,Control
+Nevada,Washoe County,2009,414820,82.0,0.019767610047731546,Control
+Nevada,White Pine County,2009,9188,1.0,0.0108837614279495,Control
+Nevada,Carson City,2009,55176,14.0,0.025373350732202406,Control
+Nevada,Churchill County,2010,24816,5.0,0.02014829142488717,Control
+Nevada,Clark County,2010,1952640,387.0,0.019819321533923302,Control
+Nevada,Douglas County,2010,47037,11.0,0.02338584518570487,Control
+Nevada,Elko County,2010,49093,2.0,0.004073900556087426,Control
+Nevada,Esmeralda County,2010,783,7.0,0.8939974457215837,Control
+Nevada,Eureka County,2010,1990,6.0,0.3015075376884422,Control
+Nevada,Humboldt County,2010,16580,8.0,0.04825090470446321,Control
+Nevada,Lander County,2010,5795,9.0,0.15530629853321828,Control
+Nevada,Lincoln County,2010,5351,5.0,0.09344047841524948,Control
+Nevada,Lyon County,2010,52049,12.0,0.023055197986512708,Control
+Nevada,Mineral County,2010,4791,2.0,0.04174493842621582,Control
+Nevada,Nye County,2010,43848,17.0,0.038770297390987044,Control
+Nevada,Pershing County,2010,6734,4.0,0.0594000594000594,Control
+Nevada,Storey County,2010,3997,7.0,0.17513134851138354,Control
+Nevada,Washoe County,2010,421969,98.0,0.02322445487701703,Control
+Nevada,White Pine County,2010,10027,2.0,0.01994614540740002,Control
+Nevada,Carson City,2010,54983,7.0,0.012731207827874071,Control
+Nevada,Churchill County,2011,24607,5.0,0.020319421302881294,Control
+Nevada,Clark County,2011,1962162,449.0,0.022882922001343415,Control
+Nevada,Douglas County,2011,46982,7.0,0.014899323145034268,Control
+Nevada,Elko County,2011,49463,9.0,0.018195418797889332,Control
+Nevada,Esmeralda County,2011,770,2.0,0.2597402597402597,Control
+Nevada,Eureka County,2011,1977,1.0,0.05058168942842691,Control
+Nevada,Humboldt County,2011,16640,8.0,0.04807692307692308,Control
+Nevada,Lander County,2011,5840,6.0,0.10273972602739725,Control
+Nevada,Lincoln County,2011,5269,3.0,0.05693680015183147,Control
+Nevada,Lyon County,2011,51393,1.0,0.001945790282723328,Control
+Nevada,Mineral County,2011,4634,5.0,0.10789814415192059,Control
+Nevada,Nye County,2011,43981,2.0,0.004547418203315068,Control
+Nevada,Pershing County,2011,6609,2.0,0.03026176426085641,Control
+Nevada,Storey County,2011,3905,9.0,0.23047375160051217,Control
+Nevada,Washoe County,2011,424066,111.0,0.02617517084604755,Control
+Nevada,White Pine County,2011,10129,7.0,0.0691085003455425,Control
+Nevada,Carson City,2011,54687,3.0,0.005485764441274891,Control
+Nevada,Churchill County,2012,24267,9.0,0.037087402645568056,Control
+Nevada,Clark County,2012,1989644,419.0,0.021059043728425788,Control
+Nevada,Douglas County,2012,46930,2.0,0.004261666311527808,Control
+Nevada,Elko County,2012,50998,0.0,0.0,Control
+Nevada,Esmeralda County,2012,791,5.0,0.6321112515802781,Control
+Nevada,Eureka County,2012,1991,1.0,0.050226017076845805,Control
+Nevada,Humboldt County,2012,17078,2.0,0.011710973181871413,Control
+Nevada,Lander County,2012,5922,4.0,0.06754474839581223,Control
+Nevada,Lincoln County,2012,5369,7.0,0.1303780964797914,Control
+Nevada,Lyon County,2012,50981,9.0,0.017653635668190112,Control
+Nevada,Mineral County,2012,4663,1.0,0.02144542140253056,Control
+Nevada,Nye County,2012,43604,12.0,0.027520410971470507,Control
+Nevada,Pershing County,2012,6752,0.0,0.0,Control
+Nevada,Storey County,2012,3838,1.0,0.026055237102657634,Control
+Nevada,Washoe County,2012,427490,101.0,0.02362628365575803,Control
+Nevada,White Pine County,2012,10022,9.0,0.08980243464378368,Control
+Nevada,Carson City,2012,54330,7.0,0.012884226026136572,Control
+Nevada,Churchill County,2013,23956,4.0,0.01669727834362999,Control
+Nevada,Clark County,2013,2017798,439.0,0.02175638988640092,Control
+Nevada,Douglas County,2013,46956,4.0,0.00851861316977596,Control
+Nevada,Elko County,2013,52378,6.0,0.011455191110771697,Control
+Nevada,Esmeralda County,2013,847,5.0,0.5903187721369539,Control
+Nevada,Eureka County,2013,2050,7.0,0.34146341463414637,Control
+Nevada,Humboldt County,2013,17365,7.0,0.04031097034264325,Control
+Nevada,Lander County,2013,6064,5.0,0.08245382585751979,Control
+Nevada,Lincoln County,2013,5268,6.0,0.11389521640091116,Control
+Nevada,Lyon County,2013,51114,2.0,0.003912822318738506,Control
+Nevada,Mineral County,2013,4561,4.0,0.08770006577504934,Control
+Nevada,Nye County,2013,42905,9.0,0.020976576156625102,Control
+Nevada,Pershing County,2013,6846,8.0,0.11685655857434998,Control
+Nevada,Storey County,2013,3795,4.0,0.10540184453227931,Control
+Nevada,Washoe County,2013,431255,110.0,0.025506950644050504,Control
+Nevada,White Pine County,2013,10052,5.0,0.04974134500596896,Control
+Nevada,Carson City,2013,53746,7.0,0.013024225058609012,Control
+Nevada,Churchill County,2014,23864,8.0,0.03352329869259135,Control
+Nevada,Clark County,2014,2053929,396.0,0.01928012117264034,Control
+Nevada,Douglas County,2014,47406,6.0,0.012656625743576762,Control
+Nevada,Elko County,2014,52616,0.0,0.0,Control
+Nevada,Esmeralda County,2014,834,9.0,1.079136690647482,Control
+Nevada,Eureka County,2014,1994,5.0,0.25075225677031093,Control
+Nevada,Humboldt County,2014,17230,1.0,0.005803830528148578,Control
+Nevada,Lander County,2014,5980,6.0,0.10033444816053512,Control
+Nevada,Lincoln County,2014,5201,9.0,0.17304364545279755,Control
+Nevada,Lyon County,2014,51359,8.0,0.015576627270780194,Control
+Nevada,Mineral County,2014,4473,5.0,0.11178180192264699,Control
+Nevada,Nye County,2014,42877,7.0,0.01632576906033538,Control
+Nevada,Pershing County,2014,6703,4.0,0.05967477248992988,Control
+Nevada,Storey County,2014,3801,5.0,0.13154433043935806,Control
+Nevada,Washoe County,2014,436515,69.0,0.01580701694099859,Control
+Nevada,White Pine County,2014,10041,3.0,0.02987750224081267,Control
+Nevada,Carson City,2014,54112,10.0,0.01848018923713779,Control
+Nevada,Churchill County,2015,24006,8.0,0.03332500208281263,Control
+Nevada,Clark County,2015,2097832,435.0,0.020735692848617048,Control
+Nevada,Douglas County,2015,47422,5.0,0.010543629539032517,Control
+Nevada,Elko County,2015,51756,4.0,0.007728572532653219,Control
+Nevada,Esmeralda County,2015,847,8.0,0.9445100354191264,Control
+Nevada,Eureka County,2015,2040,0.0,0.0,Control
+Nevada,Humboldt County,2015,17033,4.0,0.023483825515176422,Control
+Nevada,Lander County,2015,5885,6.0,0.10195412064570943,Control
+Nevada,Lincoln County,2015,5135,4.0,0.07789678675754626,Control
+Nevada,Lyon County,2015,51999,0.0,0.0,Control
+Nevada,Mineral County,2015,4423,1.0,0.022609088853719195,Control
+Nevada,Nye County,2015,43008,15.0,0.034877232142857144,Control
+Nevada,Pershing County,2015,6620,7.0,0.10574018126888217,Control
+Nevada,Storey County,2015,3881,7.0,0.18036588508116466,Control
+Nevada,Washoe County,2015,442617,84.0,0.01897803292688713,Control
+Nevada,White Pine County,2015,9875,8.0,0.0810126582278481,Control
+Nevada,Carson City,2015,54152,24.0,0.044319692716797164,Control
