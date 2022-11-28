@@ -27,6 +27,10 @@ fl_agg_death = fl_death_.groupby(['YEAR', 'STNAME', 'CTYNAME'], as_index=False)[
 # merge the two dataframes
 fl_death_pop = pd.merge(fl_pop, fl_agg_death, how='outer', on = ['STNAME', 'CTYNAME', 'YEAR'], indicator=True)
 
+# make sure the number of rows is correct
+assert fl_death_pop.shape[0] == fl_pop.shape[0]
+assert fl_death_pop[fl_death_pop["_merge"] == 'both'].shape[0] == fl_agg_death.shape[0]
+
 # remove the year where we don't have the opoid death data
 min_year = fl_death_['YEAR'].min()
 max_year = fl_death_['YEAR'].max()
@@ -76,6 +80,10 @@ tx_agg_death = tx_death_.groupby(['YEAR', 'STNAME', 'CTYNAME'], as_index=False)[
 # merge the two dataframes
 tx_death_pop = pd.merge(tx_pop, tx_agg_death, how='outer', on = ['STNAME', 'CTYNAME', 'YEAR'], indicator=True)
 
+# make sure the number of rows is correct
+assert tx_death_pop.shape[0] == tx_pop.shape[0]
+assert tx_death_pop[tx_death_pop["_merge"] == 'both'].shape[0] == tx_agg_death.shape[0]
+
 # remove the year where we don't have the opoid death data
 min_year = tx_death_['YEAR'].min()
 max_year = tx_death_['YEAR'].max()
@@ -122,6 +130,10 @@ wa_agg_death = wa_death_.groupby(['YEAR', 'STNAME', 'CTYNAME'], as_index=False)[
 
 # merge the two dataframes
 wa_death_pop = pd.merge(wa_pop, wa_agg_death, how='outer', on = ['STNAME', 'CTYNAME', 'YEAR'], indicator=True)
+
+# make sure the number of rows is correct
+assert wa_death_pop.shape[0] == wa_pop.shape[0]
+assert wa_death_pop[wa_death_pop["_merge"] == 'both'].shape[0] == wa_agg_death.shape[0]
 
 # remove the year where we don't have the opoid death data
 min_year = wa_death_['YEAR'].min()
