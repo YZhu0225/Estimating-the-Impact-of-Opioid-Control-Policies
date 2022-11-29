@@ -4,7 +4,6 @@ import numpy as np
 import statsmodels.formula.api as smf
 import altair as alt
 
-
 ## Load data from the FL shipment cleansed files
 ship_data_load_FL = pd.read_csv('/Users/sukhpreetsahota/Desktop/Duke/Fall 2022/IDS 720.01.F22/Class Project/pds-2022-yellow-team/20_intermediate_files/fl_ship_merge.csv')
 ship_data_load_FL_copy = ship_data_load_FL.copy()
@@ -77,7 +76,7 @@ def get_reg_fit_FL(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
@@ -118,7 +117,7 @@ def get_reg_fit_WA(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
@@ -149,11 +148,11 @@ fit, reg_chart_post_FL = get_reg_fit_FL(
 )
 
 ## Create line post-policy implementation
-line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for FL
 pre_post_FL = reg_chart_pre_FL + reg_chart_post_FL + line_2010
-pre_post_FL.properties(title="Pre-Post Florida Shipment Rate Analysis")
+pre_post_FL.properties(title="Pre-Post Shipment Rate Analysis of Florida")
 
 
 ## Generate Pre-Post Graphs for WA
@@ -172,8 +171,8 @@ fit, reg_chart_post_WA = get_reg_fit_WA(
 )
 
 ## Create line post-policy implementation
-line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for WA
 pre_post_WA = reg_chart_pre_WA + reg_chart_post_WA + line_2012
-pre_post_WA.properties(title="Pre-Post Washington Shipment Rate Analysis")
+pre_post_WA.properties(title="Pre-Post Shipment Rate Analysis of Washington")

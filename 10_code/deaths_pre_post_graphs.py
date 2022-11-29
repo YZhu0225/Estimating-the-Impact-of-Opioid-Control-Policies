@@ -85,11 +85,11 @@ fit, reg_chart_post_FL = get_reg_fit_FL(
 )
 
 ## Create line post-policy implementation
-line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for FL
 pre_post_FL = reg_chart_pre_FL + reg_chart_post_FL + line_2010
-pre_post_FL.properties(title="Pre-Post Florida Mortality Rate Analysis")
+pre_post_FL.properties(title="Pre-Post Mortality Rate Analysis of Florida")
 
 
 ## Load data from the WA and TX deaths cleansed files
@@ -177,11 +177,11 @@ fit, reg_chart_post_WA = get_reg_fit_WA(
 )
 
 ## Create line post-policy implementation
-line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for WA
 pre_post_WA = reg_chart_pre_WA + reg_chart_post_WA + line_2012
-pre_post_WA.properties(title="Pre-Post Washington Mortality Rate Analysis")
+pre_post_WA.properties(title="Pre-Post Mortality Rate Analysis of Washington")
 
 
 ## Transform and Groupby Death Rate by State and Year for TX
@@ -255,8 +255,8 @@ fit, reg_chart_post_TX = get_reg_fit_TX(
 )
 
 ## Create line post-policy implementation
-line_2007 = alt.Chart(pd.DataFrame({'x': [2007]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2007 = alt.Chart(pd.DataFrame({'x': [2007]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for TX
 pre_post_TX = reg_chart_pre_TX + reg_chart_post_TX + line_2007
-pre_post_TX.properties(title="Pre-Post Texas Mortality Rate Analysis")
+pre_post_TX.properties(title="Pre-Post Mortality Rate Analysis of Texas")

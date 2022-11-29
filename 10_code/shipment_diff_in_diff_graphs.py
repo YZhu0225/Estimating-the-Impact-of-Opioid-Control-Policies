@@ -4,7 +4,6 @@ import numpy as np
 import statsmodels.formula.api as smf
 import altair as alt
 
-
 ## Load data from the FL shipment cleansed files
 ship_data_load_FL = pd.read_csv('/Users/sukhpreetsahota/Desktop/Duke/Fall 2022/IDS 720.01.F22/Class Project/pds-2022-yellow-team/20_intermediate_files/fl_ship_merge.csv')
 ship_data_load_FL_copy = ship_data_load_FL.copy()
@@ -54,7 +53,7 @@ def get_reg_fit_FL(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
@@ -85,7 +84,7 @@ fit, reg_chart_post_FL = get_reg_fit_FL(
 )
 
 ## Create line post-policy implementation
-line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for FL
 pre_post_FL = reg_chart_pre_FL + reg_chart_post_FL + line_2010
@@ -128,7 +127,7 @@ def get_reg_fit_FL_ref(data, yvar, xvar, alpha):
     predictions[["ci_low", "ci_high"]] = model_predict.conf_int(alpha=alpha)
 
     # Build chart
-    reg = alt.Chart(predictions).mark_line(color = "teal", opacity=0.2).encode(
+    reg = alt.Chart(predictions).mark_line(color = "grey", opacity=0.3).encode(
         x=alt.X(
             xvar, 
             scale=alt.Scale(zero=False), 
@@ -137,11 +136,11 @@ def get_reg_fit_FL_ref(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
-        .mark_errorband(color = "teal", opacity=0.2)
+        .mark_errorband(color = "grey", opacity=0.3)
         .encode(
             x=xvar,
             y=alt.Y("ci_low", title=""),
@@ -168,7 +167,7 @@ fit, reg_chart_post_FL_ref = get_reg_fit_FL_ref(
 )
 
 ## Create line post-policy implementation
-line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for FL reference states
 pre_post_FL_ref = reg_chart_pre_FL_ref + reg_chart_post_FL_ref + line_2010
@@ -177,7 +176,7 @@ pre_post_FL_ref.properties(title="Pre-Post Florida Reference States Shipment Rat
 
 ## Combine pre-post graphs to create diff-in-diff graph for FL and FL reference states
 diff_in_diff_FL = pre_post_FL + pre_post_FL_ref
-diff_in_diff_FL.properties(title="Diff-in-Diff Florida Shipment Rate Analysis")
+diff_in_diff_FL.properties(title="Diff-in-Diff Shipment Rate Analysis of Florida vs Reference States")
 
 
 ## Load data from the WA shipment cleansed files
@@ -229,7 +228,7 @@ def get_reg_fit_WA(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
@@ -260,7 +259,7 @@ fit, reg_chart_post_WA = get_reg_fit_WA(
 )
 
 ## Create line post-policy implementation
-line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for WA
 pre_post_WA = reg_chart_pre_WA + reg_chart_post_WA + line_2012
@@ -303,7 +302,7 @@ def get_reg_fit_WA_ref(data, yvar, xvar, alpha):
     predictions[["ci_low", "ci_high"]] = model_predict.conf_int(alpha=alpha)
 
     # Build chart
-    reg = alt.Chart(predictions).mark_line(color = "purple", opacity=0.2).encode(
+    reg = alt.Chart(predictions).mark_line(color = "red", opacity=0.2).encode(
         x=alt.X(
             xvar, 
             scale=alt.Scale(zero=False), 
@@ -312,11 +311,11 @@ def get_reg_fit_WA_ref(data, yvar, xvar, alpha):
         y = alt.Y(
             yvar, 
             scale=alt.Scale(zero=False),
-            title = "Opioid Shipment Rate (per 100,000 people)")
+            title = "Opioid Shipments per 100,000 people in Milligrams (MME)")
     )
     ci = (
         alt.Chart(predictions)
-        .mark_errorband(color = "purple", opacity=0.2)
+        .mark_errorband(color = "red", opacity=0.2)
         .encode(
             x=xvar,
             y=alt.Y("ci_low", title=""),
@@ -343,7 +342,7 @@ fit, reg_chart_post_WA_ref = get_reg_fit_WA_ref(
 )
 
 ## Create line post-policy implementation
-line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[5, 5]).encode(x='x')
+line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7], color = "red", strokeWidth=3).encode(x='x')
 
 ## Generate final pre-post graph for WA reference states
 pre_post_WA_ref = reg_chart_pre_WA_ref + reg_chart_post_WA_ref + line_2012
@@ -352,4 +351,4 @@ pre_post_WA_ref.properties(title="Pre-Post Washington Reference States Shipment 
 
 ## Combine pre-post graphs to create diff-in-diff graph for WA and WA reference states
 diff_in_diff_WA = pre_post_WA + pre_post_WA_ref
-diff_in_diff_WA.properties(title="Diff-in-Diff Washington Shipment Rate Analysis")
+diff_in_diff_WA.properties(title="Diff-in-Diff Shipment Rate Analysis of Washington vs Reference States")
