@@ -36,25 +36,38 @@ min_year = fl_death_['YEAR'].min()
 max_year = fl_death_['YEAR'].max()
 fl_death_pop = fl_death_pop[(fl_death_pop['YEAR'] >= min_year) & (fl_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-## We only have missing values for deaths
-
-# use random number 1-10 to fill the missing values
-fl_death_pop['Deaths'] = fl_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert fl_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-fl_death_pop = fl_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 fl_death_pop['Death Rate (%)'] = 100 * fl_death_pop['Deaths'] / fl_death_pop['POPULATION']
 
+# missing values
+fl_death_pop.isna().sum()
+## We only have missing values for deaths
+
+## Use KNN to impute the missing values
+from sklearn.impute import KNNImputer
+
+imputed_fl_death_pop = pd.DataFrame(columns=['YEAR', 'Death Rate (%)', 'POPULATION', 'STNAME'])
+impute_df = fl_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)', 'POPULATION']]
+
+for state in fl_death_pop['STNAME'].unique():
+    X = impute_df.loc[impute_df['STNAME'] == state, ['YEAR', 'Death Rate (%)', 'POPULATION']]
+    imputer = KNNImputer(n_neighbors=3)
+    imputer.fit(X)
+    X_imputed = imputer.transform(X)
+    X_imputed = pd.DataFrame(X_imputed, columns=['YEAR', 'Death Rate (%)', 'POPULATION'])
+    X_imputed['STNAME'] = state
+    imputed_fl_death_pop = pd.concat([imputed_fl_death_pop, X_imputed])
+
+imputed_fl_death_pop = imputed_fl_death_pop.reset_index(drop=True)
+imputed_fl_death_pop = pd.concat([imputed_fl_death_pop, fl_death_pop.loc[:, ['CTYNAME']]], axis=1)
+
+# check if the number of rows is correct
+assert imputed_fl_death_pop.shape[0] == fl_death_pop.shape[0]
+# check whether there is any missing value
+assert imputed_fl_death_pop.isna().sum().sum() == 0
+
 # Add indicator for treatment and control group
 fl_death_pop['Indicator'] = fl_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Florida' else "Control")
-
-# write to csv
-fl_death_pop.to_csv('../20_intermediate_files/florida_death_cleaned.csv', index=False)
 
 
 
@@ -92,23 +105,40 @@ min_year = tx_death_['YEAR'].min()
 max_year = tx_death_['YEAR'].max()
 tx_death_pop = tx_death_pop[(tx_death_pop['YEAR'] >= min_year) & (tx_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-# use random number 1-10 to fill the missing values
-tx_death_pop['Deaths'] = tx_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert tx_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-tx_death_pop = tx_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 tx_death_pop['Death Rate (%)'] = 100 * tx_death_pop['Deaths'] / tx_death_pop['POPULATION']
+
 
 # Add indicator for treatment and control group
 tx_death_pop['Indicator'] = tx_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Texas' else "Control")
 
-# write to csv
-tx_death_pop.to_csv('../20_intermediate_files/texas_death_cleaned.csv', index=False)
+# missing values
+tx_death_pop.isna().sum()
+## We only have missing values for deaths
+
+## Use KNN to impute the missing values
+imputed_tx_death_pop = pd.DataFrame(columns=['YEAR', 'Death Rate (%)', 'POPULATION', 'STNAME'])
+impute_df = tx_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)', 'POPULATION']]
+
+for state in tx_death_pop['STNAME'].unique():
+    X = impute_df.loc[impute_df['STNAME'] == state, ['YEAR', 'Death Rate (%)', 'POPULATION']]
+    imputer = KNNImputer(n_neighbors=3)
+    imputer.fit(X)
+    X_imputed = imputer.transform(X)
+    X_imputed = pd.DataFrame(X_imputed, columns=['YEAR', 'Death Rate (%)', 'POPULATION'])
+    X_imputed['STNAME'] = state
+    imputed_tx_death_pop = pd.concat([imputed_tx_death_pop, X_imputed])
+
+imputed_tx_death_pop = imputed_tx_death_pop.reset_index(drop=True)
+imputed_tx_death_pop = pd.concat([imputed_tx_death_pop, tx_death_pop.loc[:, ['CTYNAME']]], axis=1)
+
+# check if the number of rows is correct
+assert imputed_tx_death_pop.shape[0] == tx_death_pop.shape[0]
+# check whether there is any missing value
+assert imputed_tx_death_pop.isna().sum().sum() == 0
+
+# Add indicator for treatment and control group
+imputed_tx_death_pop['Indicator'] = imputed_tx_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Texas' else "Control")
 
 
 
@@ -146,20 +176,34 @@ min_year = wa_death_['YEAR'].min()
 max_year = wa_death_['YEAR'].max()
 wa_death_pop = wa_death_pop[(wa_death_pop['YEAR'] >= min_year) & (wa_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-# use random number 1-10 to fill the missing values
-wa_death_pop['Deaths'] = wa_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert wa_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-wa_death_pop = wa_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 wa_death_pop['Death Rate (%)'] = 100 * wa_death_pop['Deaths'] / wa_death_pop['POPULATION']
 
+# missing values
+wa_death_pop.isna().sum()
+
+## We only have missing values for deaths
+
+## Use KNN to impute the missing values
+imputed_wa_death_pop = pd.DataFrame(columns=['YEAR', 'Death Rate (%)', 'POPULATION', 'STNAME'])
+impute_df = wa_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)', 'POPULATION']]
+
+for state in wa_death_pop['STNAME'].unique():
+    X = impute_df.loc[impute_df['STNAME'] == state, ['YEAR', 'Death Rate (%)', 'POPULATION']]
+    imputer = KNNImputer(n_neighbors=3)
+    imputer.fit(X)
+    X_imputed = imputer.transform(X)
+    X_imputed = pd.DataFrame(X_imputed, columns=['YEAR', 'Death Rate (%)', 'POPULATION'])
+    X_imputed['STNAME'] = state
+    imputed_wa_death_pop = pd.concat([imputed_wa_death_pop, X_imputed])
+
+imputed_wa_death_pop = imputed_wa_death_pop.reset_index(drop=True)
+imputed_wa_death_pop = pd.concat([imputed_wa_death_pop, wa_death_pop.loc[:, ['CTYNAME']]], axis=1)
+
+# check if the number of rows is correct
+assert imputed_wa_death_pop.shape[0] == wa_death_pop.shape[0]
+# check whether there is any missing value
+assert imputed_wa_death_pop.isna().sum().sum() == 0
+
 # Add indicator for treatment and control group
 wa_death_pop['Indicator'] = wa_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Washington' else "Control")
-
-# write to csv
-wa_death_pop.to_csv('../20_intermediate_files/washington_death_cleaned.csv', index=False)
