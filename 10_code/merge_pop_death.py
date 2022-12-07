@@ -36,26 +36,26 @@ min_year = fl_death_['YEAR'].min()
 max_year = fl_death_['YEAR'].max()
 fl_death_pop = fl_death_pop[(fl_death_pop['YEAR'] >= min_year) & (fl_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-## We only have missing values for deaths
-
-# use random number 1-10 to fill the missing values
-fl_death_pop['Deaths'] = fl_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert fl_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-fl_death_pop = fl_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 fl_death_pop['Death Rate (%)'] = 100 * fl_death_pop['Deaths'] / fl_death_pop['POPULATION']
 
+# missing values
+fl_death_pop.isna().sum()
+## We only have missing values for deaths
+
+# use each year each state's mean to impute the missing values
+imputed_fl_death_pop = fl_death_pop.loc[:, ['YEAR', 'STNAME', 'CTYNAME', 'Death Rate (%)', 'POPULATION']]
+imputed_fl_death_pop['Death Rate (%)'] = imputed_fl_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)']].groupby(['YEAR', 'STNAME'], as_index=False).transform(lambda x: x.fillna(x.mean()))
+
+# check whether there is any missing value
+assert imputed_fl_death_pop.isna().sum().sum() == 0
+
 # Add indicator for treatment and control group
-fl_death_pop['Indicator'] = fl_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Florida' else "Control")
+imputed_fl_death_pop['Indicator'] = imputed_fl_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Florida' else "Control")
+imputed_fl_death_pop.head()
 
 # write to csv
-fl_death_pop.to_csv('../20_intermediate_files/florida_death_cleaned.csv', index=False)
-
+imputed_fl_death_pop.to_csv('../20_intermediate_files/florida_death_cleaned.csv', index=False)
 
 
 ### Death: Texas and its reference states
@@ -92,23 +92,30 @@ min_year = tx_death_['YEAR'].min()
 max_year = tx_death_['YEAR'].max()
 tx_death_pop = tx_death_pop[(tx_death_pop['YEAR'] >= min_year) & (tx_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-# use random number 1-10 to fill the missing values
-tx_death_pop['Deaths'] = tx_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert tx_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-tx_death_pop = tx_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 tx_death_pop['Death Rate (%)'] = 100 * tx_death_pop['Deaths'] / tx_death_pop['POPULATION']
+
 
 # Add indicator for treatment and control group
 tx_death_pop['Indicator'] = tx_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Texas' else "Control")
 
+# missing values
+tx_death_pop.isna().sum()
+## We only have missing values for deaths
+
+# use each year each state's mean to impute the missing values
+imputed_tx_death_pop = tx_death_pop.loc[:, ['YEAR', 'STNAME', 'CTYNAME', 'Death Rate (%)', 'POPULATION']]
+imputed_tx_death_pop['Death Rate (%)'] = imputed_tx_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)']].groupby(['YEAR', 'STNAME'], as_index=False).transform(lambda x: x.fillna(x.mean()))
+
+# check whether there is any missing value
+assert imputed_tx_death_pop.isna().sum().sum() == 0
+
+# Add indicator for treatment and control group
+imputed_tx_death_pop['Indicator'] = imputed_tx_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Texas' else "Control")
+imputed_tx_death_pop.head()
+
 # write to csv
-tx_death_pop.to_csv('../20_intermediate_files/texas_death_cleaned.csv', index=False)
+imputed_tx_death_pop.to_csv('../20_intermediate_files/texas_death_cleaned.csv', index=False)
 
 
 
@@ -146,20 +153,24 @@ min_year = wa_death_['YEAR'].min()
 max_year = wa_death_['YEAR'].max()
 wa_death_pop = wa_death_pop[(wa_death_pop['YEAR'] >= min_year) & (wa_death_pop['YEAR'] <= max_year)].reset_index(drop=True)
 
-# use random number 1-10 to fill the missing values
-wa_death_pop['Deaths'] = wa_death_pop['Deaths'].apply(lambda x: np.random.randint(0, 10) if np.isnan(x) else x)
-
-# check whether there is any missing value
-assert wa_death_pop.isna().sum().sum() == 0
-
-# drop useless column
-wa_death_pop = wa_death_pop.drop(columns=['_merge'])
-
 # Calculate the death rate
 wa_death_pop['Death Rate (%)'] = 100 * wa_death_pop['Deaths'] / wa_death_pop['POPULATION']
 
+# missing values
+wa_death_pop.isna().sum()
+
+## We only have missing values for deaths
+
+# use each year each state's mean to impute the missing values
+imputed_wa_death_pop = wa_death_pop.loc[:, ['YEAR', 'STNAME', 'CTYNAME', 'Death Rate (%)', 'POPULATION']]
+imputed_wa_death_pop['Death Rate (%)'] = imputed_wa_death_pop.loc[:, ['YEAR', 'STNAME', 'Death Rate (%)']].groupby(['YEAR', 'STNAME'], as_index=False).transform(lambda x: x.fillna(x.mean()))
+
+# check whether there is any missing value
+assert imputed_wa_death_pop.isna().sum().sum() == 0
+
 # Add indicator for treatment and control group
-wa_death_pop['Indicator'] = wa_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Washington' else "Control")
+imputed_wa_death_pop['Indicator'] = imputed_wa_death_pop['STNAME'].apply(lambda x: "Treatment" if x == 'Washington' else "Control")
+imputed_wa_death_pop.head()
 
 # write to csv
-wa_death_pop.to_csv('../20_intermediate_files/washington_death_cleaned.csv', index=False)
+imputed_wa_death_pop.to_csv('../20_intermediate_files/washington_death_cleaned.csv', index=False)
