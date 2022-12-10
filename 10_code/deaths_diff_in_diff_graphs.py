@@ -89,7 +89,7 @@ line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for FL
 pre_post_FL = reg_chart_pre_FL + reg_chart_post_FL + line_2010
-pre_post_FL.properties(title="Pre-Post Florida Mortality Rate Analysis")
+pre_post_FL.properties(title="Pre-Post Mortality Rate Analysis of Florida")
 
 
 ## Include indicator for reference states for aggregation
@@ -172,7 +172,7 @@ line_2010 = alt.Chart(pd.DataFrame({'x': [2010]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for FL reference states
 pre_post_FL_ref = reg_chart_pre_FL_ref + reg_chart_post_FL_ref + line_2010
-pre_post_FL_ref.properties(title="Pre-Post Florida Reference States Mortality Rate Analysis")
+pre_post_FL_ref.properties(title="Pre-Post Mortality Rate Analysis of Florida Reference States")
 
 
 ## Combine pre-post graphs to create diff-in-diff graph for FL and FL reference states
@@ -265,7 +265,7 @@ line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for WA
 pre_post_WA = reg_chart_pre_WA + reg_chart_post_WA + line_2012
-pre_post_WA.properties(title="Pre-Post Washington Mortality Rate Analysis")
+pre_post_WA.properties(title="Pre-Post Mortality Rate Analysis of Washington")
 
 
 ## Include indicator for reference states for aggregation
@@ -348,7 +348,7 @@ line_2012 = alt.Chart(pd.DataFrame({'x': [2012]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for WA reference states
 pre_post_WA_ref = reg_chart_pre_WA_ref + reg_chart_post_WA_ref + line_2012
-pre_post_WA_ref.properties(title="Pre-Post Washington Reference States Mortality Rate Analysis")
+pre_post_WA_ref.properties(title="Pre-Post Mortality Rate Analysis of Washington Reference States")
 
 
 ## Combine pre-post graphs to create diff-in-diff graph for WA and WA reference states
@@ -441,7 +441,7 @@ line_2007 = alt.Chart(pd.DataFrame({'x': [2007]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for TX
 pre_post_TX = reg_chart_pre_TX + reg_chart_post_TX + line_2007
-pre_post_TX.properties(title="Pre-Post Texas Mortality Rate Analysis")
+pre_post_TX.properties(title="Pre-Post Mortality Rate Analysis of Texas")
 
 
 ## Include indicator for reference states for aggregation
@@ -524,7 +524,7 @@ line_2007 = alt.Chart(pd.DataFrame({'x': [2007]})).mark_rule(strokeDash=[10, 7],
 
 ## Generate final pre-post graph for FL reference states
 pre_post_TX_ref = reg_chart_pre_TX_ref + reg_chart_post_TX_ref + line_2007
-pre_post_TX_ref.properties(title="Pre-Post Texas Reference States Mortality Rate Analysis")
+pre_post_TX_ref.properties(title="Pre-Post Mortality Rate Analysis of Texas Reference States")
 
 
 ## Combine pre-post graphs to create diff-in-diff graph for FL and FL reference states
