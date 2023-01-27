@@ -1,4 +1,5 @@
-# IDS 720: Final Project Yellow Team - Estimating the Impact of Opioid Control Policies
+# Estimating the Impact of Opioid Control Policies
+IDS 720: Final project_Yellow Team - Suzy Anil, Sukhpreet Sahota, Xianchi Zhang, Yuanjing Zhu
 
 ## Purpose and Motivation
 
